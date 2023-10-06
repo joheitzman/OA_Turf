@@ -1,0 +1,168 @@
+ID,Treatment,Species,Type,Vol_L,Experiment,perhalfDay
+10,Pr,Porites,Dark,15.979,Shikine,-1.048341636
+10,Pr,Porites,Light,15.979,Shikine,3.759389762
+11,Pr,Porites,Dark,15.979,Shikine,-3.94787446
+11,Pr,Porites,Light,15.979,Shikine,2.661715564
+12,Pr,Porites,Dark,15.979,Shikine,-0.325600538
+12,Pr,Porites,Light,15.979,Shikine,1.371981976
+13,Pr,Porites,Dark,15.979,Shikine,-0.258674886
+13,Pr,Porites,Light,15.979,Shikine,4.251106577
+14,OA,Acropora,Dark,15.979,Shikine,1.470050754
+14,OA,Acropora,Light,15.979,Shikine,5.394338194
+15,OA,Acropora,Dark,15.979,Shikine,1.639469491
+15,OA,Acropora,Light,15.979,Shikine,7.389622129
+16,OA,Acropora,Dark,15.979,Shikine,-1.705313411
+16,OA,Acropora,Light,15.979,Shikine,2.96100363
+17,OA,Acropora,Dark,15.979,Shikine,-3.484083923
+17,OA,Acropora,Light,15.979,Shikine,3.431276238
+18,OA,Acropora,Dark,15.979,Shikine,-1.101210839
+18,OA,Acropora,Light,15.979,Shikine,1.565264535
+19,OA,Acropora,Dark,15.979,Shikine,-0.445916453
+19,OA,Acropora,Light,15.979,Shikine,1.839372802
+1,Pr,Acropora,Dark,15.979,Shikine,3.469363665
+1,Pr,Acropora,Light,15.979,Shikine,11.71338138
+20,OA,Porites,Dark,15.979,Shikine,0.164123036
+20,OA,Porites,Light,15.979,Shikine,-5.96653126
+21,OA,Porites,Dark,15.979,Shikine,-1.180946617
+21,OA,Porites,Light,15.979,Shikine,2.223639965
+22,OA,Porites,Dark,15.979,Shikine,-1.738908693
+22,OA,Porites,Light,15.979,Shikine,3.608566055
+23,OA,Porites,Dark,15.979,Shikine,-1.182017648
+23,OA,Porites,Light,15.979,Shikine,3.871298705
+24,OA,Porites,Dark,15.979,Shikine,-0.969217661
+24,OA,Porites,Light,15.979,Shikine,-9.181327305
+25,OA,Porites,Dark,15.979,Shikine,-0.523483572
+25,OA,Porites,Light,15.979,Shikine,4.100350585
+26,OA,Porites,Dark,15.979,Shikine,-2.889916015
+26,OA,Porites,Light,15.979,Shikine,0.293191063
+2,Pr,Acropora,Dark,15.979,Shikine,2.811958258
+2,Pr,Acropora,Light,15.979,Shikine,31.71423099
+3,Pr,Acropora,Dark,15.979,Shikine,0.634064022
+3,Pr,Acropora,Light,15.979,Shikine,10.09063809
+4,Pr,Acropora,Dark,15.979,Shikine,-0.703273859
+4,Pr,Acropora,Light,15.979,Shikine,3.384489455
+5,Pr,Acropora,Dark,15.979,Shikine,0.266163402
+5,Pr,Acropora,Light,15.979,Shikine,18.08288848
+6,Pr,Acropora,Dark,15.979,Shikine,1.800556668
+6,Pr,Acropora,Light,15.979,Shikine,11.76574229
+7,Pr,Porites,Dark,15.979,Shikine,-2.768555416
+7,Pr,Porites,Light,15.979,Shikine,1.474692221
+8,Pr,Porites,Dark,15.979,Shikine,-0.896517429
+8,Pr,Porites,Light,15.979,Shikine,22.0445971
+9,Pr,Porites,Dark,15.979,Shikine,-0.614658677
+9,Pr,Porites,Light,15.979,Shikine,2.473569936
+4A 01,Pr,Acropora,Light,15.979,Shimoda,1.256358213
+4A 02,Pr,Acropora,Light,15.979,Shimoda,1.833268349
+4A 03,OA,Acropora,Light,15.979,Shimoda,-0.340309668
+4A 04,OA,Acropora,Light,15.979,Shimoda,1.012902514
+4A 05,OA,Acropora,Light,15.979,Shimoda,-3.893523922
+4A 06,OA,Acropora,Light,15.979,Shimoda,-2.15342695
+4A 07,Pr,Acropora,Light,15.979,Shimoda,1.079019862
+4A 08,Pr,Acropora,Light,15.979,Shimoda,2.997325275
+4B 01,Pr,Acropora,Light,15.979,Shimoda,2.37007204
+4B 02,Pr,Acropora,Light,15.979,Shimoda,3.139193879
+4B 03,OA,Acropora,Light,15.979,Shimoda,-1.813006046
+4B 04,OA,Acropora,Light,15.979,Shimoda,-1.076243272
+4B 05,Pr,Acropora,Light,15.979,Shimoda,2.505605152
+4B 06,OA,Acropora,Light,15.979,Shimoda,-0.910628565
+4B 07,OA,Acropora,Light,15.979,Shimoda,-9.222259046
+4B 08,Pr,Acropora,Light,15.979,Shimoda,4.776372448
+4C 02,OA,Acropora,Light,15.979,Shimoda,0.699919511
+4C 03,Pr,Acropora,Light,15.979,Shimoda,3.005066867
+4D 02,Pr,Acropora,Light,15.979,Shimoda,7.546327048
+4D 03,OA,Acropora,Light,15.979,Shimoda,-0.445754424
+4A 01,Pr,Porites,Light,15.979,Shimoda,2.206629216
+4A 02,Pr,Porites,Light,15.979,Shimoda,3.14476129
+4A 03,OA,Porites,Light,15.979,Shimoda,1.096355467
+4A 04,OA,Porites,Light,15.979,Shimoda,3.570210069
+4A 05,OA,Porites,Light,15.979,Shimoda,-7.433636398
+4A 06,OA,Porites,Light,15.979,Shimoda,-1.893730501
+4A 07,Pr,Porites,Light,15.979,Shimoda,0.686460986
+4A 08,Pr,Porites,Light,15.979,Shimoda,3.279965276
+4B 01,Pr,Porites,Light,15.979,Shimoda,4.10116067
+4B 02,Pr,Porites,Light,15.979,Shimoda,2.103500553
+4B 03,OA,Porites,Light,15.979,Shimoda,-0.630448264
+4B 04,OA,Porites,Light,15.979,Shimoda,-0.558819352
+4B 05,Pr,Porites,Light,15.979,Shimoda,1.918104335
+4B 06,OA,Porites,Light,15.979,Shimoda,0.220309256
+4B 07,OA,Porites,Light,15.979,Shimoda,-1.979501852
+4B 08,Pr,Porites,Light,15.979,Shimoda,2.549929579
+4C 02,OA,Porites,Light,15.979,Shimoda,4.176141367
+4C 03,Pr,Porites,Light,15.979,Shimoda,3.383427843
+4D 02,Pr,Porites,Light,15.979,Shimoda,8.563343138
+4D 03,OA,Porites,Light,15.979,Shimoda,2.822017678
+4A 01,Pr,Acropora,Dark,15.979,Shimoda,-0.251068225
+4A 02,Pr,Acropora,Dark,15.979,Shimoda,-0.864522358
+4A 03,OA,Acropora,Dark,15.979,Shimoda,-0.263134004
+4A 04,OA,Acropora,Dark,15.979,Shimoda,-1.974533451
+4A 05,OA,Acropora,Dark,15.979,Shimoda,-12.67274355
+4A 06,OA,Acropora,Dark,15.979,Shimoda,-4.189985856
+4A 07,Pr,Acropora,Dark,15.979,Shimoda,-0.629481772
+4A 08,Pr,Acropora,Dark,15.979,Shimoda,-1.282109228
+4B 01,Pr,Acropora,Dark,15.979,Shimoda,-0.173337948
+4B 02,Pr,Acropora,Dark,15.979,Shimoda,-0.296036542
+4B 03,OA,Acropora,Dark,15.979,Shimoda,-5.842387853
+4B 04,OA,Acropora,Dark,15.979,Shimoda,-0.334567309
+4B 05,Pr,Acropora,Dark,15.979,Shimoda,0.084857082
+4B 06,OA,Acropora,Dark,15.979,Shimoda,-0.115994801
+4B 07,OA,Acropora,Dark,15.979,Shimoda,-16.4960143
+4B 08,Pr,Acropora,Dark,15.979,Shimoda,-3.960527079
+4C 02,OA,Acropora,Dark,15.979,Shimoda,-0.872635355
+4C 03,Pr,Acropora,Dark,15.979,Shimoda,1.250849073
+4D 02,Pr,Acropora,Dark,15.979,Shimoda,-0.590998981
+4D 03,OA,Acropora,Dark,15.979,Shimoda,1.266572634
+4A 01,Pr,Porites,Dark,15.979,Shimoda,-1.610370622
+4A 02,Pr,Porites,Dark,15.979,Shimoda,-2.102372867
+4A 03,OA,Porites,Dark,15.979,Shimoda,-4.21831751
+4A 04,OA,Porites,Dark,15.979,Shimoda,-2.205370765
+4A 05,OA,Porites,Dark,15.979,Shimoda,-14.03845064
+4A 06,OA,Porites,Dark,15.979,Shimoda,-5.713628109
+4A 07,Pr,Porites,Dark,15.979,Shimoda,-1.883369484
+4A 08,Pr,Porites,Dark,15.979,Shimoda,-2.476218112
+4B 01,Pr,Porites,Dark,15.979,Shimoda,-2.088049302
+4B 02,Pr,Porites,Dark,15.979,Shimoda,-1.261124402
+4B 03,OA,Porites,Dark,15.979,Shimoda,-1.912322434
+4B 04,OA,Porites,Dark,15.979,Shimoda,-0.686770188
+4B 05,Pr,Porites,Dark,15.979,Shimoda,-1.22755927
+4B 06,OA,Porites,Dark,15.979,Shimoda,-0.452102124
+4B 07,OA,Porites,Dark,15.979,Shimoda,-5.944445541
+4B 08,Pr,Porites,Dark,15.979,Shimoda,-3.638954303
+4C 02,OA,Porites,Dark,15.979,Shimoda,-5.226078631
+4C 03,Pr,Porites,Dark,15.979,Shimoda,-1.105383446
+4D 02,Pr,Porites,Dark,15.979,Shimoda,-4.373574667
+4D 03,OA,Porites,Dark,15.979,Shimoda,-1.07067914
+1A,OA,Acropora,Light,3.5,Sesoko,-3.082223714
+1A,OA,Acropora,Dark,3.5,Sesoko,-1.504410857
+1A,OA,Porites,Dark,3.5,Sesoko,-10.41892286
+1A,OA,Porites,Light,3.5,Sesoko,7.791333143
+1B,Pr,Acropora,Light,3.5,Sesoko,0.750206286
+1B,Pr,Acropora,Dark,3.5,Sesoko,-20.32264457
+1B,Pr,Porites,Dark,3.5,Sesoko,-17.49864486
+1B,Pr,Porites,Light,3.5,Sesoko,26.09268943
+1C,OA,Acropora,Light,3.5,Sesoko,-19.66375486
+1D,Pr,Porites,Dark,3.5,Sesoko,-11.59398143
+1D,Pr,Porites,Light,3.5,Sesoko,12.00418457
+1E,OA,Acropora,Light,3.5,Sesoko,6.052614
+1E,OA,Acropora,Dark,3.5,Sesoko,1.145902
+1E,OA,Porites,Dark,3.5,Sesoko,-9.128167429
+1E,OA,Porites,Light,3.5,Sesoko,15.96100457
+2A,Pr,Acropora,Light,3.5,Sesoko,2.161186286
+2A,Pr,Acropora,Dark,3.5,Sesoko,-8.208937143
+2A,Pr,Porites,Dark,3.5,Sesoko,1.772816286
+2A,Pr,Porites,Light,3.5,Sesoko,29.88192686
+2B,Pr,Acropora,Light,3.5,Sesoko,5.180956
+2B,Pr,Acropora,Dark,3.5,Sesoko,8.919836286
+2B,Pr,Porites,Dark,3.5,Sesoko,6.327502571
+2B,Pr,Porites,Light,3.5,Sesoko,11.90360943
+2C,Pr,Acropora,Light,3.5,Sesoko,7.082686286
+2C,Pr,Acropora,Dark,3.5,Sesoko,3.68205
+2C,Pr,Porites,Dark,3.5,Sesoko,-0.123260286
+2C,Pr,Porites,Light,3.5,Sesoko,14.74013914
+2D,OA,Acropora,Light,3.5,Sesoko,-0.905756286
+2D,OA,Acropora,Dark,3.5,Sesoko,5.084053429
+2D,OA,Porites,Dark,3.5,Sesoko,-13.97888657
+2D,OA,Porites,Light,3.5,Sesoko,2.951865714
+2E,OA,Acropora,Light,3.5,Sesoko,-13.13393629
+2E,OA,Acropora,Dark,3.5,Sesoko,5.818266286
+2E,OA,Porites,Dark,3.5,Sesoko,-20.25782629
+2E,OA,Porites,Light,3.5,Sesoko,11.80614429

@@ -1,0 +1,3115 @@
+Sensor,Site,Date_Time,light,temp,mv,pH
+DEFI2-L,OA_Shallow,2022-05-30 9:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 9:15,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 9:30,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 9:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 10:00,1.8,,,
+DEFI2-L,OA_Shallow,2022-05-30 10:15,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 10:30,1,,,
+DEFI2-L,OA_Shallow,2022-05-30 10:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 11:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 11:15,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 11:30,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-30 11:45,1.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 12:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 12:15,12.6,,,
+DEFI2-L,OA_Shallow,2022-05-30 12:30,257.3,,,
+DEFI2-L,OA_Shallow,2022-05-30 12:45,11.4,,,
+DEFI2-L,OA_Shallow,2022-05-30 13:00,343.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 13:15,464.3,,,
+DEFI2-L,OA_Shallow,2022-05-30 13:30,574.9,,,
+DEFI2-L,OA_Shallow,2022-05-30 13:45,632.3,,,
+DEFI2-L,OA_Shallow,2022-05-30 14:00,459.9,,,
+DEFI2-L,OA_Shallow,2022-05-30 14:15,346.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 14:30,197.4,,,
+DEFI2-L,OA_Shallow,2022-05-30 14:45,312.6,,,
+DEFI2-L,OA_Shallow,2022-05-30 15:00,238.9,,,
+DEFI2-L,OA_Shallow,2022-05-30 15:15,85.8,,,
+DEFI2-L,OA_Shallow,2022-05-30 15:30,90.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 15:45,87.7,,,
+DEFI2-L,OA_Shallow,2022-05-30 16:00,89.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 16:15,74.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 16:30,94.9,,,
+DEFI2-L,OA_Shallow,2022-05-30 16:45,100.8,,,
+DEFI2-L,OA_Shallow,2022-05-30 17:00,90.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 17:15,65.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 17:30,58.7,,,
+DEFI2-L,OA_Shallow,2022-05-30 17:45,45.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 18:00,25,,,
+DEFI2-L,OA_Shallow,2022-05-30 18:15,19.4,,,
+DEFI2-L,OA_Shallow,2022-05-30 18:30,6.9,,,
+DEFI2-L,OA_Shallow,2022-05-30 18:45,3.5,,,
+DEFI2-L,OA_Shallow,2022-05-30 19:00,1.6,,,
+DEFI2-L,OA_Shallow,2022-05-30 19:15,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 19:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 19:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 20:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 20:15,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 20:30,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 20:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 21:00,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 21:15,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 21:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 21:45,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 22:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 22:15,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-30 22:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 22:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-30 23:00,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 23:15,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 23:30,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-30 23:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 0:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 0:15,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 0:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 0:45,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 1:00,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 1:15,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 1:30,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 1:45,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 2:00,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 2:15,1.4,,,
+DEFI2-L,OA_Shallow,2022-05-31 2:30,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 2:45,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 3:00,1,,,
+DEFI2-L,OA_Shallow,2022-05-31 3:15,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 3:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 3:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 4:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 4:15,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 4:30,1.9,,,
+DEFI2-L,OA_Shallow,2022-05-31 4:45,4.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 5:00,6.9,,,
+DEFI2-L,OA_Shallow,2022-05-31 5:15,11.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 5:30,16.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 5:45,9.4,,,
+DEFI2-L,OA_Shallow,2022-05-31 6:00,13.5,,,
+DEFI2-L,OA_Shallow,2022-05-31 6:15,20.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 6:30,37.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 6:45,87.4,,,
+DEFI2-L,OA_Shallow,2022-05-31 7:00,65.9,,,
+DEFI2-L,OA_Shallow,2022-05-31 7:15,87.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 7:30,75.6,,,
+DEFI2-L,OA_Shallow,2022-05-31 7:45,105.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 8:00,109.4,,,
+DEFI2-L,OA_Shallow,2022-05-31 8:15,145.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 8:30,163.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 8:45,205.6,,,
+DEFI2-L,OA_Shallow,2022-05-31 9:00,174.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 9:15,153.6,,,
+DEFI2-L,OA_Shallow,2022-05-31 9:30,251,,,
+DEFI2-L,OA_Shallow,2022-05-31 9:45,354.5,,,
+DEFI2-L,OA_Shallow,2022-05-31 10:00,107.4,,,
+DEFI2-L,OA_Shallow,2022-05-31 10:15,102.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 10:30,65.9,,,
+DEFI2-L,OA_Shallow,2022-05-31 10:45,104.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 11:00,178.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 11:15,154.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 11:30,101.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 11:45,115.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 12:00,122.5,,,
+DEFI2-L,OA_Shallow,2022-05-31 12:15,95.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 12:30,162.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 12:45,126.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 13:00,142.6,,,
+DEFI2-L,OA_Shallow,2022-05-31 13:15,230.9,,,
+DEFI2-L,OA_Shallow,2022-05-31 13:30,149.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 13:45,142.4,,,
+DEFI2-L,OA_Shallow,2022-05-31 14:00,154,,,
+DEFI2-L,OA_Shallow,2022-05-31 14:15,178.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 14:30,189.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 14:45,207.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 15:00,140,,,
+DEFI2-L,OA_Shallow,2022-05-31 15:15,106.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 15:30,62.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 15:45,134.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 16:00,92.8,,,
+DEFI2-L,OA_Shallow,2022-05-31 16:15,101.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 16:30,76,,,
+DEFI2-L,OA_Shallow,2022-05-31 16:45,44.6,,,
+DEFI2-L,OA_Shallow,2022-05-31 17:00,29.5,,,
+DEFI2-L,OA_Shallow,2022-05-31 17:15,28.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 17:30,16,,,
+DEFI2-L,OA_Shallow,2022-05-31 17:45,14.5,,,
+DEFI2-L,OA_Shallow,2022-05-31 18:00,9.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 18:15,12.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 18:30,9.6,,,
+DEFI2-L,OA_Shallow,2022-05-31 18:45,3.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 19:00,1.7,,,
+DEFI2-L,OA_Shallow,2022-05-31 19:15,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 19:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 19:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 20:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 20:15,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 20:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 20:45,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 21:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 21:15,1.1,,,
+DEFI2-L,OA_Shallow,2022-05-31 21:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 21:45,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 22:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 22:15,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 22:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 22:45,1.3,,,
+DEFI2-L,OA_Shallow,2022-05-31 23:00,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 23:15,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 23:30,1.2,,,
+DEFI2-L,OA_Shallow,2022-05-31 23:45,1.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 9:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 9:15,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 9:30,0,,,
+DEFI2-L,Control_Shallow,2022-05-30 9:45,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 10:00,0.6,,,
+DEFI2-L,Control_Shallow,2022-05-30 10:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 10:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 10:45,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-30 11:00,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-30 11:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 11:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 11:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 12:00,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-30 12:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 12:30,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 12:45,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 13:00,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 13:15,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-30 13:30,0.4,,,
+DEFI2-L,Control_Shallow,2022-05-30 13:45,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-30 14:00,1.7,,,
+DEFI2-L,Control_Shallow,2022-05-30 14:15,3.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 14:30,5.7,,,
+DEFI2-L,Control_Shallow,2022-05-30 14:45,7.9,,,
+DEFI2-L,Control_Shallow,2022-05-30 15:00,2,,,
+DEFI2-L,Control_Shallow,2022-05-30 15:15,10.8,,,
+DEFI2-L,Control_Shallow,2022-05-30 15:30,0.4,,,
+DEFI2-L,Control_Shallow,2022-05-30 15:45,161.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 16:00,135.5,,,
+DEFI2-L,Control_Shallow,2022-05-30 16:15,111.6,,,
+DEFI2-L,Control_Shallow,2022-05-30 16:30,117.7,,,
+DEFI2-L,Control_Shallow,2022-05-30 16:45,116.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 17:00,114,,,
+DEFI2-L,Control_Shallow,2022-05-30 17:15,87.7,,,
+DEFI2-L,Control_Shallow,2022-05-30 17:30,79.9,,,
+DEFI2-L,Control_Shallow,2022-05-30 17:45,57.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 18:00,27.8,,,
+DEFI2-L,Control_Shallow,2022-05-30 18:15,19,,,
+DEFI2-L,Control_Shallow,2022-05-30 18:30,6.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 18:45,2.4,,,
+DEFI2-L,Control_Shallow,2022-05-30 19:00,0.7,,,
+DEFI2-L,Control_Shallow,2022-05-30 19:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 19:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 19:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 20:00,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 20:15,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 20:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 20:45,0.4,,,
+DEFI2-L,Control_Shallow,2022-05-30 21:00,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 21:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 21:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 21:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 22:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 22:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 22:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 22:45,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-30 23:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-30 23:15,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 23:30,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-30 23:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 0:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 0:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 0:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 0:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 1:00,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 1:15,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 1:30,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 1:45,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 2:00,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 2:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 2:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 2:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 3:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 3:15,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 3:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 3:45,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 4:00,0.4,,,
+DEFI2-L,Control_Shallow,2022-05-31 4:15,0.4,,,
+DEFI2-L,Control_Shallow,2022-05-31 4:30,1.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 4:45,3.8,,,
+DEFI2-L,Control_Shallow,2022-05-31 5:00,6,,,
+DEFI2-L,Control_Shallow,2022-05-31 5:15,11.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 5:30,16.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 5:45,9.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 6:00,12.4,,,
+DEFI2-L,Control_Shallow,2022-05-31 6:15,18.4,,,
+DEFI2-L,Control_Shallow,2022-05-31 6:30,33.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 6:45,81.8,,,
+DEFI2-L,Control_Shallow,2022-05-31 7:00,72.7,,,
+DEFI2-L,Control_Shallow,2022-05-31 7:15,80.9,,,
+DEFI2-L,Control_Shallow,2022-05-31 7:30,80.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 7:45,105.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 8:00,119.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 8:15,162.7,,,
+DEFI2-L,Control_Shallow,2022-05-31 8:30,175.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 8:45,215.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 9:00,189.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 9:15,155.8,,,
+DEFI2-L,Control_Shallow,2022-05-31 9:30,239,,,
+DEFI2-L,Control_Shallow,2022-05-31 9:45,266.9,,,
+DEFI2-L,Control_Shallow,2022-05-31 10:00,107.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 10:15,108.6,,,
+DEFI2-L,Control_Shallow,2022-05-31 10:30,75,,,
+DEFI2-L,Control_Shallow,2022-05-31 10:45,101.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 11:00,192.4,,,
+DEFI2-L,Control_Shallow,2022-05-31 11:15,158.9,,,
+DEFI2-L,Control_Shallow,2022-05-31 11:30,116.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 11:45,130,,,
+DEFI2-L,Control_Shallow,2022-05-31 12:00,137.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 12:15,102.8,,,
+DEFI2-L,Control_Shallow,2022-05-31 12:30,188.6,,,
+DEFI2-L,Control_Shallow,2022-05-31 12:45,148.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 13:00,158.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 13:15,192.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 13:30,179.8,,,
+DEFI2-L,Control_Shallow,2022-05-31 13:45,130,,,
+DEFI2-L,Control_Shallow,2022-05-31 14:00,136.7,,,
+DEFI2-L,Control_Shallow,2022-05-31 14:15,183.7,,,
+DEFI2-L,Control_Shallow,2022-05-31 14:30,248.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 14:45,236.6,,,
+DEFI2-L,Control_Shallow,2022-05-31 15:00,158.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 15:15,137,,,
+DEFI2-L,Control_Shallow,2022-05-31 15:30,65.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 15:45,129.6,,,
+DEFI2-L,Control_Shallow,2022-05-31 16:00,74.7,,,
+DEFI2-L,Control_Shallow,2022-05-31 16:15,101.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 16:30,76.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 16:45,46.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 17:00,31.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 17:15,26.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 17:30,14.6,,,
+DEFI2-L,Control_Shallow,2022-05-31 17:45,13.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 18:00,9.5,,,
+DEFI2-L,Control_Shallow,2022-05-31 18:15,10.8,,,
+DEFI2-L,Control_Shallow,2022-05-31 18:30,9.4,,,
+DEFI2-L,Control_Shallow,2022-05-31 18:45,2.6,,,
+DEFI2-L,Control_Shallow,2022-05-31 19:00,1,,,
+DEFI2-L,Control_Shallow,2022-05-31 19:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 19:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 19:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 20:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 20:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 20:30,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 20:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 21:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 21:15,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 21:30,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 21:45,0.1,,,
+DEFI2-L,Control_Shallow,2022-05-31 22:00,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 22:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 22:30,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 22:45,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 23:00,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 23:15,0.2,,,
+DEFI2-L,Control_Shallow,2022-05-31 23:30,0.3,,,
+DEFI2-L,Control_Shallow,2022-05-31 23:45,0.3,,,
+HOBO pH logger,OA_Shallow,11/1/2021 18:00,,24.63,-70.22,7.94
+HOBO pH logger,OA_Shallow,11/1/2021 18:15,,24.61,-71.1,7.96
+HOBO pH logger,OA_Shallow,11/1/2021 18:30,,24.63,-70.5,7.94
+HOBO pH logger,OA_Shallow,11/1/2021 18:45,,24.68,-66.31,7.86
+HOBO pH logger,OA_Shallow,11/1/2021 19:00,,24.7,-63.31,7.81
+HOBO pH logger,OA_Shallow,11/1/2021 19:15,,24.75,-61.74,7.78
+HOBO pH logger,OA_Shallow,11/1/2021 19:30,,24.8,-65.49,7.85
+HOBO pH logger,OA_Shallow,11/1/2021 19:45,,24.8,-69.33,7.92
+HOBO pH logger,OA_Shallow,11/1/2021 20:00,,24.8,-65.81,7.86
+HOBO pH logger,OA_Shallow,11/1/2021 20:15,,24.85,-62.06,7.78
+HOBO pH logger,OA_Shallow,11/1/2021 20:30,,24.82,-64.28,7.83
+HOBO pH logger,OA_Shallow,11/1/2021 20:45,,24.75,-70.05,7.94
+HOBO pH logger,OA_Shallow,11/1/2021 21:00,,24.77,-67.99,7.9
+HOBO pH logger,OA_Shallow,11/1/2021 21:15,,24.75,-70.49,7.94
+HOBO pH logger,OA_Shallow,11/1/2021 21:30,,24.75,-69.06,7.92
+HOBO pH logger,OA_Shallow,11/1/2021 21:45,,24.82,-66.03,7.86
+HOBO pH logger,OA_Shallow,11/1/2021 22:00,,24.7,-70.85,7.95
+HOBO pH logger,OA_Shallow,11/1/2021 22:15,,24.73,-69.55,7.93
+HOBO pH logger,OA_Shallow,11/1/2021 22:30,,24.65,-69.21,7.92
+HOBO pH logger,OA_Shallow,11/1/2021 22:45,,24.61,-71.81,7.97
+HOBO pH logger,OA_Shallow,11/1/2021 23:00,,24.61,-71.38,7.96
+HOBO pH logger,OA_Shallow,11/1/2021 23:15,,24.61,-71.27,7.96
+HOBO pH logger,OA_Shallow,11/1/2021 23:30,,24.61,-71.1,7.96
+HOBO pH logger,OA_Shallow,11/1/2021 23:45,,24.61,-71.71,7.97
+HOBO pH logger,OA_Shallow,11/2/2021 0:00,,24.48,-72.5,7.98
+HOBO pH logger,OA_Shallow,11/2/2021 0:15,,24.51,-72.1,7.97
+HOBO pH logger,OA_Shallow,11/2/2021 0:30,,24.48,-72.16,7.98
+HOBO pH logger,OA_Shallow,11/2/2021 0:45,,24.46,-71.52,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 1:00,,24.48,-71.14,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 1:15,,24.48,-71.02,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 1:30,,24.51,-70.72,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 1:45,,24.51,-70.52,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 2:00,,24.51,-70.75,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 2:15,,24.53,-70.67,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 2:30,,24.53,-70.47,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 2:45,,24.58,-70.89,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 3:00,,24.61,-71.91,7.97
+HOBO pH logger,OA_Shallow,11/2/2021 3:15,,24.65,-73.49,8
+HOBO pH logger,OA_Shallow,11/2/2021 3:30,,24.68,-72.96,7.99
+HOBO pH logger,OA_Shallow,11/2/2021 3:45,,24.68,-71.38,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 4:00,,24.7,-70.91,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 4:15,,24.7,-70.91,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 4:30,,24.73,-71.19,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 4:45,,24.7,-65.22,7.84
+HOBO pH logger,OA_Shallow,11/2/2021 5:00,,24.75,-66.6,7.87
+HOBO pH logger,OA_Shallow,11/2/2021 5:15,,24.75,-61.16,7.77
+HOBO pH logger,OA_Shallow,11/2/2021 5:30,,24.77,-66.85,7.87
+HOBO pH logger,OA_Shallow,11/2/2021 5:45,,24.73,-70.77,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 6:00,,24.73,-70.21,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 6:15,,24.73,-69.78,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 6:30,,24.77,-68.83,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 6:45,,24.87,-67.81,7.89
+HOBO pH logger,OA_Shallow,11/2/2021 7:00,,24.9,-67.38,7.88
+HOBO pH logger,OA_Shallow,11/2/2021 7:15,,24.9,-68.5,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 7:30,,24.9,-67.78,7.89
+HOBO pH logger,OA_Shallow,11/2/2021 7:45,,24.82,-68.67,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 8:00,,24.82,-69.75,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 8:15,,24.77,-70.21,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 8:30,,24.73,-70.19,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 8:45,,24.75,-69.53,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 9:00,,24.75,-69.52,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 9:15,,24.75,-68.83,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 9:30,,24.68,-69.11,7.92
+HOBO pH logger,OA_Shallow,11/2/2021 9:45,,24.73,-68.58,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 10:00,,24.68,-70.16,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 10:15,,24.68,-69.78,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 10:30,,24.68,-68.27,7.9
+HOBO pH logger,OA_Shallow,11/2/2021 10:45,,24.7,-68.22,7.9
+HOBO pH logger,OA_Shallow,11/2/2021 11:00,,24.73,-68.39,7.9
+HOBO pH logger,OA_Shallow,11/2/2021 11:15,,24.65,-69.88,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 11:30,,24.65,-70,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 11:45,,24.63,-70.53,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 12:00,,24.63,-70.97,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 12:15,,24.65,-71.05,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 12:30,,24.63,-71.42,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 12:45,,24.65,-71.17,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 13:00,,24.7,-70.85,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 13:15,,24.68,-70.35,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 13:30,,24.63,-72.52,7.98
+HOBO pH logger,OA_Shallow,11/2/2021 13:45,,24.7,-71.89,7.97
+HOBO pH logger,OA_Shallow,11/2/2021 14:00,,24.75,-69.85,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 14:15,,24.77,-71.13,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 14:30,,24.8,-69.38,7.92
+HOBO pH logger,OA_Shallow,11/2/2021 14:45,,24.8,-69.85,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 15:00,,24.8,-70.25,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 15:15,,24.8,-70,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 15:30,,24.8,-70.17,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 15:45,,24.8,-70.69,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 16:00,,24.8,-69.78,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 16:15,,24.85,-71.3,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 16:30,,24.87,-70.31,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 16:45,,24.9,-69.49,7.92
+HOBO pH logger,OA_Shallow,11/2/2021 17:00,,24.9,-68.8,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 17:15,,24.99,-69.97,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 17:30,,25.11,-72.63,7.98
+HOBO pH logger,OA_Shallow,11/2/2021 17:45,,25.11,-70.19,7.94
+HOBO pH logger,OA_Shallow,11/2/2021 18:00,,25.23,-72.99,7.99
+HOBO pH logger,OA_Shallow,11/2/2021 18:15,,25.21,-71.17,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 18:30,,25.23,-71.61,7.96
+HOBO pH logger,OA_Shallow,11/2/2021 18:45,,25.28,-72.11,7.97
+HOBO pH logger,OA_Shallow,11/2/2021 19:00,,25.31,-69.85,7.93
+HOBO pH logger,OA_Shallow,11/2/2021 19:15,,25.36,-68.16,7.9
+HOBO pH logger,OA_Shallow,11/2/2021 19:30,,25.45,-72.88,7.99
+HOBO pH logger,OA_Shallow,11/2/2021 19:45,,25.48,-70.77,7.95
+HOBO pH logger,OA_Shallow,11/2/2021 20:00,,25.43,-67.53,7.89
+HOBO pH logger,OA_Shallow,11/2/2021 20:15,,25.45,-68.42,7.9
+HOBO pH logger,OA_Shallow,11/2/2021 20:30,,25.48,-65.13,7.84
+HOBO pH logger,OA_Shallow,11/2/2021 20:45,,25.48,-58.11,7.71
+HOBO pH logger,OA_Shallow,11/2/2021 21:00,,25.5,-64.72,7.83
+HOBO pH logger,OA_Shallow,11/2/2021 21:15,,25.5,-68.64,7.91
+HOBO pH logger,OA_Shallow,11/2/2021 21:30,,25.43,-68.13,7.9
+HOBO pH logger,OA_Shallow,11/2/2021 21:45,,25.43,-67.8,7.89
+HOBO pH logger,OA_Shallow,11/2/2021 22:00,,25.43,-67.42,7.88
+HOBO pH logger,OA_Shallow,11/2/2021 22:15,,25.45,-66.47,7.87
+HOBO pH logger,OA_Shallow,11/2/2021 22:30,,25.43,-67.27,7.88
+HOBO pH logger,OA_Shallow,11/2/2021 22:45,,25.45,-66.31,7.86
+HOBO pH logger,OA_Shallow,11/2/2021 23:00,,25.45,-65.94,7.86
+HOBO pH logger,OA_Shallow,11/2/2021 23:15,,25.48,-65.33,7.84
+HOBO pH logger,OA_Shallow,11/2/2021 23:30,,25.48,-65.72,7.85
+HOBO pH logger,OA_Shallow,11/2/2021 23:45,,25.38,-70.31,7.94
+HOBO pH logger,OA_Shallow,11/3/2021 0:00,,25.33,-68.61,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 0:15,,25.33,-70.19,7.94
+HOBO pH logger,OA_Shallow,11/3/2021 0:30,,25.23,-71.94,7.97
+HOBO pH logger,OA_Shallow,11/3/2021 0:45,,25.16,-71.97,7.97
+HOBO pH logger,OA_Shallow,11/3/2021 1:00,,25.19,-71.46,7.96
+HOBO pH logger,OA_Shallow,11/3/2021 1:15,,25.16,-72.02,7.97
+HOBO pH logger,OA_Shallow,11/3/2021 1:30,,25.16,-72.74,7.98
+HOBO pH logger,OA_Shallow,11/3/2021 1:45,,25.16,-72.64,7.98
+HOBO pH logger,OA_Shallow,11/3/2021 2:00,,25.16,-72.44,7.98
+HOBO pH logger,OA_Shallow,11/3/2021 2:15,,24.92,-73.13,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 2:30,,24.87,-73.19,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 2:45,,24.73,-73.08,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 3:00,,24.61,-73.03,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 3:15,,24.63,-73.08,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 3:30,,24.61,-73.14,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 3:45,,24.58,-73.17,8
+HOBO pH logger,OA_Shallow,11/3/2021 4:00,,24.58,-73.1,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 4:15,,24.58,-72.91,7.99
+HOBO pH logger,OA_Shallow,11/3/2021 4:30,,24.61,-72.63,7.98
+HOBO pH logger,OA_Shallow,11/3/2021 4:45,,24.61,-72.25,7.98
+HOBO pH logger,OA_Shallow,11/3/2021 5:00,,24.68,-71.64,7.97
+HOBO pH logger,OA_Shallow,11/3/2021 5:15,,24.75,-70.97,7.95
+HOBO pH logger,OA_Shallow,11/3/2021 5:30,,24.61,-71.16,7.96
+HOBO pH logger,OA_Shallow,11/3/2021 5:45,,24.56,-71.08,7.96
+HOBO pH logger,OA_Shallow,11/3/2021 6:00,,24.56,-71.05,7.95
+HOBO pH logger,OA_Shallow,11/3/2021 6:15,,24.39,-68.3,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 6:30,,24.41,-69.58,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 6:45,,24.56,-67.21,7.88
+HOBO pH logger,OA_Shallow,11/3/2021 7:00,,24.61,-66.42,7.87
+HOBO pH logger,OA_Shallow,11/3/2021 7:15,,24.68,-64.11,7.82
+HOBO pH logger,OA_Shallow,11/3/2021 7:30,,24.7,-63.3,7.81
+HOBO pH logger,OA_Shallow,11/3/2021 7:45,,24.7,-59.99,7.74
+HOBO pH logger,OA_Shallow,11/3/2021 8:00,,24.7,-60.7,7.76
+HOBO pH logger,OA_Shallow,11/3/2021 8:15,,24.8,-53.3,7.62
+HOBO pH logger,OA_Shallow,11/3/2021 8:30,,24.75,-60.72,7.76
+HOBO pH logger,OA_Shallow,11/3/2021 8:45,,24.41,-67.86,7.89
+HOBO pH logger,OA_Shallow,11/3/2021 9:00,,24.46,-68.06,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 9:15,,24.39,-69.5,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 9:30,,24.32,-69.88,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 9:45,,24.46,-66.19,7.86
+HOBO pH logger,OA_Shallow,11/3/2021 10:00,,24.39,-67.6,7.89
+HOBO pH logger,OA_Shallow,11/3/2021 10:15,,24.48,-64.41,7.83
+HOBO pH logger,OA_Shallow,11/3/2021 10:30,,24.46,-66.63,7.87
+HOBO pH logger,OA_Shallow,11/3/2021 10:45,,24.39,-69.11,7.92
+HOBO pH logger,OA_Shallow,11/3/2021 11:00,,24.29,-70.22,7.94
+HOBO pH logger,OA_Shallow,11/3/2021 11:15,,24.32,-69.94,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 11:30,,24.32,-70.19,7.94
+HOBO pH logger,OA_Shallow,11/3/2021 11:45,,24.34,-69.77,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 12:00,,24.44,-65.5,7.85
+HOBO pH logger,OA_Shallow,11/3/2021 12:15,,24.51,-61.97,7.78
+HOBO pH logger,OA_Shallow,11/3/2021 12:30,,24.48,-64.78,7.84
+HOBO pH logger,OA_Shallow,11/3/2021 12:45,,24.61,-54.6,7.64
+HOBO pH logger,OA_Shallow,11/3/2021 13:00,,24.53,-64.97,7.84
+HOBO pH logger,OA_Shallow,11/3/2021 13:15,,24.51,-65.94,7.86
+HOBO pH logger,OA_Shallow,11/3/2021 13:30,,24.46,-66.88,7.88
+HOBO pH logger,OA_Shallow,11/3/2021 13:45,,24.44,-68.05,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 14:00,,24.44,-68.27,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 14:15,,24.44,-68.27,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 14:30,,24.44,-68.55,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 14:45,,24.46,-68.55,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 15:00,,24.44,-68.88,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 15:15,,24.41,-69.64,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 15:30,,24.41,-68.97,7.92
+HOBO pH logger,OA_Shallow,11/3/2021 15:45,,24.41,-69.06,7.92
+HOBO pH logger,OA_Shallow,11/3/2021 16:00,,24.41,-69.44,7.92
+HOBO pH logger,OA_Shallow,11/3/2021 16:15,,24.41,-69.27,7.92
+HOBO pH logger,OA_Shallow,11/3/2021 16:30,,24.46,-68.66,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 16:45,,24.46,-67.36,7.89
+HOBO pH logger,OA_Shallow,11/3/2021 17:00,,24.48,-67.63,7.89
+HOBO pH logger,OA_Shallow,11/3/2021 17:15,,24.53,-68.11,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 17:30,,24.63,-70.69,7.95
+HOBO pH logger,OA_Shallow,11/3/2021 17:45,,24.63,-70.85,7.95
+HOBO pH logger,OA_Shallow,11/3/2021 18:00,,24.63,-68.13,7.9
+HOBO pH logger,OA_Shallow,11/3/2021 18:15,,24.48,-69.58,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 18:30,,24.53,-69.55,7.93
+HOBO pH logger,OA_Shallow,11/3/2021 18:45,,24.56,-64.63,7.83
+HOBO pH logger,OA_Shallow,11/3/2021 19:00,,24.56,-65.74,7.85
+HOBO pH logger,OA_Shallow,11/3/2021 19:15,,24.53,-68.85,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 19:30,,24.53,-66.96,7.88
+HOBO pH logger,OA_Shallow,11/3/2021 19:45,,24.61,-63.89,7.82
+HOBO pH logger,OA_Shallow,11/3/2021 20:00,,24.58,-68.63,7.91
+HOBO pH logger,OA_Shallow,11/3/2021 20:15,,24.58,-67.11,7.88
+HOBO pH logger,OA_Shallow,11/3/2021 20:30,,24.58,-67.05,7.88
+HOBO pH logger,OA_Shallow,11/3/2021 20:45,,24.61,-65.25,7.84
+HOBO pH logger,OA_Shallow,11/3/2021 21:00,,24.63,-64.22,7.83
+HOBO pH logger,OA_Shallow,11/3/2021 21:15,,24.63,-64.16,7.82
+HOBO pH logger,OA_Shallow,11/3/2021 21:30,,24.63,-64.08,7.82
+HOBO pH logger,OA_Shallow,11/3/2021 21:45,,24.68,-63.44,7.81
+HOBO pH logger,OA_Shallow,11/3/2021 22:00,,24.68,-63.21,7.81
+HOBO pH logger,OA_Shallow,11/3/2021 22:15,,24.68,-63.06,7.8
+HOBO pH logger,OA_Shallow,11/3/2021 22:30,,24.7,-61.83,7.78
+HOBO pH logger,OA_Shallow,11/3/2021 22:45,,24.75,-58.22,7.71
+HOBO pH logger,OA_Shallow,11/3/2021 23:00,,24.75,-55.47,7.66
+HOBO pH logger,OA_Shallow,11/3/2021 23:15,,24.75,-59,7.73
+HOBO pH logger,OA_Shallow,11/3/2021 23:30,,24.77,-56.81,7.68
+HOBO pH logger,OA_Shallow,11/3/2021 23:45,,24.75,-58.31,7.71
+HOBO pH logger,OA_Shallow,11/4/2021 0:00,,24.75,-59.14,7.73
+HOBO pH logger,OA_Shallow,11/4/2021 0:15,,24.73,-59.35,7.73
+HOBO pH logger,OA_Shallow,11/4/2021 0:30,,24.7,-62.08,7.78
+HOBO pH logger,OA_Shallow,11/4/2021 0:45,,24.7,-62.99,7.8
+HOBO pH logger,OA_Shallow,11/4/2021 1:00,,24.68,-63.63,7.81
+HOBO pH logger,OA_Shallow,11/4/2021 1:15,,24.63,-69.11,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 1:30,,24.53,-69.66,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 1:45,,24.17,-69.27,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 2:00,,24.1,-71.38,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 2:15,,24.17,-71.16,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 2:30,,24.36,-70.06,7.94
+HOBO pH logger,OA_Shallow,11/4/2021 2:45,,24.39,-67.85,7.89
+HOBO pH logger,OA_Shallow,11/4/2021 3:00,,24.39,-67.33,7.88
+HOBO pH logger,OA_Shallow,11/4/2021 3:15,,24.39,-68.1,7.9
+HOBO pH logger,OA_Shallow,11/4/2021 3:30,,24.39,-69.1,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 3:45,,24.41,-69.88,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 4:00,,24.41,-69.91,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 4:15,,24.41,-69.33,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 4:30,,24.44,-68.3,7.9
+HOBO pH logger,OA_Shallow,11/4/2021 4:45,,24.41,-69.5,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 5:00,,24.41,-70.19,7.94
+HOBO pH logger,OA_Shallow,11/4/2021 5:15,,24.41,-64.67,7.83
+HOBO pH logger,OA_Shallow,11/4/2021 5:30,,24.44,-67.99,7.9
+HOBO pH logger,OA_Shallow,11/4/2021 5:45,,24.51,-68.78,7.91
+HOBO pH logger,OA_Shallow,11/4/2021 6:00,,24.58,-69.61,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 6:15,,24.61,-69.49,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 6:30,,24.65,-70.24,7.94
+HOBO pH logger,OA_Shallow,11/4/2021 6:45,,24.73,-71.89,7.97
+HOBO pH logger,OA_Shallow,11/4/2021 7:00,,24.73,-70.72,7.95
+HOBO pH logger,OA_Shallow,11/4/2021 7:15,,24.75,-71.33,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 7:30,,24.73,-69.94,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 7:45,,24.75,-71.64,7.97
+HOBO pH logger,OA_Shallow,11/4/2021 8:00,,24.75,-71.77,7.97
+HOBO pH logger,OA_Shallow,11/4/2021 8:15,,24.75,-71.08,7.95
+HOBO pH logger,OA_Shallow,11/4/2021 8:30,,24.77,-64.56,7.83
+HOBO pH logger,OA_Shallow,11/4/2021 8:45,,24.8,-60.67,7.76
+HOBO pH logger,OA_Shallow,11/4/2021 9:00,,24.82,-57.22,7.69
+HOBO pH logger,OA_Shallow,11/4/2021 9:15,,24.82,-59.44,7.73
+HOBO pH logger,OA_Shallow,11/4/2021 9:30,,24.8,-67.69,7.89
+HOBO pH logger,OA_Shallow,11/4/2021 9:45,,24.8,-69.1,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 10:00,,24.68,-66.63,7.87
+HOBO pH logger,OA_Shallow,11/4/2021 10:15,,24.61,-66.33,7.87
+HOBO pH logger,OA_Shallow,11/4/2021 10:30,,24.53,-66.27,7.86
+HOBO pH logger,OA_Shallow,11/4/2021 10:45,,24.36,-69.64,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 11:00,,24.32,-69.86,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 11:15,,24.32,-69.6,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 11:30,,24.34,-69.5,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 11:45,,24.41,-66.14,7.86
+HOBO pH logger,OA_Shallow,11/4/2021 12:00,,24.39,-66.89,7.88
+HOBO pH logger,OA_Shallow,11/4/2021 12:15,,24.39,-68.6,7.91
+HOBO pH logger,OA_Shallow,11/4/2021 12:30,,24.36,-69.05,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 12:45,,24.36,-69.38,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 13:00,,24.32,-69.41,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 13:15,,24.24,-71.14,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 13:30,,24.17,-71.36,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 13:45,,24.17,-71.8,7.97
+HOBO pH logger,OA_Shallow,11/4/2021 14:00,,24.2,-71.52,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 14:15,,24.2,-71.35,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 14:30,,24.2,-71.46,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 14:45,,24.2,-71.41,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 15:00,,24.2,-71.44,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 15:15,,24.12,-71.3,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 15:30,,24.1,-71.44,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 15:45,,24.03,-71.17,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 16:00,,24.05,-71.25,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 16:15,,24.05,-71.19,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 16:30,,24.1,-71.16,7.96
+HOBO pH logger,OA_Shallow,11/4/2021 16:45,,24.12,-70.53,7.95
+HOBO pH logger,OA_Shallow,11/4/2021 17:00,,24.12,-70.25,7.94
+HOBO pH logger,OA_Shallow,11/4/2021 17:15,,24.12,-70.69,7.95
+HOBO pH logger,OA_Shallow,11/4/2021 17:30,,24.07,-70.6,7.95
+HOBO pH logger,OA_Shallow,11/4/2021 17:45,,24.05,-70.11,7.94
+HOBO pH logger,OA_Shallow,11/4/2021 18:00,,24.05,-69.69,7.93
+HOBO pH logger,OA_Shallow,11/4/2021 18:15,,24.05,-70,7.94
+HOBO pH logger,OA_Shallow,11/4/2021 18:30,,24.07,-69.16,7.92
+HOBO pH logger,OA_Shallow,11/4/2021 18:45,,24.1,-68.69,7.91
+HOBO pH logger,OA_Shallow,11/4/2021 19:00,,24.1,-68.38,7.91
+HOBO pH logger,OA_Shallow,11/4/2021 19:15,,24.1,-68.06,7.9
+HOBO pH logger,OA_Shallow,11/4/2021 19:30,,24.03,-67.77,7.89
+HOBO pH logger,OA_Shallow,11/4/2021 19:45,,23.95,-66.33,7.87
+HOBO pH logger,OA_Shallow,11/4/2021 20:00,,23.98,-65.94,7.86
+HOBO pH logger,OA_Shallow,11/4/2021 20:15,,24,-64.1,7.82
+HOBO pH logger,OA_Shallow,11/4/2021 20:30,,23.91,-67.17,7.88
+HOBO pH logger,OA_Shallow,11/4/2021 20:45,,23.86,-65.88,7.86
+HOBO pH logger,OA_Shallow,11/4/2021 21:00,,23.88,-65.38,7.85
+HOBO pH logger,OA_Shallow,11/4/2021 21:15,,23.91,-66.72,7.87
+HOBO pH logger,OA_Shallow,11/4/2021 21:30,,23.93,-63.86,7.82
+HOBO pH logger,OA_Shallow,11/4/2021 21:45,,23.86,-64.41,7.83
+HOBO pH logger,OA_Shallow,11/4/2021 22:00,,23.52,-66.89,7.88
+HOBO pH logger,OA_Shallow,11/4/2021 22:15,,23.52,-65.63,7.86
+HOBO pH logger,OA_Shallow,11/4/2021 22:30,,23.47,-66.81,7.88
+HOBO pH logger,OA_Shallow,11/4/2021 22:45,,23.4,-66.02,7.86
+HOBO pH logger,OA_Shallow,11/4/2021 23:00,,23.38,-67.02,7.88
+HOBO pH logger,OA_Shallow,11/4/2021 23:15,,23.47,-61.3,7.77
+HOBO pH logger,OA_Shallow,11/4/2021 23:30,,23.5,-59.28,7.73
+HOBO pH logger,OA_Shallow,11/4/2021 23:45,,23.4,-62.56,7.8
+HOBO pH logger,OA_Shallow,11/5/2021 0:00,,23.23,-64.75,7.84
+HOBO pH logger,OA_Shallow,11/5/2021 0:15,,23.14,-64.22,7.83
+HOBO pH logger,OA_Shallow,11/5/2021 0:30,,23.16,-64.55,7.84
+HOBO pH logger,OA_Shallow,11/5/2021 0:45,,23.28,-59.72,7.74
+HOBO pH logger,OA_Shallow,11/5/2021 1:00,,23.3,-60.3,7.75
+HOBO pH logger,OA_Shallow,11/5/2021 1:15,,23.28,-63.33,7.81
+HOBO pH logger,OA_Shallow,11/5/2021 1:30,,23.28,-63.25,7.81
+HOBO pH logger,OA_Shallow,11/5/2021 1:45,,23.28,-64.28,7.83
+HOBO pH logger,OA_Shallow,11/5/2021 2:00,,23.26,-65.77,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 2:15,,23.16,-65.97,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 2:30,,23.11,-66.41,7.87
+HOBO pH logger,OA_Shallow,11/5/2021 2:45,,23.14,-66.13,7.87
+HOBO pH logger,OA_Shallow,11/5/2021 3:00,,22.8,-67.89,7.9
+HOBO pH logger,OA_Shallow,11/5/2021 3:15,,22.97,-67.63,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 3:30,,23.06,-65.5,7.85
+HOBO pH logger,OA_Shallow,11/5/2021 3:45,,23.14,-66.33,7.87
+HOBO pH logger,OA_Shallow,11/5/2021 4:00,,23.21,-67.71,7.9
+HOBO pH logger,OA_Shallow,11/5/2021 4:15,,23.16,-66.99,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 4:30,,23.23,-62.86,7.8
+HOBO pH logger,OA_Shallow,11/5/2021 4:45,,23.28,-67.74,7.9
+HOBO pH logger,OA_Shallow,11/5/2021 5:00,,23.35,-67.47,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 5:15,,23.33,-62.1,7.79
+HOBO pH logger,OA_Shallow,11/5/2021 5:30,,23.5,-69.11,7.92
+HOBO pH logger,OA_Shallow,11/5/2021 5:45,,23.52,-68.77,7.91
+HOBO pH logger,OA_Shallow,11/5/2021 6:00,,23.57,-69.08,7.92
+HOBO pH logger,OA_Shallow,11/5/2021 6:15,,23.59,-69.77,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 6:30,,23.59,-69.88,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 6:45,,23.59,-70,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 7:00,,23.57,-69.28,7.92
+HOBO pH logger,OA_Shallow,11/5/2021 7:15,,23.57,-68.81,7.92
+HOBO pH logger,OA_Shallow,11/5/2021 7:30,,23.57,-68.44,7.91
+HOBO pH logger,OA_Shallow,11/5/2021 7:45,,23.69,-68.97,7.92
+HOBO pH logger,OA_Shallow,11/5/2021 8:00,,23.69,-67.17,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 8:15,,23.81,-67.56,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 8:30,,23.93,-69.97,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 8:45,,23.98,-69.42,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 9:00,,24.05,-67.99,7.9
+HOBO pH logger,OA_Shallow,11/5/2021 9:15,,24.12,-68.85,7.91
+HOBO pH logger,OA_Shallow,11/5/2021 9:30,,24.15,-69.55,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 9:45,,24.17,-68.05,7.9
+HOBO pH logger,OA_Shallow,11/5/2021 10:00,,24.17,-66.08,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 10:15,,24.2,-63.86,7.82
+HOBO pH logger,OA_Shallow,11/5/2021 10:30,,24.22,-62.99,7.8
+HOBO pH logger,OA_Shallow,11/5/2021 10:45,,24.03,-66.17,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 11:00,,24.07,-67.44,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 11:15,,23.91,-67.66,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 11:30,,23.79,-70.47,7.95
+HOBO pH logger,OA_Shallow,11/5/2021 11:45,,23.86,-70.39,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 12:00,,23.93,-68.78,7.91
+HOBO pH logger,OA_Shallow,11/5/2021 12:15,,23.93,-65.91,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 12:30,,23.86,-66.81,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 12:45,,23.33,-68.72,7.91
+HOBO pH logger,OA_Shallow,11/5/2021 13:00,,22.66,-69.47,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 13:15,,22.71,-69.85,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 13:30,,22.8,-69.66,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 13:45,,22.97,-67.41,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 14:00,,23.21,-65.02,7.84
+HOBO pH logger,OA_Shallow,11/5/2021 14:15,,23.4,-65.86,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 14:30,,23.47,-66.67,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 14:45,,23.5,-68.41,7.91
+HOBO pH logger,OA_Shallow,11/5/2021 15:00,,23.5,-67.16,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 15:15,,23.52,-66.97,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 15:30,,23.55,-69.94,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 15:45,,23.55,-69.31,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 16:00,,23.55,-70.25,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 16:15,,23.55,-68.02,7.9
+HOBO pH logger,OA_Shallow,11/5/2021 16:30,,23.52,-66.81,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 16:45,,23.55,-67.5,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 17:00,,23.64,-70.63,7.95
+HOBO pH logger,OA_Shallow,11/5/2021 17:15,,23.62,-69.28,7.92
+HOBO pH logger,OA_Shallow,11/5/2021 17:30,,23.67,-69.81,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 17:45,,23.71,-70.3,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 18:00,,23.71,-69.75,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 18:15,,23.71,-69.6,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 18:30,,23.76,-70.5,7.95
+HOBO pH logger,OA_Shallow,11/5/2021 18:45,,23.88,-69.52,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 19:00,,23.95,-70.27,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 19:15,,24,-69.91,7.94
+HOBO pH logger,OA_Shallow,11/5/2021 19:30,,24.03,-69.61,7.93
+HOBO pH logger,OA_Shallow,11/5/2021 19:45,,23.98,-67.13,7.88
+HOBO pH logger,OA_Shallow,11/5/2021 20:00,,24.03,-67.56,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 20:15,,24.05,-65.91,7.86
+HOBO pH logger,OA_Shallow,11/5/2021 20:30,,24.05,-64.72,7.84
+HOBO pH logger,OA_Shallow,11/5/2021 20:45,,24.05,-62.89,7.8
+HOBO pH logger,OA_Shallow,11/5/2021 21:00,,24.07,-58.35,7.72
+HOBO pH logger,OA_Shallow,11/5/2021 21:15,,24.1,-58.14,7.71
+HOBO pH logger,OA_Shallow,11/5/2021 21:30,,24.05,-62.19,7.79
+HOBO pH logger,OA_Shallow,11/5/2021 21:45,,24.15,-49.35,7.54
+HOBO pH logger,OA_Shallow,11/5/2021 22:00,,24.03,-59.99,7.75
+HOBO pH logger,OA_Shallow,11/5/2021 22:15,,23.69,-62.69,7.8
+HOBO pH logger,OA_Shallow,11/5/2021 22:30,,23.62,-64.41,7.83
+HOBO pH logger,OA_Shallow,11/5/2021 22:45,,23.55,-64.28,7.83
+HOBO pH logger,OA_Shallow,11/5/2021 23:00,,23.47,-67.64,7.89
+HOBO pH logger,OA_Shallow,11/5/2021 23:15,,23.45,-64.56,7.84
+HOBO pH logger,OA_Shallow,11/5/2021 23:30,,23.52,-60.55,7.76
+HOBO pH logger,OA_Shallow,11/5/2021 23:45,,23.55,-60.49,7.76
+HOBO pH logger,OA_Shallow,11/6/2021 0:00,,23.52,-63.49,7.81
+HOBO pH logger,OA_Shallow,11/6/2021 0:15,,23.55,-63.49,7.81
+HOBO pH logger,OA_Shallow,11/6/2021 0:30,,23.57,-62.35,7.79
+HOBO pH logger,OA_Shallow,11/6/2021 0:45,,23.59,-60.5,7.76
+HOBO pH logger,OA_Shallow,11/6/2021 1:00,,23.59,-58.99,7.73
+HOBO pH logger,OA_Shallow,11/6/2021 1:15,,23.59,-57.06,7.69
+HOBO pH logger,OA_Shallow,11/6/2021 1:30,,23.64,-52.67,7.61
+HOBO pH logger,OA_Shallow,11/6/2021 1:45,,23.57,-59.19,7.73
+HOBO pH logger,OA_Shallow,11/6/2021 2:00,,23.5,-58.78,7.73
+HOBO pH logger,OA_Shallow,11/6/2021 2:15,,23.14,-65.33,7.85
+HOBO pH logger,OA_Shallow,11/6/2021 2:30,,22.97,-66.5,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 2:45,,23.14,-60.39,7.76
+HOBO pH logger,OA_Shallow,11/6/2021 3:00,,23.09,-63.99,7.83
+HOBO pH logger,OA_Shallow,11/6/2021 3:15,,23.02,-66.46,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 3:30,,22.97,-66.99,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 3:45,,22.92,-67.22,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 4:00,,22.9,-67.46,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 4:15,,22.9,-68.42,7.91
+HOBO pH logger,OA_Shallow,11/6/2021 4:30,,22.9,-69.77,7.94
+HOBO pH logger,OA_Shallow,11/6/2021 4:45,,22.9,-69.92,7.94
+HOBO pH logger,OA_Shallow,11/6/2021 5:00,,23.02,-63.77,7.82
+HOBO pH logger,OA_Shallow,11/6/2021 5:15,,23.06,-60.78,7.76
+HOBO pH logger,OA_Shallow,11/6/2021 5:30,,23.09,-60.58,7.76
+HOBO pH logger,OA_Shallow,11/6/2021 5:45,,23.14,-60.47,7.76
+HOBO pH logger,OA_Shallow,11/6/2021 6:00,,23.14,-62.19,7.79
+HOBO pH logger,OA_Shallow,11/6/2021 6:15,,23.16,-65.19,7.85
+HOBO pH logger,OA_Shallow,11/6/2021 6:30,,23.16,-63.64,7.82
+HOBO pH logger,OA_Shallow,11/6/2021 6:45,,23.16,-64.83,7.84
+HOBO pH logger,OA_Shallow,11/6/2021 7:00,,23.16,-67.05,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 7:15,,23.14,-66.33,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 7:30,,23.14,-65.31,7.85
+HOBO pH logger,OA_Shallow,11/6/2021 7:45,,23.14,-66.22,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 8:00,,23.14,-67.13,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 8:15,,23.14,-67.41,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 8:30,,23.14,-66.13,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 8:45,,23.04,-68.78,7.92
+HOBO pH logger,OA_Shallow,11/6/2021 9:00,,23.02,-69.39,7.93
+HOBO pH logger,OA_Shallow,11/6/2021 9:15,,23.06,-67,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 9:30,,23.06,-66.08,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 9:45,,23.04,-67.71,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 10:00,,23.04,-67.21,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 10:15,,23.06,-67.11,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 10:30,,23.09,-67.02,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 10:45,,23.11,-66.92,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 11:00,,23.11,-67.56,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 11:15,,23.11,-67.67,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 11:30,,23.11,-68.16,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 11:45,,23.14,-67.08,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 12:00,,23.14,-65.92,7.86
+HOBO pH logger,OA_Shallow,11/6/2021 12:15,,23.16,-65.38,7.85
+HOBO pH logger,OA_Shallow,11/6/2021 12:30,,23.18,-63.74,7.82
+HOBO pH logger,OA_Shallow,11/6/2021 12:45,,23.14,-66,7.86
+HOBO pH logger,OA_Shallow,11/6/2021 13:00,,23.11,-66.3,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 13:15,,23.11,-66.19,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 13:30,,23.09,-67.33,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 13:45,,23.06,-68.92,7.92
+HOBO pH logger,OA_Shallow,11/6/2021 14:00,,23.04,-68.96,7.92
+HOBO pH logger,OA_Shallow,11/6/2021 14:15,,23.14,-62.52,7.8
+HOBO pH logger,OA_Shallow,11/6/2021 14:30,,23.04,-69.02,7.92
+HOBO pH logger,OA_Shallow,11/6/2021 14:45,,23.06,-68.74,7.92
+HOBO pH logger,OA_Shallow,11/6/2021 15:00,,23.06,-68.16,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 15:15,,23.04,-68.3,7.91
+HOBO pH logger,OA_Shallow,11/6/2021 15:30,,23.06,-68.03,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 15:45,,23.16,-65.14,7.85
+HOBO pH logger,OA_Shallow,11/6/2021 16:00,,23.18,-62.58,7.8
+HOBO pH logger,OA_Shallow,11/6/2021 16:15,,23.26,-66.74,7.88
+HOBO pH logger,OA_Shallow,11/6/2021 16:30,,23.28,-66.11,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 16:45,,23.33,-68.25,7.91
+HOBO pH logger,OA_Shallow,11/6/2021 17:00,,23.38,-69.47,7.93
+HOBO pH logger,OA_Shallow,11/6/2021 17:15,,23.35,-67.89,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 17:30,,23.42,-69.92,7.94
+HOBO pH logger,OA_Shallow,11/6/2021 17:45,,23.42,-70.22,7.94
+HOBO pH logger,OA_Shallow,11/6/2021 18:00,,23.4,-69.58,7.93
+HOBO pH logger,OA_Shallow,11/6/2021 18:15,,23.4,-69.83,7.94
+HOBO pH logger,OA_Shallow,11/6/2021 18:30,,23.42,-70.33,7.94
+HOBO pH logger,OA_Shallow,11/6/2021 18:45,,23.4,-69.63,7.93
+HOBO pH logger,OA_Shallow,11/6/2021 19:00,,23.42,-69.77,7.93
+HOBO pH logger,OA_Shallow,11/6/2021 19:15,,23.45,-69.05,7.92
+HOBO pH logger,OA_Shallow,11/6/2021 19:30,,23.67,-67.74,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 19:45,,23.81,-67.96,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 20:00,,23.86,-68.66,7.91
+HOBO pH logger,OA_Shallow,11/6/2021 20:15,,23.79,-61.5,7.78
+HOBO pH logger,OA_Shallow,11/6/2021 20:30,,23.88,-68.16,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 20:45,,23.91,-60.35,7.75
+HOBO pH logger,OA_Shallow,11/6/2021 21:00,,23.88,-49.77,7.55
+HOBO pH logger,OA_Shallow,11/6/2021 21:15,,23.95,-59.97,7.75
+HOBO pH logger,OA_Shallow,11/6/2021 21:30,,23.95,-65.89,7.86
+HOBO pH logger,OA_Shallow,11/6/2021 21:45,,23.64,-67.92,7.9
+HOBO pH logger,OA_Shallow,11/6/2021 22:00,,22.94,-67.36,7.89
+HOBO pH logger,OA_Shallow,11/6/2021 22:15,,22.9,-66.55,7.87
+HOBO pH logger,OA_Shallow,11/6/2021 22:30,,23.02,-65.39,7.85
+HOBO pH logger,OA_Shallow,11/6/2021 22:45,,23.11,-61.53,7.78
+HOBO pH logger,OA_Shallow,11/6/2021 23:00,,23.21,-55.24,7.66
+HOBO pH logger,OA_Shallow,11/6/2021 23:15,,23.28,-51.38,7.58
+HOBO pH logger,OA_Shallow,11/6/2021 23:30,,23.18,-57.78,7.71
+HOBO pH logger,OA_Shallow,11/6/2021 23:45,,23.14,-55.2,7.66
+HOBO pH logger,OA_Shallow,11/7/2021 0:00,,23.11,-59.27,7.74
+HOBO pH logger,OA_Shallow,11/7/2021 0:15,,23.26,-51.39,7.59
+HOBO pH logger,OA_Shallow,11/7/2021 0:30,,23.18,-58.69,7.72
+HOBO pH logger,OA_Shallow,11/7/2021 0:45,,23.26,-51.8,7.59
+HOBO pH logger,OA_Shallow,11/7/2021 1:00,,23.3,-45.44,7.47
+HOBO pH logger,OA_Shallow,11/7/2021 1:15,,23.4,-39.49,7.36
+HOBO pH logger,OA_Shallow,11/7/2021 1:30,,23.45,-36.69,7.31
+HOBO pH logger,OA_Shallow,11/7/2021 1:45,,23.4,-44.61,7.46
+HOBO pH logger,OA_Shallow,11/7/2021 2:00,,23.42,-45.91,7.48
+HOBO pH logger,OA_Shallow,11/7/2021 2:15,,23.35,-52.28,7.6
+HOBO pH logger,OA_Shallow,11/7/2021 2:30,,23.45,-40.7,7.38
+HOBO pH logger,OA_Shallow,11/7/2021 2:45,,23.4,-50.03,7.56
+HOBO pH logger,OA_Shallow,11/7/2021 3:00,,23.35,-56.52,7.68
+HOBO pH logger,OA_Shallow,11/7/2021 3:15,,23.23,-56.47,7.68
+HOBO pH logger,OA_Shallow,11/7/2021 3:30,,23.11,-57.16,7.7
+HOBO pH logger,OA_Shallow,11/7/2021 3:45,,23.18,-53.11,7.62
+HOBO pH logger,OA_Shallow,11/7/2021 4:00,,23.02,-60.42,7.76
+HOBO pH logger,OA_Shallow,11/7/2021 4:15,,23.11,-57.81,7.71
+HOBO pH logger,OA_Shallow,11/7/2021 4:30,,23.16,-56.69,7.69
+HOBO pH logger,OA_Shallow,11/7/2021 4:45,,23.04,-60.14,7.75
+HOBO pH logger,OA_Shallow,11/7/2021 5:00,,22.97,-63.46,7.82
+HOBO pH logger,OA_Shallow,11/7/2021 5:15,,22.99,-63.5,7.82
+HOBO pH logger,OA_Shallow,11/7/2021 5:30,,22.92,-65.03,7.85
+HOBO pH logger,OA_Shallow,11/7/2021 5:45,,22.92,-64.49,7.84
+HOBO pH logger,OA_Shallow,11/7/2021 6:00,,22.97,-62.81,7.8
+HOBO pH logger,OA_Shallow,11/7/2021 6:15,,23.11,-67.31,7.89
+HOBO pH logger,OA_Shallow,11/7/2021 6:30,,23.14,-67.39,7.89
+HOBO pH logger,OA_Shallow,11/7/2021 6:45,,23.16,-67.92,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 7:00,,23.16,-67.91,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 7:15,,23.14,-67.71,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 7:30,,23.14,-67.91,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 7:45,,23.16,-67.81,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 8:00,,23.16,-67.71,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 8:15,,23.18,-68.56,7.91
+HOBO pH logger,OA_Shallow,11/7/2021 8:30,,23.21,-69.3,7.93
+HOBO pH logger,OA_Shallow,11/7/2021 8:45,,23.23,-69.91,7.94
+HOBO pH logger,OA_Shallow,11/7/2021 9:00,,23.26,-70.17,7.94
+HOBO pH logger,OA_Shallow,11/7/2021 9:15,,23.26,-70.27,7.94
+HOBO pH logger,OA_Shallow,11/7/2021 9:30,,22.99,-69.99,7.94
+HOBO pH logger,OA_Shallow,11/7/2021 9:45,,22.94,-69.8,7.94
+HOBO pH logger,OA_Shallow,11/7/2021 10:00,,22.8,-70.11,7.94
+HOBO pH logger,OA_Shallow,11/7/2021 10:15,,22.87,-69.19,7.92
+HOBO pH logger,OA_Shallow,11/7/2021 10:30,,22.97,-67.33,7.89
+HOBO pH logger,OA_Shallow,11/7/2021 10:45,,23.14,-66.96,7.88
+HOBO pH logger,OA_Shallow,11/7/2021 11:00,,23.23,-68.47,7.91
+HOBO pH logger,OA_Shallow,11/7/2021 11:15,,23.3,-68.5,7.91
+HOBO pH logger,OA_Shallow,11/7/2021 11:30,,23.28,-67.05,7.88
+HOBO pH logger,OA_Shallow,11/7/2021 11:45,,23.3,-68.05,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 12:00,,23.33,-63.31,7.81
+HOBO pH logger,OA_Shallow,11/7/2021 12:15,,23.38,-58.58,7.72
+HOBO pH logger,OA_Shallow,11/7/2021 12:30,,23.4,-54.05,7.64
+HOBO pH logger,OA_Shallow,11/7/2021 12:45,,23.45,-57.58,7.7
+HOBO pH logger,OA_Shallow,11/7/2021 13:00,,23.52,-59.58,7.74
+HOBO pH logger,OA_Shallow,11/7/2021 13:15,,23.59,-57.38,7.7
+HOBO pH logger,OA_Shallow,11/7/2021 13:30,,23.57,-60.56,7.76
+HOBO pH logger,OA_Shallow,11/7/2021 13:45,,23.57,-67.64,7.89
+HOBO pH logger,OA_Shallow,11/7/2021 14:00,,23.62,-66.47,7.87
+HOBO pH logger,OA_Shallow,11/7/2021 14:15,,23.64,-63.91,7.82
+HOBO pH logger,OA_Shallow,11/7/2021 14:30,,23.69,-67.81,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 14:45,,23.71,-66.74,7.88
+HOBO pH logger,OA_Shallow,11/7/2021 15:00,,23.71,-64.49,7.83
+HOBO pH logger,OA_Shallow,11/7/2021 15:15,,23.74,-67.61,7.89
+HOBO pH logger,OA_Shallow,11/7/2021 15:30,,23.76,-69.55,7.93
+HOBO pH logger,OA_Shallow,11/7/2021 15:45,,23.76,-69.64,7.93
+HOBO pH logger,OA_Shallow,11/7/2021 16:00,,23.76,-69.56,7.93
+HOBO pH logger,OA_Shallow,11/7/2021 16:15,,23.74,-64.83,7.84
+HOBO pH logger,OA_Shallow,11/7/2021 16:30,,23.74,-65.17,7.85
+HOBO pH logger,OA_Shallow,11/7/2021 16:45,,23.71,-60.52,7.76
+HOBO pH logger,OA_Shallow,11/7/2021 17:00,,23.71,-66.49,7.87
+HOBO pH logger,OA_Shallow,11/7/2021 17:15,,23.71,-65.97,7.86
+HOBO pH logger,OA_Shallow,11/7/2021 17:30,,23.71,-63.85,7.82
+HOBO pH logger,OA_Shallow,11/7/2021 17:45,,23.69,-57.67,7.7
+HOBO pH logger,OA_Shallow,11/7/2021 18:00,,23.74,-61.49,7.78
+HOBO pH logger,OA_Shallow,11/7/2021 18:15,,23.76,-64.67,7.84
+HOBO pH logger,OA_Shallow,11/7/2021 18:30,,23.76,-64.25,7.83
+HOBO pH logger,OA_Shallow,11/7/2021 18:45,,23.71,-63.41,7.81
+HOBO pH logger,OA_Shallow,11/7/2021 19:00,,23.74,-65.86,7.86
+HOBO pH logger,OA_Shallow,11/7/2021 19:15,,23.71,-63.36,7.81
+HOBO pH logger,OA_Shallow,11/7/2021 19:30,,23.71,-61.2,7.77
+HOBO pH logger,OA_Shallow,11/7/2021 19:45,,23.71,-60.2,7.75
+HOBO pH logger,OA_Shallow,11/7/2021 20:00,,23.64,-67.75,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 20:15,,23.52,-67.91,7.9
+HOBO pH logger,OA_Shallow,11/7/2021 20:30,,23.59,-64.85,7.84
+HOBO pH logger,OA_Shallow,11/7/2021 20:45,,23.64,-58.92,7.73
+HOBO pH logger,OA_Shallow,11/7/2021 21:00,,23.71,-67.72,7.89
+HOBO pH logger,OA_Shallow,11/7/2021 21:15,,23.71,-61.96,7.78
+HOBO pH logger,OA_Shallow,11/7/2021 21:30,,23.67,-64.85,7.84
+HOBO pH logger,OA_Shallow,11/7/2021 21:45,,23.64,-64.16,7.83
+HOBO pH logger,OA_Shallow,11/7/2021 22:00,,23.57,-63.83,7.82
+HOBO pH logger,OA_Shallow,11/7/2021 22:15,,23.45,-64.52,7.83
+HOBO pH logger,OA_Shallow,11/7/2021 22:30,,23.35,-64.14,7.83
+HOBO pH logger,OA_Shallow,11/7/2021 22:45,,23.4,-65.42,7.85
+HOBO pH logger,OA_Shallow,11/7/2021 23:00,,23.33,-66.42,7.87
+HOBO pH logger,OA_Shallow,11/7/2021 23:15,,23.3,-63.02,7.81
+HOBO pH logger,OA_Shallow,11/7/2021 23:30,,23.26,-63,7.81
+HOBO pH logger,OA_Shallow,11/7/2021 23:45,,23.28,-60.94,7.77
+HOBO pH logger,OA_Shallow,11/8/2021 0:00,,23.23,-62.35,7.79
+HOBO pH logger,OA_Shallow,11/8/2021 0:15,,23.33,-55.6,7.66
+HOBO pH logger,OA_Shallow,11/8/2021 0:30,,23.28,-61.25,7.77
+HOBO pH logger,OA_Shallow,11/8/2021 0:45,,23.3,-59.89,7.75
+HOBO pH logger,OA_Shallow,11/8/2021 1:00,,23.28,-61.17,7.77
+HOBO pH logger,OA_Shallow,11/8/2021 1:15,,23.23,-62.86,7.8
+HOBO pH logger,OA_Shallow,11/8/2021 1:30,,23.23,-61.72,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 1:45,,23.23,-61.64,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 2:00,,23.23,-61.33,7.77
+HOBO pH logger,OA_Shallow,11/8/2021 2:15,,23.21,-62.24,7.79
+HOBO pH logger,OA_Shallow,11/8/2021 2:30,,23.21,-62.22,7.79
+HOBO pH logger,OA_Shallow,11/8/2021 2:45,,23.23,-60.58,7.76
+HOBO pH logger,OA_Shallow,11/8/2021 3:00,,23.23,-59.25,7.73
+HOBO pH logger,OA_Shallow,11/8/2021 3:15,,23.4,-45.58,7.47
+HOBO pH logger,OA_Shallow,11/8/2021 3:30,,23.3,-54.64,7.65
+HOBO pH logger,OA_Shallow,11/8/2021 3:45,,23.11,-58.53,7.72
+HOBO pH logger,OA_Shallow,11/8/2021 4:00,,22.32,-66.27,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 4:15,,22.35,-65.96,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 4:30,,22.15,-67.36,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 4:45,,22.15,-66.42,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 5:00,,22.2,-64.92,7.85
+HOBO pH logger,OA_Shallow,11/8/2021 5:15,,22.37,-61.94,7.79
+HOBO pH logger,OA_Shallow,11/8/2021 5:30,,22.63,-61.67,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 5:45,,22.78,-62.75,7.8
+HOBO pH logger,OA_Shallow,11/8/2021 6:00,,22.78,-61.5,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 6:15,,22.8,-63.52,7.82
+HOBO pH logger,OA_Shallow,11/8/2021 6:30,,22.8,-61.63,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 6:45,,22.75,-57.92,7.71
+HOBO pH logger,OA_Shallow,11/8/2021 7:00,,22.78,-61.72,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 7:15,,22.8,-65.08,7.85
+HOBO pH logger,OA_Shallow,11/8/2021 7:30,,22.82,-63.63,7.82
+HOBO pH logger,OA_Shallow,11/8/2021 7:45,,23.11,-67.28,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 8:00,,23.23,-69.05,7.92
+HOBO pH logger,OA_Shallow,11/8/2021 8:15,,23.26,-69.78,7.94
+HOBO pH logger,OA_Shallow,11/8/2021 8:30,,23.28,-69.66,7.93
+HOBO pH logger,OA_Shallow,11/8/2021 8:45,,23.3,-69.94,7.94
+HOBO pH logger,OA_Shallow,11/8/2021 9:00,,23.26,-69.16,7.92
+HOBO pH logger,OA_Shallow,11/8/2021 9:15,,23.28,-69.28,7.93
+HOBO pH logger,OA_Shallow,11/8/2021 9:30,,23.28,-69.02,7.92
+HOBO pH logger,OA_Shallow,11/8/2021 9:45,,23.23,-67.58,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 10:00,,23.23,-66.85,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 10:15,,23.23,-66.64,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 10:30,,23.28,-67.17,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 10:45,,23.28,-65.71,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 11:00,,23.3,-66.36,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 11:15,,23.33,-64.94,7.84
+HOBO pH logger,OA_Shallow,11/8/2021 11:30,,23.35,-64.91,7.84
+HOBO pH logger,OA_Shallow,11/8/2021 11:45,,23.33,-66.67,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 12:00,,23.28,-69.28,7.93
+HOBO pH logger,OA_Shallow,11/8/2021 12:15,,23.26,-69.08,7.92
+HOBO pH logger,OA_Shallow,11/8/2021 12:30,,23.26,-69,7.92
+HOBO pH logger,OA_Shallow,11/8/2021 12:45,,23.26,-68.46,7.91
+HOBO pH logger,OA_Shallow,11/8/2021 13:00,,23.3,-66.75,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 13:15,,23.3,-67.33,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 13:30,,23.33,-65.89,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 13:45,,23.33,-67.11,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 14:00,,23.33,-67.5,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 14:15,,23.35,-62.05,7.79
+HOBO pH logger,OA_Shallow,11/8/2021 14:30,,23.33,-65.24,7.85
+HOBO pH logger,OA_Shallow,11/8/2021 14:45,,23.35,-61.77,7.78
+HOBO pH logger,OA_Shallow,11/8/2021 15:00,,23.33,-64.74,7.84
+HOBO pH logger,OA_Shallow,11/8/2021 15:15,,23.33,-65.05,7.84
+HOBO pH logger,OA_Shallow,11/8/2021 15:30,,23.33,-65.21,7.85
+HOBO pH logger,OA_Shallow,11/8/2021 15:45,,23.33,-64.16,7.83
+HOBO pH logger,OA_Shallow,11/8/2021 16:00,,23.3,-65.71,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 16:15,,23.28,-66.52,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 16:30,,23.28,-66.42,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 16:45,,23.28,-67.92,7.9
+HOBO pH logger,OA_Shallow,11/8/2021 17:00,,23.3,-68.1,7.9
+HOBO pH logger,OA_Shallow,11/8/2021 17:15,,23.33,-68.03,7.9
+HOBO pH logger,OA_Shallow,11/8/2021 17:30,,23.38,-67.6,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 17:45,,23.4,-66.55,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 18:00,,23.42,-67.31,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 18:15,,23.45,-66.06,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 18:30,,23.5,-66.5,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 18:45,,23.47,-65.74,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 19:00,,23.52,-66.94,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 19:15,,23.52,-67.1,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 19:30,,23.55,-67.41,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 19:45,,23.55,-66.89,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 20:00,,23.57,-66.21,7.87
+HOBO pH logger,OA_Shallow,11/8/2021 20:15,,23.62,-67.38,7.89
+HOBO pH logger,OA_Shallow,11/8/2021 20:30,,23.59,-64.47,7.83
+HOBO pH logger,OA_Shallow,11/8/2021 20:45,,23.64,-64.27,7.83
+HOBO pH logger,OA_Shallow,11/8/2021 21:00,,23.71,-64.85,7.84
+HOBO pH logger,OA_Shallow,11/8/2021 21:15,,23.79,-66.81,7.88
+HOBO pH logger,OA_Shallow,11/8/2021 21:30,,23.81,-63.11,7.81
+HOBO pH logger,OA_Shallow,11/8/2021 21:45,,23.86,-64.46,7.83
+HOBO pH logger,OA_Shallow,11/8/2021 22:00,,23.88,-66.03,7.86
+HOBO pH logger,OA_Shallow,11/8/2021 22:15,,23.91,-62.53,7.8
+HOBO pH logger,OA_Shallow,11/8/2021 22:30,,23.91,-59.86,7.74
+HOBO pH logger,OA_Shallow,11/8/2021 22:45,,23.91,-58.03,7.71
+HOBO pH logger,OA_Shallow,11/8/2021 23:00,,23.86,-55.17,7.66
+HOBO pH logger,OA_Shallow,11/8/2021 23:15,,23.59,-61.38,7.77
+HOBO pH logger,OA_Shallow,11/8/2021 23:30,,23.28,-68.22,7.91
+HOBO pH logger,OA_Shallow,11/8/2021 23:45,,23.5,-52.66,7.61
+HOBO pH logger,OA_Shallow,11/9/2021 0:00,,23.3,-59.95,7.75
+HOBO pH logger,OA_Shallow,11/9/2021 0:15,,23.45,-49.8,7.55
+HOBO pH logger,OA_Shallow,11/9/2021 0:30,,23.42,-52.5,7.61
+HOBO pH logger,OA_Shallow,11/9/2021 0:45,,23.45,-47.99,7.52
+HOBO pH logger,OA_Shallow,11/9/2021 1:00,,23.52,-44.81,7.46
+HOBO pH logger,OA_Shallow,11/9/2021 1:15,,23.3,-62.35,7.79
+HOBO pH logger,OA_Shallow,11/9/2021 1:30,,23.55,-42.36,7.41
+HOBO pH logger,OA_Shallow,11/9/2021 1:45,,23.5,-47.49,7.51
+HOBO pH logger,OA_Shallow,11/9/2021 2:00,,23.57,-39.99,7.37
+HOBO pH logger,OA_Shallow,11/9/2021 2:15,,23.52,-45.83,7.48
+HOBO pH logger,OA_Shallow,11/9/2021 2:30,,23.45,-51.7,7.59
+HOBO pH logger,OA_Shallow,11/9/2021 2:45,,23.57,-38.38,7.34
+HOBO pH logger,OA_Shallow,11/9/2021 3:00,,23.55,-42.47,7.41
+HOBO pH logger,OA_Shallow,11/9/2021 3:15,,23.59,-34.59,7.27
+HOBO pH logger,OA_Shallow,11/9/2021 3:30,,23.57,-45.58,7.47
+HOBO pH logger,OA_Shallow,11/9/2021 3:45,,23.59,-36.17,7.3
+HOBO pH logger,OA_Shallow,11/9/2021 4:00,,23.57,-40.3,7.37
+HOBO pH logger,OA_Shallow,11/9/2021 4:15,,23.59,-36.95,7.31
+HOBO pH logger,OA_Shallow,11/9/2021 4:30,,23.59,-36.25,7.3
+HOBO pH logger,OA_Shallow,11/9/2021 4:45,,23.62,-33.88,7.25
+HOBO pH logger,OA_Shallow,11/9/2021 5:00,,23.57,-37.09,7.31
+HOBO pH logger,OA_Shallow,11/9/2021 5:15,,23.52,-39.09,7.35
+HOBO pH logger,OA_Shallow,11/9/2021 5:30,,23.47,-42.42,7.41
+HOBO pH logger,OA_Shallow,11/9/2021 5:45,,23.42,-42.31,7.41
+HOBO pH logger,OA_Shallow,11/9/2021 6:00,,23.38,-46.14,7.49
+HOBO pH logger,OA_Shallow,11/9/2021 6:15,,23.28,-52.14,7.6
+HOBO pH logger,OA_Shallow,11/9/2021 6:30,,23.28,-51.25,7.58
+HOBO pH logger,OA_Shallow,11/9/2021 6:45,,23.18,-57.81,7.71
+HOBO pH logger,OA_Shallow,11/9/2021 7:00,,23.14,-60.08,7.75
+HOBO pH logger,OA_Shallow,11/9/2021 7:15,,23.21,-61.78,7.78
+HOBO pH logger,OA_Shallow,11/9/2021 7:30,,23.3,-61.19,7.77
+HOBO pH logger,OA_Shallow,11/9/2021 7:45,,23.35,-61.49,7.78
+HOBO pH logger,OA_Shallow,11/9/2021 8:00,,23.4,-63.25,7.81
+HOBO pH logger,OA_Shallow,11/9/2021 8:15,,23.45,-65.22,7.85
+HOBO pH logger,OA_Shallow,11/9/2021 8:30,,23.5,-65.24,7.85
+HOBO pH logger,OA_Shallow,11/9/2021 8:45,,23.59,-68.38,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 9:00,,23.52,-65.47,7.85
+HOBO pH logger,OA_Shallow,11/9/2021 9:15,,23.5,-64.42,7.83
+HOBO pH logger,OA_Shallow,11/9/2021 9:30,,23.55,-66.22,7.87
+HOBO pH logger,OA_Shallow,11/9/2021 9:45,,23.59,-67.8,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 10:00,,23.57,-67.06,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 10:15,,23.57,-66.31,7.87
+HOBO pH logger,OA_Shallow,11/9/2021 10:30,,23.62,-67.55,7.89
+HOBO pH logger,OA_Shallow,11/9/2021 10:45,,23.62,-67.94,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 11:00,,23.59,-67.36,7.89
+HOBO pH logger,OA_Shallow,11/9/2021 11:15,,23.59,-65.94,7.86
+HOBO pH logger,OA_Shallow,11/9/2021 11:30,,23.62,-66.71,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 11:45,,23.62,-66.11,7.86
+HOBO pH logger,OA_Shallow,11/9/2021 12:00,,23.64,-66.77,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 12:15,,23.64,-66.63,7.87
+HOBO pH logger,OA_Shallow,11/9/2021 12:30,,23.64,-65.71,7.86
+HOBO pH logger,OA_Shallow,11/9/2021 12:45,,23.67,-65.02,7.84
+HOBO pH logger,OA_Shallow,11/9/2021 13:00,,23.71,-67.63,7.89
+HOBO pH logger,OA_Shallow,11/9/2021 13:15,,23.71,-64.21,7.83
+HOBO pH logger,OA_Shallow,11/9/2021 13:30,,23.74,-64.42,7.83
+HOBO pH logger,OA_Shallow,11/9/2021 13:45,,23.79,-66.94,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 14:00,,23.79,-65.78,7.86
+HOBO pH logger,OA_Shallow,11/9/2021 14:15,,23.81,-67.91,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 14:30,,23.81,-67.46,7.89
+HOBO pH logger,OA_Shallow,11/9/2021 14:45,,23.81,-67,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 15:00,,23.81,-67.06,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 15:15,,23.81,-65.6,7.85
+HOBO pH logger,OA_Shallow,11/9/2021 15:30,,23.81,-68.53,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 15:45,,23.79,-68.42,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 16:00,,23.79,-68.97,7.92
+HOBO pH logger,OA_Shallow,11/9/2021 16:15,,23.79,-68.64,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 16:30,,23.79,-68.05,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 16:45,,23.79,-68.44,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 17:00,,23.79,-68.17,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 17:15,,23.79,-68.11,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 17:30,,23.76,-68.27,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 17:45,,23.76,-68.28,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 18:00,,23.76,-68.44,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 18:15,,23.76,-68.55,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 18:30,,23.76,-68.24,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 18:45,,23.76,-68.28,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 19:00,,23.74,-68.63,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 19:15,,23.74,-68.02,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 19:30,,23.74,-68.08,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 19:45,,23.71,-68.35,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 20:00,,23.71,-68.52,7.91
+HOBO pH logger,OA_Shallow,11/9/2021 20:15,,23.71,-68.03,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 20:30,,23.71,-67.92,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 20:45,,23.74,-67.97,7.9
+HOBO pH logger,OA_Shallow,11/9/2021 21:00,,23.71,-67.41,7.89
+HOBO pH logger,OA_Shallow,11/9/2021 21:15,,23.74,-66.47,7.87
+HOBO pH logger,OA_Shallow,11/9/2021 21:30,,23.74,-65.24,7.85
+HOBO pH logger,OA_Shallow,11/9/2021 21:45,,23.76,-64.13,7.83
+HOBO pH logger,OA_Shallow,11/9/2021 22:00,,23.79,-66.49,7.87
+HOBO pH logger,OA_Shallow,11/9/2021 22:15,,23.79,-67.11,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 22:30,,23.79,-67.25,7.89
+HOBO pH logger,OA_Shallow,11/9/2021 22:45,,23.81,-66.25,7.87
+HOBO pH logger,OA_Shallow,11/9/2021 23:00,,23.81,-66.86,7.88
+HOBO pH logger,OA_Shallow,11/9/2021 23:15,,23.81,-65.99,7.86
+HOBO pH logger,OA_Shallow,11/9/2021 23:30,,23.86,-46.05,7.48
+HOBO pH logger,OA_Shallow,11/9/2021 23:45,,23.86,-51.78,7.59
+HOBO pH logger,OA_Shallow,11/10/2021 0:00,,23.86,-53.06,7.62
+HOBO pH logger,OA_Shallow,11/10/2021 0:15,,23.91,-39.84,7.36
+HOBO pH logger,OA_Shallow,11/10/2021 0:30,,23.93,-39.91,7.37
+HOBO pH logger,OA_Shallow,11/10/2021 0:45,,23.95,-37.13,7.31
+HOBO pH logger,OA_Shallow,11/10/2021 1:00,,23.93,-38.58,7.34
+HOBO pH logger,OA_Shallow,11/10/2021 1:15,,23.88,-51.28,7.58
+HOBO pH logger,OA_Shallow,11/10/2021 1:30,,23.81,-59.24,7.73
+HOBO pH logger,OA_Shallow,11/10/2021 1:45,,23.79,-58.78,7.72
+HOBO pH logger,OA_Shallow,11/10/2021 2:00,,23.79,-57.02,7.69
+HOBO pH logger,OA_Shallow,11/10/2021 2:15,,23.76,-57.3,7.7
+HOBO pH logger,OA_Shallow,11/10/2021 2:30,,23.76,-54.47,7.64
+HOBO pH logger,OA_Shallow,11/10/2021 2:45,,23.88,-35.91,7.29
+HOBO pH logger,OA_Shallow,11/10/2021 3:00,,23.74,-53.08,7.62
+HOBO pH logger,OA_Shallow,11/10/2021 3:15,,23.83,-37.92,7.33
+HOBO pH logger,OA_Shallow,11/10/2021 3:30,,23.91,-28.27,7.14
+HOBO pH logger,OA_Shallow,11/10/2021 3:45,,23.74,-46.6,7.49
+HOBO pH logger,OA_Shallow,11/10/2021 4:00,,23.64,-54.99,7.65
+HOBO pH logger,OA_Shallow,11/10/2021 4:15,,23.67,-47.6,7.51
+HOBO pH logger,OA_Shallow,11/10/2021 4:30,,23.5,-56.86,7.69
+HOBO pH logger,OA_Shallow,11/10/2021 4:45,,23.3,-59.6,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 5:00,,23.35,-41.77,7.4
+HOBO pH logger,OA_Shallow,11/10/2021 5:15,,23.3,-46.95,7.5
+HOBO pH logger,OA_Shallow,11/10/2021 5:30,,23.14,-52.64,7.61
+HOBO pH logger,OA_Shallow,11/10/2021 5:45,,23.09,-56,7.67
+HOBO pH logger,OA_Shallow,11/10/2021 6:00,,23.06,-59.1,7.73
+HOBO pH logger,OA_Shallow,11/10/2021 6:15,,23.06,-59.91,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 6:30,,23.06,-59.28,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 6:45,,23.06,-59.17,7.73
+HOBO pH logger,OA_Shallow,11/10/2021 7:00,,23.04,-58.81,7.73
+HOBO pH logger,OA_Shallow,11/10/2021 7:15,,23.02,-59.7,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 7:30,,23.02,-59.91,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 7:45,,22.97,-59.78,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 8:00,,22.97,-59.28,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 8:15,,22.94,-59.33,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 8:30,,22.94,-59.39,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 8:45,,22.92,-60.02,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 9:00,,22.9,-60.02,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 9:15,,22.97,-62.72,7.8
+HOBO pH logger,OA_Shallow,11/10/2021 9:30,,23.02,-65.6,7.86
+HOBO pH logger,OA_Shallow,11/10/2021 9:45,,23.06,-64.94,7.84
+HOBO pH logger,OA_Shallow,11/10/2021 10:00,,23.09,-64.03,7.83
+HOBO pH logger,OA_Shallow,11/10/2021 10:15,,23.14,-66.53,7.87
+HOBO pH logger,OA_Shallow,11/10/2021 10:30,,23.14,-61.02,7.77
+HOBO pH logger,OA_Shallow,11/10/2021 10:45,,23.11,-59.45,7.74
+HOBO pH logger,OA_Shallow,11/10/2021 11:00,,23.16,-65.13,7.85
+HOBO pH logger,OA_Shallow,11/10/2021 11:15,,23.18,-65.61,7.86
+HOBO pH logger,OA_Shallow,11/10/2021 11:30,,23.23,-66.11,7.87
+HOBO pH logger,OA_Shallow,11/10/2021 11:45,,23.28,-67.02,7.88
+HOBO pH logger,OA_Shallow,11/10/2021 12:00,,23.26,-61.97,7.79
+HOBO pH logger,OA_Shallow,11/10/2021 12:15,,23.35,-67.19,7.89
+HOBO pH logger,OA_Shallow,11/10/2021 12:30,,23.4,-66.75,7.88
+HOBO pH logger,OA_Shallow,11/10/2021 12:45,,23.33,-60.03,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 13:00,,23.38,-62.91,7.8
+HOBO pH logger,OA_Shallow,11/10/2021 13:15,,23.45,-68.44,7.91
+HOBO pH logger,OA_Shallow,11/10/2021 13:30,,23.45,-61.92,7.78
+HOBO pH logger,OA_Shallow,11/10/2021 13:45,,23.45,-61.92,7.78
+HOBO pH logger,OA_Shallow,11/10/2021 14:00,,23.45,-58.53,7.72
+HOBO pH logger,OA_Shallow,11/10/2021 14:15,,23.47,-61.6,7.78
+HOBO pH logger,OA_Shallow,11/10/2021 14:30,,23.47,-60.38,7.76
+HOBO pH logger,OA_Shallow,11/10/2021 14:45,,23.47,-65.5,7.85
+HOBO pH logger,OA_Shallow,11/10/2021 15:00,,23.45,-67.42,7.89
+HOBO pH logger,OA_Shallow,11/10/2021 15:15,,23.42,-68.11,7.9
+HOBO pH logger,OA_Shallow,11/10/2021 15:30,,23.4,-68,7.9
+HOBO pH logger,OA_Shallow,11/10/2021 15:45,,23.4,-67.97,7.9
+HOBO pH logger,OA_Shallow,11/10/2021 16:00,,23.4,-67.63,7.89
+HOBO pH logger,OA_Shallow,11/10/2021 16:15,,23.38,-66.69,7.88
+HOBO pH logger,OA_Shallow,11/10/2021 16:30,,23.38,-67.28,7.89
+HOBO pH logger,OA_Shallow,11/10/2021 16:45,,23.38,-65.19,7.85
+HOBO pH logger,OA_Shallow,11/10/2021 17:00,,23.38,-66.31,7.87
+HOBO pH logger,OA_Shallow,11/10/2021 17:15,,23.38,-65.94,7.86
+HOBO pH logger,OA_Shallow,11/10/2021 17:30,,23.35,-66.8,7.88
+HOBO pH logger,OA_Shallow,11/10/2021 17:45,,23.33,-66.81,7.88
+HOBO pH logger,OA_Shallow,11/10/2021 18:00,,23.33,-66.61,7.87
+HOBO pH logger,OA_Shallow,11/10/2021 18:15,,23.35,-65.78,7.86
+HOBO pH logger,OA_Shallow,11/10/2021 18:30,,23.35,-65.42,7.85
+HOBO pH logger,OA_Shallow,11/10/2021 18:45,,23.35,-65.52,7.85
+HOBO pH logger,OA_Shallow,11/10/2021 19:00,,23.35,-63.49,7.81
+HOBO pH logger,OA_Shallow,11/10/2021 19:15,,23.33,-57.45,7.7
+HOBO pH logger,OA_Shallow,11/10/2021 19:30,,23.33,-63.83,7.82
+HOBO pH logger,OA_Shallow,11/10/2021 19:45,,23.33,-65.94,7.86
+HOBO pH logger,OA_Shallow,11/10/2021 20:00,,23.33,-67.31,7.89
+HOBO pH logger,OA_Shallow,11/10/2021 20:15,,23.35,-66.27,7.87
+HOBO pH logger,OA_Shallow,11/10/2021 20:30,,23.38,-63.13,7.81
+HOBO pH logger,OA_Shallow,11/10/2021 20:45,,23.4,-60.52,7.76
+HOBO pH logger,OA_Shallow,11/10/2021 21:00,,23.4,-56.56,7.68
+HOBO pH logger,OA_Shallow,11/10/2021 21:15,,23.38,-52.2,7.6
+HOBO pH logger,OA_Shallow,11/10/2021 21:30,,23.4,-60.03,7.75
+HOBO pH logger,OA_Shallow,11/10/2021 21:45,,23.4,-47.28,7.51
+HOBO pH logger,OA_Shallow,11/10/2021 22:00,,23.38,-44.52,7.45
+HOBO pH logger,OA_Shallow,11/10/2021 22:15,,23.38,-42.42,7.41
+HOBO pH logger,OA_Shallow,11/10/2021 22:30,,23.4,-41.19,7.39
+HOBO pH logger,OA_Shallow,11/10/2021 22:45,,23.45,-52.5,7.61
+HOBO pH logger,OA_Shallow,11/10/2021 23:00,,23.47,-53.06,7.62
+HOBO pH logger,OA_Shallow,11/10/2021 23:15,,23.5,-46,7.48
+HOBO pH logger,OA_Shallow,11/10/2021 23:30,,23.59,-52.14,7.6
+HOBO pH logger,OA_Shallow,11/10/2021 23:45,,23.64,-53.66,7.63
+HOBO pH logger,OA_Shallow,11/11/2021 0:00,,23.64,-43.17,7.43
+HOBO pH logger,OA_Shallow,11/11/2021 0:15,,23.69,-47.92,7.52
+HOBO pH logger,OA_Shallow,11/11/2021 0:30,,23.76,-53.55,7.63
+HOBO pH logger,OA_Shallow,11/11/2021 0:45,,23.74,-44.39,7.45
+HOBO pH logger,OA_Shallow,11/11/2021 1:00,,23.74,-32.22,7.22
+HOBO pH logger,OA_Shallow,11/11/2021 1:15,,23.76,-63.72,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 1:30,,23.79,-65.92,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 1:45,,23.81,-63.6,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 2:00,,23.81,-64.61,7.84
+HOBO pH logger,OA_Shallow,11/11/2021 2:15,,23.81,-63.02,7.8
+HOBO pH logger,OA_Shallow,11/11/2021 2:30,,23.81,-62.56,7.8
+HOBO pH logger,OA_Shallow,11/11/2021 2:45,,23.81,-61.19,7.77
+HOBO pH logger,OA_Shallow,11/11/2021 3:00,,23.81,-59.14,7.73
+HOBO pH logger,OA_Shallow,11/11/2021 3:15,,23.79,-59.02,7.73
+HOBO pH logger,OA_Shallow,11/11/2021 3:30,,23.79,-59.17,7.73
+HOBO pH logger,OA_Shallow,11/11/2021 3:45,,23.83,-48.83,7.54
+HOBO pH logger,OA_Shallow,11/11/2021 4:00,,23.79,-55.1,7.65
+HOBO pH logger,OA_Shallow,11/11/2021 4:15,,23.79,-55.7,7.67
+HOBO pH logger,OA_Shallow,11/11/2021 4:30,,23.76,-57.14,7.69
+HOBO pH logger,OA_Shallow,11/11/2021 4:45,,23.74,-56.36,7.68
+HOBO pH logger,OA_Shallow,11/11/2021 5:00,,23.69,-57.66,7.7
+HOBO pH logger,OA_Shallow,11/11/2021 5:15,,23.62,-58.77,7.72
+HOBO pH logger,OA_Shallow,11/11/2021 5:30,,23.57,-59.33,7.74
+HOBO pH logger,OA_Shallow,11/11/2021 5:45,,23.52,-59.17,7.73
+HOBO pH logger,OA_Shallow,11/11/2021 6:00,,23.5,-59.81,7.74
+HOBO pH logger,OA_Shallow,11/11/2021 6:15,,23.33,-62.85,7.8
+HOBO pH logger,OA_Shallow,11/11/2021 6:30,,23.14,-66.25,7.87
+HOBO pH logger,OA_Shallow,11/11/2021 6:45,,23.06,-65.78,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 7:00,,22.97,-65.19,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 7:15,,22.99,-64.39,7.83
+HOBO pH logger,OA_Shallow,11/11/2021 7:30,,22.94,-65,7.84
+HOBO pH logger,OA_Shallow,11/11/2021 7:45,,22.87,-65.81,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 8:00,,22.87,-65.36,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 8:15,,22.87,-65.75,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 8:30,,22.9,-66.1,7.87
+HOBO pH logger,OA_Shallow,11/11/2021 8:45,,22.94,-65.06,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 9:00,,22.97,-65.27,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 9:15,,23.02,-63.55,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 9:30,,23.04,-63.92,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 9:45,,23.04,-63.36,7.81
+HOBO pH logger,OA_Shallow,11/11/2021 10:00,,23.04,-64.69,7.84
+HOBO pH logger,OA_Shallow,11/11/2021 10:15,,23.04,-64.41,7.83
+HOBO pH logger,OA_Shallow,11/11/2021 10:30,,23.04,-64.64,7.84
+HOBO pH logger,OA_Shallow,11/11/2021 10:45,,23.02,-64.49,7.83
+HOBO pH logger,OA_Shallow,11/11/2021 11:00,,23.04,-64.92,7.84
+HOBO pH logger,OA_Shallow,11/11/2021 11:15,,23.14,-63.41,7.81
+HOBO pH logger,OA_Shallow,11/11/2021 11:30,,23.35,-67.44,7.89
+HOBO pH logger,OA_Shallow,11/11/2021 11:45,,23.47,-70.61,7.95
+HOBO pH logger,OA_Shallow,11/11/2021 12:00,,23.47,-67.63,7.89
+HOBO pH logger,OA_Shallow,11/11/2021 12:15,,23.57,-70.35,7.94
+HOBO pH logger,OA_Shallow,11/11/2021 12:30,,23.45,-62.39,7.79
+HOBO pH logger,OA_Shallow,11/11/2021 12:45,,23.52,-66.67,7.88
+HOBO pH logger,OA_Shallow,11/11/2021 13:00,,23.55,-65.35,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 13:15,,23.57,-67.19,7.88
+HOBO pH logger,OA_Shallow,11/11/2021 13:30,,23.52,-63.81,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 13:45,,23.57,-66.11,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 14:00,,23.55,-60.74,7.76
+HOBO pH logger,OA_Shallow,11/11/2021 14:15,,23.55,-63.31,7.81
+HOBO pH logger,OA_Shallow,11/11/2021 14:30,,23.57,-63.88,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 14:45,,23.57,-60.77,7.76
+HOBO pH logger,OA_Shallow,11/11/2021 15:00,,23.57,-58.89,7.73
+HOBO pH logger,OA_Shallow,11/11/2021 15:15,,23.64,-65.38,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 15:30,,23.64,-61.92,7.78
+HOBO pH logger,OA_Shallow,11/11/2021 15:45,,23.62,-60.95,7.77
+HOBO pH logger,OA_Shallow,11/11/2021 16:00,,23.62,-57.02,7.69
+HOBO pH logger,OA_Shallow,11/11/2021 16:15,,23.69,-63.64,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 16:30,,23.69,-60.67,7.76
+HOBO pH logger,OA_Shallow,11/11/2021 16:45,,23.74,-62.5,7.8
+HOBO pH logger,OA_Shallow,11/11/2021 17:00,,23.74,-62.46,7.79
+HOBO pH logger,OA_Shallow,11/11/2021 17:15,,23.79,-66.03,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 17:30,,23.79,-66.97,7.88
+HOBO pH logger,OA_Shallow,11/11/2021 17:45,,23.79,-65.63,7.85
+HOBO pH logger,OA_Shallow,11/11/2021 18:00,,23.79,-65.75,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 18:15,,23.79,-64.96,7.84
+HOBO pH logger,OA_Shallow,11/11/2021 18:30,,23.79,-65.92,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 18:45,,23.74,-62.24,7.79
+HOBO pH logger,OA_Shallow,11/11/2021 19:00,,23.74,-61.41,7.77
+HOBO pH logger,OA_Shallow,11/11/2021 19:15,,23.74,-63.91,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 19:30,,23.71,-58.25,7.71
+HOBO pH logger,OA_Shallow,11/11/2021 19:45,,23.79,-62.52,7.8
+HOBO pH logger,OA_Shallow,11/11/2021 20:00,,23.81,-61.06,7.77
+HOBO pH logger,OA_Shallow,11/11/2021 20:15,,23.83,-61.24,7.77
+HOBO pH logger,OA_Shallow,11/11/2021 20:30,,23.88,-66.08,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 20:45,,23.88,-63.42,7.81
+HOBO pH logger,OA_Shallow,11/11/2021 21:00,,23.91,-63.81,7.82
+HOBO pH logger,OA_Shallow,11/11/2021 21:15,,23.91,-61.63,7.78
+HOBO pH logger,OA_Shallow,11/11/2021 21:30,,23.91,-65.92,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 21:45,,23.95,-66.56,7.87
+HOBO pH logger,OA_Shallow,11/11/2021 22:00,,23.95,-67.53,7.89
+HOBO pH logger,OA_Shallow,11/11/2021 22:15,,23.95,-66.96,7.88
+HOBO pH logger,OA_Shallow,11/11/2021 22:30,,23.95,-66.19,7.86
+HOBO pH logger,OA_Shallow,11/11/2021 22:45,,23.93,-60.88,7.76
+HOBO pH logger,OA_Shallow,11/11/2021 23:00,,23.93,-60.56,7.76
+HOBO pH logger,OA_Shallow,11/11/2021 23:15,,23.93,-58,7.71
+HOBO pH logger,OA_Shallow,11/11/2021 23:30,,23.91,-55.78,7.67
+HOBO pH logger,OA_Shallow,11/11/2021 23:45,,23.88,-48.1,7.52
+HOBO pH logger,OA_Shallow,11/12/2021 0:00,,23.93,-46.75,7.5
+HOBO pH logger,OA_Shallow,11/12/2021 0:15,,23.95,-46.92,7.5
+HOBO pH logger,OA_Shallow,11/12/2021 0:30,,23.95,-54.27,7.64
+HOBO pH logger,OA_Shallow,11/12/2021 0:45,,23.95,-61,7.77
+HOBO pH logger,OA_Shallow,11/12/2021 1:00,,23.95,-65.28,7.85
+HOBO pH logger,OA_Shallow,11/12/2021 1:15,,23.95,-64.25,7.83
+HOBO pH logger,OA_Shallow,11/12/2021 1:30,,23.93,-63.96,7.82
+HOBO pH logger,OA_Shallow,11/12/2021 1:45,,23.93,-62.71,7.8
+HOBO pH logger,OA_Shallow,11/12/2021 2:00,,23.93,-63.78,7.82
+HOBO pH logger,OA_Shallow,11/12/2021 2:15,,23.93,-62.81,7.8
+HOBO pH logger,OA_Shallow,11/12/2021 2:30,,23.91,-62.49,7.79
+HOBO pH logger,OA_Shallow,11/12/2021 2:45,,23.91,-61.63,7.78
+HOBO pH logger,OA_Shallow,11/12/2021 3:00,,23.91,-61.35,7.77
+HOBO pH logger,OA_Shallow,11/12/2021 3:15,,23.91,-60.16,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 3:30,,23.91,-58.81,7.72
+HOBO pH logger,OA_Shallow,11/12/2021 3:45,,23.91,-58.33,7.72
+HOBO pH logger,OA_Shallow,11/12/2021 4:00,,23.88,-59.7,7.74
+HOBO pH logger,OA_Shallow,11/12/2021 4:15,,23.88,-60.45,7.76
+HOBO pH logger,OA_Shallow,11/12/2021 4:30,,23.88,-60.16,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 4:45,,23.88,-60.17,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 5:00,,23.86,-59.89,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 5:15,,23.86,-59.91,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 5:30,,23.86,-60.13,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 5:45,,23.81,-62.81,7.8
+HOBO pH logger,OA_Shallow,11/12/2021 6:00,,23.79,-62.6,7.8
+HOBO pH logger,OA_Shallow,11/12/2021 6:15,,23.79,-61.11,7.77
+HOBO pH logger,OA_Shallow,11/12/2021 6:30,,23.76,-62.64,7.8
+HOBO pH logger,OA_Shallow,11/12/2021 6:45,,23.64,-64.56,7.83
+HOBO pH logger,OA_Shallow,11/12/2021 7:00,,23.06,-67.52,7.89
+HOBO pH logger,OA_Shallow,11/12/2021 7:15,,22.71,-67.8,7.9
+HOBO pH logger,OA_Shallow,11/12/2021 7:30,,22.85,-68.94,7.92
+HOBO pH logger,OA_Shallow,11/12/2021 7:45,,22.78,-69.47,7.93
+HOBO pH logger,OA_Shallow,11/12/2021 8:00,,22.73,-69.53,7.93
+HOBO pH logger,OA_Shallow,11/12/2021 8:15,,22.71,-68.78,7.92
+HOBO pH logger,OA_Shallow,11/12/2021 8:30,,22.68,-69.21,7.93
+HOBO pH logger,OA_Shallow,11/12/2021 8:45,,22.66,-68.81,7.92
+HOBO pH logger,OA_Shallow,11/12/2021 9:00,,22.54,-69.56,7.93
+HOBO pH logger,OA_Shallow,11/12/2021 9:15,,22.39,-67.96,7.9
+HOBO pH logger,OA_Shallow,11/12/2021 9:30,,22.44,-69.49,7.93
+HOBO pH logger,OA_Shallow,11/12/2021 9:45,,22.39,-68.39,7.91
+HOBO pH logger,OA_Shallow,11/12/2021 10:00,,22.61,-64.63,7.84
+HOBO pH logger,OA_Shallow,11/12/2021 10:15,,22.8,-62.08,7.79
+HOBO pH logger,OA_Shallow,11/12/2021 10:30,,22.97,-59.53,7.74
+HOBO pH logger,OA_Shallow,11/12/2021 10:45,,22.99,-57.69,7.71
+HOBO pH logger,OA_Shallow,11/12/2021 11:00,,23.11,-60.95,7.77
+HOBO pH logger,OA_Shallow,11/12/2021 11:15,,23.14,-61.97,7.79
+HOBO pH logger,OA_Shallow,11/12/2021 11:30,,23.16,-64.08,7.83
+HOBO pH logger,OA_Shallow,11/12/2021 11:45,,23.18,-65.06,7.85
+HOBO pH logger,OA_Shallow,11/12/2021 12:00,,23.18,-65.41,7.85
+HOBO pH logger,OA_Shallow,11/12/2021 12:15,,23.18,-63.05,7.81
+HOBO pH logger,OA_Shallow,11/12/2021 12:30,,23.18,-59.8,7.75
+HOBO pH logger,OA_Shallow,11/12/2021 12:45,,23.26,-64.1,7.83
+HOBO pH logger,OA_Shallow,11/12/2021 13:00,,23.3,-67.66,7.89
+HOBO pH logger,OA_Shallow,11/12/2021 13:15,,23.33,-68.8,7.92
+HOBO pH logger,OA_Shallow,11/12/2021 13:30,,23.35,-68.49,7.91
+HOBO pH logger,OA_Shallow,11/12/2021 13:45,,23.38,-69.88,7.94
+HOBO pH logger,OA_Shallow,11/12/2021 14:00,,23.38,-69.02,7.92
+HOBO pH logger,OA_Shallow,11/12/2021 14:15,,23.42,-67.27,7.89
+HOBO pH logger,OA_Shallow,11/12/2021 14:30,,23.47,-70.36,7.95
+HOBO pH logger,OA_Shallow,11/12/2021 14:45,,23.5,-71.17,7.96
+HOBO pH logger,OA_Shallow,11/12/2021 15:00,,23.52,-70.28,7.94
+HOBO pH logger,OA_Shallow,11/12/2021 15:15,,23.52,-67.97,7.9
+HOBO pH logger,OA_Shallow,11/12/2021 15:30,,23.52,-69.61,7.93
+HOBO pH logger,OA_Shallow,11/12/2021 15:45,,23.55,-67.96,7.9
+HOBO pH logger,OA_Shallow,11/12/2021 16:00,,23.57,-70.08,7.94
+HOBO pH logger,OA_Shallow,11/12/2021 16:15,,23.57,-68.49,7.91
+HOBO pH logger,OA_Shallow,11/12/2021 16:30,,23.59,-63.67,7.82
+HOBO pH logger,OA_Shallow,11/12/2021 16:45,,23.55,-65.16,7.85
+HOBO pH logger,OA_Shallow,11/12/2021 17:00,,23.55,-66.69,7.88
+HOBO pH logger,OA_Shallow,11/12/2021 17:15,,23.55,-65,7.84
+HOBO pH logger,OA_Shallow,11/12/2021 17:30,,23.57,-66.83,7.88
+HOBO pH logger,OA_Shallow,11/12/2021 17:45,,23.57,-64.94,7.84
+HOBO pH logger,OA_Shallow,11/12/2021 18:00,,23.55,-56.45,7.68
+HOBO pH logger,OA_Shallow,11/12/2021 18:15,,23.57,-57.58,7.7
+HOBO pH logger,OA_Shallow,11/12/2021 18:30,,23.62,-63.63,7.82
+HOBO pH logger,OA_Shallow,11/12/2021 18:45,,23.59,-64.97,7.84
+HOBO pH logger,OA_Shallow,11/12/2021 19:00,,23.59,-65.11,7.85
+HOBO pH logger,OA_Shallow,11/12/2021 19:15,,23.62,-65.3,7.85
+HOBO pH logger,OA_Shallow,11/12/2021 19:30,,23.62,-59.63,7.74
+HOBO pH logger,OA_Shallow,11/12/2021 19:45,,23.59,-62.21,7.79
+HOBO pH logger,OA_Shallow,11/12/2021 20:00,,23.59,-61.08,7.77
+HOBO pH logger,OA_Shallow,11/12/2021 20:15,,23.62,-60.53,7.76
+HOBO pH logger,OA_Shallow,11/12/2021 20:30,,23.62,-54.74,7.65
+HOBO pH logger,OA_Shallow,11/12/2021 20:45,,23.62,-56.38,7.68
+HOBO pH logger,OA_Shallow,11/12/2021 21:00,,23.62,-58.89,7.73
+HOBO pH logger,OA_Shallow,11/12/2021 21:15,,23.59,-60.66,7.76
+HOBO pH logger,OA_Shallow,11/12/2021 21:30,,23.59,-61.33,7.77
+HOBO pH logger,OA_Shallow,11/12/2021 21:45,,23.57,-61.99,7.79
+HOBO pH logger,OA_Shallow,11/12/2021 22:00,,23.57,-63.49,7.81
+HOBO pH logger,OA_Shallow,11/12/2021 22:15,,23.55,-64.36,7.83
+HOBO pH logger,OA_Shallow,11/12/2021 22:30,,23.55,-64.74,7.84
+HOBO pH logger,OA_Shallow,11/12/2021 22:45,,23.55,-63.74,7.82
+HOBO pH logger,OA_Shallow,11/12/2021 23:00,,23.52,-64.99,7.84
+HOBO pH logger,OA_Shallow,11/12/2021 23:15,,23.52,-66.46,7.87
+HOBO pH logger,OA_Shallow,11/12/2021 23:30,,23.52,-66.64,7.87
+HOBO pH logger,OA_Shallow,11/12/2021 23:45,,23.5,-65.74,7.86
+HOBO pH logger,OA_Shallow,11/13/2021 0:00,,23.5,-65.33,7.85
+HOBO pH logger,OA_Shallow,11/13/2021 0:15,,23.47,-65.64,7.86
+HOBO pH logger,OA_Shallow,11/13/2021 0:30,,23.47,-65.06,7.84
+HOBO pH logger,OA_Shallow,11/13/2021 0:45,,23.45,-65.41,7.85
+HOBO pH logger,OA_Shallow,11/13/2021 1:00,,23.45,-63.16,7.81
+HOBO pH logger,OA_Shallow,11/13/2021 1:15,,23.45,-63.86,7.82
+HOBO pH logger,OA_Shallow,11/13/2021 1:30,,23.42,-63.05,7.81
+HOBO pH logger,OA_Shallow,11/13/2021 1:45,,23.4,-63.56,7.82
+HOBO pH logger,OA_Shallow,11/13/2021 2:00,,23.4,-63.17,7.81
+HOBO pH logger,OA_Shallow,11/13/2021 2:15,,23.4,-62.11,7.79
+HOBO pH logger,OA_Shallow,11/13/2021 2:30,,23.38,-61.17,7.77
+HOBO pH logger,OA_Shallow,11/13/2021 2:45,,23.35,-60.63,7.76
+HOBO pH logger,OA_Shallow,11/13/2021 3:00,,23.33,-59.94,7.75
+HOBO pH logger,OA_Shallow,11/13/2021 3:15,,23.3,-59.67,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 3:30,,23.3,-58.45,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 3:45,,23.33,-58.44,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 4:00,,23.35,-58.25,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 4:15,,23.38,-57.44,7.7
+HOBO pH logger,OA_Shallow,11/13/2021 4:30,,23.4,-56.8,7.69
+HOBO pH logger,OA_Shallow,11/13/2021 4:45,,23.38,-58.53,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 5:00,,23.4,-58.47,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 5:15,,23.38,-59.39,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 5:30,,23.38,-59.64,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 5:45,,23.38,-59.78,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 6:00,,23.4,-59.91,7.75
+HOBO pH logger,OA_Shallow,11/13/2021 6:15,,23.38,-60.42,7.76
+HOBO pH logger,OA_Shallow,11/13/2021 6:30,,23.38,-59.92,7.75
+HOBO pH logger,OA_Shallow,11/13/2021 6:45,,23.38,-59.75,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 7:00,,23.35,-59.17,7.73
+HOBO pH logger,OA_Shallow,11/13/2021 7:15,,23.35,-58.14,7.71
+HOBO pH logger,OA_Shallow,11/13/2021 7:30,,23.35,-56.97,7.69
+HOBO pH logger,OA_Shallow,11/13/2021 7:45,,23.38,-55.05,7.65
+HOBO pH logger,OA_Shallow,11/13/2021 8:00,,23.35,-54.89,7.65
+HOBO pH logger,OA_Shallow,11/13/2021 8:15,,23.33,-55.31,7.66
+HOBO pH logger,OA_Shallow,11/13/2021 8:30,,23.3,-55.97,7.67
+HOBO pH logger,OA_Shallow,11/13/2021 8:45,,23.3,-56.13,7.68
+HOBO pH logger,OA_Shallow,11/13/2021 9:00,,23.3,-55.86,7.67
+HOBO pH logger,OA_Shallow,11/13/2021 9:15,,23.3,-56.22,7.68
+HOBO pH logger,OA_Shallow,11/13/2021 9:30,,23.28,-61.94,7.79
+HOBO pH logger,OA_Shallow,11/13/2021 9:45,,23.28,-60.36,7.76
+HOBO pH logger,OA_Shallow,11/13/2021 10:00,,23.23,-63.99,7.82
+HOBO pH logger,OA_Shallow,11/13/2021 10:15,,23.21,-66.06,7.86
+HOBO pH logger,OA_Shallow,11/13/2021 10:30,,23.21,-65.72,7.86
+HOBO pH logger,OA_Shallow,11/13/2021 10:45,,23.21,-63.25,7.81
+HOBO pH logger,OA_Shallow,11/13/2021 11:00,,23.23,-62.67,7.8
+HOBO pH logger,OA_Shallow,11/13/2021 11:15,,23.23,-60.88,7.77
+HOBO pH logger,OA_Shallow,11/13/2021 11:30,,23.23,-61.17,7.77
+HOBO pH logger,OA_Shallow,11/13/2021 11:45,,23.26,-60.33,7.76
+HOBO pH logger,OA_Shallow,11/13/2021 12:00,,23.28,-59.64,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 12:15,,23.3,-59.94,7.75
+HOBO pH logger,OA_Shallow,11/13/2021 12:30,,23.3,-59.74,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 12:45,,23.3,-59.36,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 13:00,,23.28,-59.16,7.73
+HOBO pH logger,OA_Shallow,11/13/2021 13:15,,23.3,-59.35,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 13:30,,23.3,-58.99,7.73
+HOBO pH logger,OA_Shallow,11/13/2021 13:45,,23.33,-59.69,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 14:00,,23.3,-57.99,7.71
+HOBO pH logger,OA_Shallow,11/13/2021 14:15,,23.3,-57,7.69
+HOBO pH logger,OA_Shallow,11/13/2021 14:30,,23.3,-56.25,7.68
+HOBO pH logger,OA_Shallow,11/13/2021 14:45,,23.3,-57.64,7.7
+HOBO pH logger,OA_Shallow,11/13/2021 15:00,,23.3,-56.78,7.69
+HOBO pH logger,OA_Shallow,11/13/2021 15:15,,23.3,-58.2,7.71
+HOBO pH logger,OA_Shallow,11/13/2021 15:30,,23.3,-58.22,7.71
+HOBO pH logger,OA_Shallow,11/13/2021 15:45,,23.3,-58.1,7.71
+HOBO pH logger,OA_Shallow,11/13/2021 16:00,,23.28,-59.28,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 16:15,,23.28,-59.27,7.73
+HOBO pH logger,OA_Shallow,11/13/2021 16:30,,23.28,-58.33,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 16:45,,23.26,-59.56,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 17:00,,23.26,-62.52,7.8
+HOBO pH logger,OA_Shallow,11/13/2021 17:15,,23.23,-63.81,7.82
+HOBO pH logger,OA_Shallow,11/13/2021 17:30,,23.23,-65.6,7.86
+HOBO pH logger,OA_Shallow,11/13/2021 17:45,,23.28,-51.5,7.59
+HOBO pH logger,OA_Shallow,11/13/2021 18:00,,23.3,-59.05,7.73
+HOBO pH logger,OA_Shallow,11/13/2021 18:15,,23.33,-61.03,7.77
+HOBO pH logger,OA_Shallow,11/13/2021 18:30,,23.33,-52.27,7.6
+HOBO pH logger,OA_Shallow,11/13/2021 18:45,,23.35,-47.49,7.51
+HOBO pH logger,OA_Shallow,11/13/2021 19:00,,23.38,-51.17,7.58
+HOBO pH logger,OA_Shallow,11/13/2021 19:15,,23.35,-56.53,7.68
+HOBO pH logger,OA_Shallow,11/13/2021 19:30,,23.38,-56.02,7.67
+HOBO pH logger,OA_Shallow,11/13/2021 19:45,,23.35,-56.49,7.68
+HOBO pH logger,OA_Shallow,11/13/2021 20:00,,23.33,-59.39,7.74
+HOBO pH logger,OA_Shallow,11/13/2021 20:15,,23.35,-58.5,7.72
+HOBO pH logger,OA_Shallow,11/13/2021 20:30,,23.3,-62.8,7.8
+HOBO pH logger,OA_Shallow,11/13/2021 20:45,,23.3,-61.16,7.77
+HOBO pH logger,OA_Shallow,11/13/2021 21:00,,23.33,-59.95,7.75
+HOBO pH logger,OA_Shallow,11/13/2021 21:15,,23.3,-62.72,7.8
+HOBO pH logger,OA_Shallow,11/13/2021 21:30,,23.3,-61.99,7.79
+HOBO pH logger,OA_Shallow,11/13/2021 21:45,,23.3,-61.81,7.78
+HOBO pH logger,OA_Shallow,11/13/2021 22:00,,23.26,-64.31,7.83
+HOBO pH logger,OA_Shallow,11/13/2021 22:15,,23.18,-69.49,7.93
+HOBO pH logger,OA_Shallow,11/13/2021 22:30,,23.21,-63.02,7.81
+HOBO pH logger,OA_Shallow,11/13/2021 22:45,,23.14,-67.22,7.89
+HOBO pH logger,OA_Shallow,11/13/2021 23:00,,23.11,-67.6,7.89
+HOBO pH logger,OA_Shallow,11/13/2021 23:15,,23.11,-67.69,7.9
+HOBO pH logger,OA_Shallow,11/13/2021 23:30,,23.14,-67.22,7.89
+HOBO pH logger,OA_Shallow,11/13/2021 23:45,,23.11,-68.35,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 0:00,,23.11,-67.27,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 0:15,,23.11,-65.44,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 0:30,,23.11,-64.74,7.84
+HOBO pH logger,OA_Shallow,11/14/2021 0:45,,23.11,-64.81,7.84
+HOBO pH logger,OA_Shallow,11/14/2021 1:00,,23.14,-64.61,7.84
+HOBO pH logger,OA_Shallow,11/14/2021 1:15,,23.11,-63.94,7.82
+HOBO pH logger,OA_Shallow,11/14/2021 1:30,,23.14,-62.11,7.79
+HOBO pH logger,OA_Shallow,11/14/2021 1:45,,23.14,-63.5,7.82
+HOBO pH logger,OA_Shallow,11/14/2021 2:00,,23.14,-61.28,7.77
+HOBO pH logger,OA_Shallow,11/14/2021 2:15,,23.11,-61.8,7.78
+HOBO pH logger,OA_Shallow,11/14/2021 2:30,,23.11,-62.58,7.8
+HOBO pH logger,OA_Shallow,11/14/2021 2:45,,23.18,-52.83,7.61
+HOBO pH logger,OA_Shallow,11/14/2021 3:00,,23.18,-58.89,7.73
+HOBO pH logger,OA_Shallow,11/14/2021 3:15,,23.18,-52.52,7.61
+HOBO pH logger,OA_Shallow,11/14/2021 3:30,,23.21,-52.6,7.61
+HOBO pH logger,OA_Shallow,11/14/2021 3:45,,23.21,-55.11,7.66
+HOBO pH logger,OA_Shallow,11/14/2021 4:00,,23.26,-52.81,7.61
+HOBO pH logger,OA_Shallow,11/14/2021 4:15,,23.21,-58.28,7.72
+HOBO pH logger,OA_Shallow,11/14/2021 4:30,,23.16,-64.44,7.83
+HOBO pH logger,OA_Shallow,11/14/2021 4:45,,23.09,-65.14,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 5:00,,23.09,-64.77,7.84
+HOBO pH logger,OA_Shallow,11/14/2021 5:15,,23.09,-65.14,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 5:30,,23.06,-65.46,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 5:45,,22.92,-66.28,7.87
+HOBO pH logger,OA_Shallow,11/14/2021 6:00,,22.85,-64.35,7.83
+HOBO pH logger,OA_Shallow,11/14/2021 6:15,,22.68,-67.72,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 6:30,,22.66,-68.85,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 6:45,,22.71,-68.69,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 7:00,,22.82,-66.19,7.87
+HOBO pH logger,OA_Shallow,11/14/2021 7:15,,22.9,-60.1,7.75
+HOBO pH logger,OA_Shallow,11/14/2021 7:30,,22.82,-64.58,7.84
+HOBO pH logger,OA_Shallow,11/14/2021 7:45,,22.85,-64.31,7.83
+HOBO pH logger,OA_Shallow,11/14/2021 8:00,,22.9,-61.14,7.77
+HOBO pH logger,OA_Shallow,11/14/2021 8:15,,22.9,-62,7.79
+HOBO pH logger,OA_Shallow,11/14/2021 8:30,,22.94,-59.35,7.74
+HOBO pH logger,OA_Shallow,11/14/2021 8:45,,22.92,-65.22,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 9:00,,22.85,-67.94,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 9:15,,22.82,-68.17,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 9:30,,22.87,-67.14,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 9:45,,22.87,-67.31,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 10:00,,22.85,-67.16,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 10:15,,22.87,-67.63,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 10:30,,22.85,-68.61,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 10:45,,22.87,-67.27,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 11:00,,22.9,-68.69,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 11:15,,22.9,-68.44,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 11:30,,22.9,-68,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 11:45,,22.78,-68.1,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 12:00,,22.75,-68.39,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 12:15,,22.49,-69.42,7.93
+HOBO pH logger,OA_Shallow,11/14/2021 12:30,,22.56,-70.24,7.95
+HOBO pH logger,OA_Shallow,11/14/2021 12:45,,22.51,-70.22,7.95
+HOBO pH logger,OA_Shallow,11/14/2021 13:00,,22.61,-70.28,7.95
+HOBO pH logger,OA_Shallow,11/14/2021 13:15,,22.66,-69.24,7.93
+HOBO pH logger,OA_Shallow,11/14/2021 13:30,,22.71,-68.42,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 13:45,,22.75,-66.83,7.88
+HOBO pH logger,OA_Shallow,11/14/2021 14:00,,22.75,-67.06,7.88
+HOBO pH logger,OA_Shallow,11/14/2021 14:15,,22.75,-67.83,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 14:30,,22.78,-67.96,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 14:45,,22.82,-68.94,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 15:00,,22.85,-67.86,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 15:15,,22.85,-64.49,7.84
+HOBO pH logger,OA_Shallow,11/14/2021 15:30,,23.09,-67.61,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 15:45,,23.21,-67.77,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 16:00,,23.23,-66.67,7.88
+HOBO pH logger,OA_Shallow,11/14/2021 16:15,,23.3,-68.35,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 16:30,,23.33,-68.13,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 16:45,,23.33,-65.78,7.86
+HOBO pH logger,OA_Shallow,11/14/2021 17:00,,23.3,-66.97,7.88
+HOBO pH logger,OA_Shallow,11/14/2021 17:15,,23.33,-66.33,7.87
+HOBO pH logger,OA_Shallow,11/14/2021 17:30,,23.35,-67.28,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 17:45,,23.33,-65.85,7.86
+HOBO pH logger,OA_Shallow,11/14/2021 18:00,,23.33,-67.47,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 18:15,,23.33,-69.64,7.93
+HOBO pH logger,OA_Shallow,11/14/2021 18:30,,23.33,-68.8,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 18:45,,23.35,-64.06,7.83
+HOBO pH logger,OA_Shallow,11/14/2021 19:00,,23.33,-67.08,7.88
+HOBO pH logger,OA_Shallow,11/14/2021 19:15,,23.33,-65.52,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 19:30,,23.3,-65.58,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 19:45,,23.33,-65.35,7.85
+HOBO pH logger,OA_Shallow,11/14/2021 20:00,,23.33,-66.53,7.87
+HOBO pH logger,OA_Shallow,11/14/2021 20:15,,23.35,-64.44,7.83
+HOBO pH logger,OA_Shallow,11/14/2021 20:30,,23.35,-65.91,7.86
+HOBO pH logger,OA_Shallow,11/14/2021 20:45,,23.4,-63.1,7.81
+HOBO pH logger,OA_Shallow,11/14/2021 21:00,,23.4,-61.13,7.77
+HOBO pH logger,OA_Shallow,11/14/2021 21:15,,23.42,-59.13,7.73
+HOBO pH logger,OA_Shallow,11/14/2021 21:30,,23.45,-60.06,7.75
+HOBO pH logger,OA_Shallow,11/14/2021 21:45,,23.42,-62.86,7.8
+HOBO pH logger,OA_Shallow,11/14/2021 22:00,,23.35,-68.27,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 22:15,,23.09,-68.17,7.9
+HOBO pH logger,OA_Shallow,11/14/2021 22:30,,23.04,-68.33,7.91
+HOBO pH logger,OA_Shallow,11/14/2021 22:45,,22.99,-68.94,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 23:00,,22.97,-70,7.94
+HOBO pH logger,OA_Shallow,11/14/2021 23:15,,23.02,-68.72,7.92
+HOBO pH logger,OA_Shallow,11/14/2021 23:30,,23.06,-67.63,7.89
+HOBO pH logger,OA_Shallow,11/14/2021 23:45,,23.09,-64.81,7.84
+HOBO pH logger,OA_Shallow,11/15/2021 0:00,,23.04,-66.06,7.86
+HOBO pH logger,OA_Shallow,11/15/2021 0:15,,22.99,-68.27,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 0:30,,23.02,-68.44,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 0:45,,22.99,-68.66,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 1:00,,23.02,-67.81,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 1:15,,23.11,-58.66,7.72
+HOBO pH logger,OA_Shallow,11/15/2021 1:30,,23.09,-54.86,7.65
+HOBO pH logger,OA_Shallow,11/15/2021 1:45,,23.14,-56.5,7.68
+HOBO pH logger,OA_Shallow,11/15/2021 2:00,,23.16,-59.61,7.74
+HOBO pH logger,OA_Shallow,11/15/2021 2:15,,23.21,-66.74,7.88
+HOBO pH logger,OA_Shallow,11/15/2021 2:30,,23.23,-68.52,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 2:45,,23.26,-68.21,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 3:00,,23.26,-66.28,7.87
+HOBO pH logger,OA_Shallow,11/15/2021 3:15,,23.23,-67.03,7.88
+HOBO pH logger,OA_Shallow,11/15/2021 3:30,,23.23,-66.35,7.87
+HOBO pH logger,OA_Shallow,11/15/2021 3:45,,23.26,-61.49,7.78
+HOBO pH logger,OA_Shallow,11/15/2021 4:00,,23.28,-54.19,7.64
+HOBO pH logger,OA_Shallow,11/15/2021 4:15,,23.28,-55.02,7.65
+HOBO pH logger,OA_Shallow,11/15/2021 4:30,,23.3,-61.2,7.77
+HOBO pH logger,OA_Shallow,11/15/2021 4:45,,23.33,-59.77,7.74
+HOBO pH logger,OA_Shallow,11/15/2021 5:00,,23.33,-50.95,7.58
+HOBO pH logger,OA_Shallow,11/15/2021 5:15,,23.35,-49.97,7.56
+HOBO pH logger,OA_Shallow,11/15/2021 5:30,,23.33,-53.53,7.63
+HOBO pH logger,OA_Shallow,11/15/2021 5:45,,23.33,-61.97,7.79
+HOBO pH logger,OA_Shallow,11/15/2021 6:00,,23.3,-65.42,7.85
+HOBO pH logger,OA_Shallow,11/15/2021 6:15,,23.3,-67.58,7.89
+HOBO pH logger,OA_Shallow,11/15/2021 6:30,,23.3,-67.77,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 6:45,,23.33,-67.75,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 7:00,,23.3,-67.27,7.89
+HOBO pH logger,OA_Shallow,11/15/2021 7:15,,23.35,-66.24,7.87
+HOBO pH logger,OA_Shallow,11/15/2021 7:30,,23.23,-66.96,7.88
+HOBO pH logger,OA_Shallow,11/15/2021 7:45,,23.23,-67.11,7.88
+HOBO pH logger,OA_Shallow,11/15/2021 8:00,,23.23,-67.35,7.89
+HOBO pH logger,OA_Shallow,11/15/2021 8:15,,23.23,-68.69,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 8:30,,23.06,-68.6,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 8:45,,23.18,-67.85,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 9:00,,23.23,-68.78,7.92
+HOBO pH logger,OA_Shallow,11/15/2021 9:15,,23.16,-67.91,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 9:30,,23.18,-67.99,7.9
+HOBO pH logger,OA_Shallow,11/15/2021 9:45,,23.18,-66.94,7.88
+HOBO pH logger,OA_Shallow,11/15/2021 10:00,,23.21,-66.28,7.87
+HOBO pH logger,OA_Shallow,11/15/2021 10:15,,23.18,-68.3,7.91
+HOBO pH logger,OA_Shallow,11/15/2021 10:30,,23.28,-61.5,7.78
+HOBO pH logger,OA_Shallow,11/15/2021 10:45,,23.55,-62.71,7.8
+HOBO pH logger,OA_Shallow,11/15/2021 11:00,,23.67,-63.25,7.81
+HOBO pH logger,OA_Shallow,11/15/2021 11:15,,24.07,-63.38,7.81
+HOBO pH logger,OA_Shallow,11/15/2021 11:30,,23.93,-62.47,7.79
+HOBO pH logger,OA_Shallow,11/15/2021 11:45,,24.29,-62.49,7.79
+HOBO pH logger,OA_Shallow,11/15/2021 12:00,,24.07,-62.31,7.79
+HOBO pH logger,OA_Shallow,11/15/2021 12:15,,23.95,-62.24,7.79
+HOBO pH logger,OA_Shallow,11/15/2021 12:30,,23.91,-63.5,7.81
+HOBO pH logger,OA_Shallow,11/15/2021 12:45,,23.38,-63.41,7.81
+HOBO pH logger,OA_Shallow,11/15/2021 13:00,,22.87,-63.41,7.81
+HOBO pH logger,OA_Shallow,11/15/2021 13:15,,22.3,-63.61,7.82
+HOBO pH logger,OA_Shallow,11/15/2021 13:30,,21.8,-63.13,7.81
+HOBO pH logger,OA_Shallow,11/15/2021 13:45,,21.34,-63.8,7.83
+HOBO pH logger,OA_Shallow,11/15/2021 14:00,,20.89,-64.16,7.83
+HOBO pH logger,OA_Shallow,11/15/2021 14:15,,20.41,-64.11,7.84
+HOBO pH logger,OA_Shallow,11/15/2021 14:30,,20.13,-64.33,7.84
+HOBO pH logger,OA_Shallow,11/15/2021 14:45,,20.13,-64.19,7.84
+HOBO pH logger,OA_Shallow,11/15/2021 15:00,,19.89,-65.03,7.85
+HOBO pH logger,OA_Shallow,11/15/2021 15:15,,19.34,-64.11,7.84
+HOBO pH logger,OA_Shallow,11/15/2021 15:30,,20.41,-71.17,7.97
+HOBO pH logger,OA_Shallow,11/15/2021 15:45,,20.48,-71.33,7.97
+HOBO pH logger,OA_Shallow,11/15/2021 16:00,,20.51,-71.49,7.98
+HOBO pH logger,OA_Shallow,11/15/2021 16:15,,20.51,-71.56,7.98
+HOBO pH logger,OA_Shallow,11/15/2021 16:30,,20.51,-71.55,7.98
+HOBO pH logger,OA_Shallow,11/15/2021 16:45,,20.48,-71.52,7.98
+HOBO pH logger,OA_Shallow,11/15/2021 17:00,,20.48,-71.39,7.97
+HOBO pH logger,OA_Shallow,11/15/2021 17:15,,20.46,-71.21,7.97
+HOBO pH logger,OA_Shallow,11/15/2021 17:30,,20.44,-71.03,7.97
+HOBO pH logger,OA_Shallow,11/15/2021 17:45,,20.41,-70.86,7.96
+HOBO pH logger,OA_Shallow,11/15/2021 18:00,,20.39,-70.67,7.96
+HOBO pH logger,OA_Shallow,11/15/2021 18:15,,20.37,-70.52,7.96
+HOBO pH logger,OA_Shallow,11/15/2021 18:30,,20.34,-70.38,7.96
+HOBO pH logger,OA_Shallow,11/15/2021 18:45,,20.32,-70.25,7.95
+HOBO pH logger,OA_Shallow,11/15/2021 19:00,,20.29,-70.14,7.95
+HOBO pH logger,OA_Shallow,11/15/2021 19:15,,20.27,-69.94,7.95
+HOBO pH logger,OA_Shallow,11/15/2021 19:30,,20.27,-69.83,7.95
+HOBO pH logger,OA_Shallow,11/15/2021 19:45,,20.22,-69.71,7.94
+HOBO pH logger,OA_Shallow,11/15/2021 20:00,,20.2,-69.6,7.94
+HOBO pH logger,OA_Shallow,11/15/2021 20:15,,20.17,-69.53,7.94
+HOBO pH logger,OA_Shallow,11/15/2021 20:30,,20.15,-69.5,7.94
+HOBO pH logger,OA_Shallow,11/15/2021 20:45,,20.13,-69.39,7.94
+HOBO pH logger,OA_Shallow,11/15/2021 21:00,,20.13,-69.31,7.94
+HOBO pH logger,OA_Shallow,11/15/2021 21:15,,20.1,-69.24,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 21:30,,20.08,-69.21,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 21:45,,20.06,-69.16,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 22:00,,20.03,-69.11,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 22:15,,20.03,-69.1,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 22:30,,20.01,-69.05,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 22:45,,20.01,-69.03,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 23:00,,19.98,-68.97,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 23:15,,19.96,-68.89,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 23:30,,19.94,-68.86,7.93
+HOBO pH logger,OA_Shallow,11/15/2021 23:45,,19.94,-68.86,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 0:00,,19.91,-68.83,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 0:15,,19.89,-68.77,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 0:30,,19.89,-68.75,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 0:45,,19.89,-68.74,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 1:00,,19.87,-68.77,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 1:15,,19.87,-68.83,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 1:30,,19.87,-68.85,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 1:45,,19.84,-68.88,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 2:00,,19.84,-68.91,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 2:15,,19.82,-68.91,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 2:30,,19.82,-68.91,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 2:45,,19.79,-68.94,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 3:00,,19.79,-68.96,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 3:15,,19.77,-68.96,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 3:30,,19.77,-68.99,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 3:45,,19.77,-69.02,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 4:00,,19.75,-69.03,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 4:15,,19.75,-69,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 4:30,,19.75,-68.99,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 4:45,,19.75,-68.94,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 5:00,,19.72,-68.77,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 5:15,,19.7,-68.69,7.93
+HOBO pH logger,OA_Shallow,11/16/2021 5:30,,19.7,-68.61,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 5:45,,19.67,-68.58,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 6:00,,19.67,-68.56,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 6:15,,19.65,-68.44,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 6:30,,19.63,-68.33,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 6:45,,19.6,-68.24,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 7:00,,19.6,-68.22,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 7:15,,19.6,-68.21,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 7:30,,19.58,-68.22,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 7:45,,19.6,-68.31,7.92
+HOBO pH logger,OA_Shallow,11/16/2021 8:00,,19.6,-68.38,7.92
+HOBO pH logger,Control_Shallow,11/1/2021 18:00,,24.61,-80.1,8.23
+HOBO pH logger,Control_Shallow,11/1/2021 18:15,,24.61,-80.03,8.23
+HOBO pH logger,Control_Shallow,11/1/2021 18:30,,24.58,-79.97,8.22
+HOBO pH logger,Control_Shallow,11/1/2021 18:45,,24.58,-79.53,8.22
+HOBO pH logger,Control_Shallow,11/1/2021 19:00,,24.58,-78.99,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 19:15,,24.58,-79.41,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 19:30,,24.58,-79.42,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 19:45,,24.63,-79.56,8.22
+HOBO pH logger,Control_Shallow,11/1/2021 20:00,,24.65,-78.99,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 20:15,,24.63,-79.28,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 20:30,,24.61,-78.97,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 20:45,,24.53,-79.08,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 21:00,,24.51,-78.86,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 21:15,,24.53,-78.92,8.21
+HOBO pH logger,Control_Shallow,11/1/2021 21:30,,24.63,-78.63,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 21:45,,24.58,-78.81,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 22:00,,24.65,-78.61,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 22:15,,24.58,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 22:30,,24.63,-78.35,8.19
+HOBO pH logger,Control_Shallow,11/1/2021 22:45,,24.63,-78.47,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 23:00,,24.63,-78.63,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 23:15,,24.63,-78.66,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 23:30,,24.63,-78.47,8.2
+HOBO pH logger,Control_Shallow,11/1/2021 23:45,,24.63,-78.47,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 0:00,,24.61,-78.52,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 0:15,,24.61,-78.49,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 0:30,,24.58,-78.33,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 0:45,,24.58,-78.25,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 1:00,,24.56,-78.06,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 1:15,,24.56,-78.42,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 1:30,,24.56,-78.41,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 1:45,,24.56,-78.56,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 2:00,,24.56,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 2:15,,24.51,-77.67,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 2:30,,24.51,-77.83,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 2:45,,24.44,-77.41,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 3:00,,24.44,-77.49,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 3:15,,24.46,-77.77,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 3:30,,24.48,-77.24,8.17
+HOBO pH logger,Control_Shallow,11/2/2021 3:45,,24.51,-77.27,8.17
+HOBO pH logger,Control_Shallow,11/2/2021 4:00,,24.53,-77.52,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 4:15,,24.53,-77.97,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 4:30,,24.51,-77.77,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 4:45,,24.53,-77.78,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 5:00,,24.53,-77.74,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 5:15,,24.53,-77.8,8.18
+HOBO pH logger,Control_Shallow,11/2/2021 5:30,,24.63,-78.39,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 5:45,,24.82,-78.85,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 6:00,,24.92,-79.22,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 6:15,,24.94,-79.25,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 6:30,,24.9,-78.92,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 6:45,,24.77,-78.44,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 7:00,,24.73,-78.21,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 7:15,,24.7,-78.16,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 7:30,,24.68,-78.02,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 7:45,,24.7,-78.27,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 8:00,,24.7,-78.31,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 8:15,,24.73,-78.5,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 8:30,,24.77,-79.11,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 8:45,,24.8,-79.46,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 9:00,,24.82,-79.63,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 9:15,,24.77,-79.46,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 9:30,,24.73,-79.38,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 9:45,,24.68,-79.56,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 10:00,,24.68,-79.75,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 10:15,,24.63,-79.71,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 10:30,,24.63,-80.05,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 10:45,,24.63,-80.44,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 11:00,,24.63,-80.1,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 11:15,,24.65,-80.71,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 11:30,,24.65,-80.52,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 11:45,,24.65,-80.64,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 12:00,,24.68,-81.16,8.25
+HOBO pH logger,Control_Shallow,11/2/2021 12:15,,24.68,-81.08,8.25
+HOBO pH logger,Control_Shallow,11/2/2021 12:30,,24.68,-80.89,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 12:45,,24.65,-81.05,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 13:00,,24.7,-81.05,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 13:15,,24.75,-80.89,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 13:30,,24.75,-80.86,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 13:45,,24.77,-81.13,8.25
+HOBO pH logger,Control_Shallow,11/2/2021 14:00,,24.82,-80.99,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 14:15,,24.85,-81,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 14:30,,24.87,-80.99,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 14:45,,24.9,-80.94,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 15:00,,24.92,-80.89,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 15:15,,24.97,-80.8,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 15:30,,24.99,-80.71,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 15:45,,24.97,-80.64,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 16:00,,24.87,-81.39,8.25
+HOBO pH logger,Control_Shallow,11/2/2021 16:15,,24.87,-81.14,8.25
+HOBO pH logger,Control_Shallow,11/2/2021 16:30,,24.92,-80.83,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 16:45,,24.97,-80.81,8.24
+HOBO pH logger,Control_Shallow,11/2/2021 17:00,,25.02,-80.6,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 17:15,,25.09,-80.25,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 17:30,,25.14,-80.1,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 17:45,,25.16,-80.27,8.23
+HOBO pH logger,Control_Shallow,11/2/2021 18:00,,25.14,-80,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 18:15,,25.16,-79.86,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 18:30,,25.19,-79.83,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 18:45,,25.21,-79.96,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 19:00,,25.23,-79.72,8.22
+HOBO pH logger,Control_Shallow,11/2/2021 19:15,,25.19,-79.56,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 19:30,,25.16,-79.44,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 19:45,,25.19,-79.46,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 20:00,,25.16,-79.46,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 20:15,,25.21,-79.41,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 20:30,,25.33,-79.38,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 20:45,,25.33,-79.38,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 21:00,,25.4,-79.49,8.21
+HOBO pH logger,Control_Shallow,11/2/2021 21:15,,25.33,-78.86,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 21:30,,25.36,-79,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 21:45,,25.28,-78.74,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 22:00,,25.23,-78.53,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 22:15,,25.23,-78.6,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 22:30,,25.21,-78.53,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 22:45,,25.26,-78.56,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 23:00,,25.21,-78.8,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 23:15,,25.21,-78.69,8.2
+HOBO pH logger,Control_Shallow,11/2/2021 23:30,,25.21,-78.52,8.19
+HOBO pH logger,Control_Shallow,11/2/2021 23:45,,25.21,-78.49,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 0:00,,25.23,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 0:15,,25.26,-78.91,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 0:30,,25.26,-78.8,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 0:45,,25.19,-78.31,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 1:00,,25.23,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 1:15,,25.23,-78.56,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 1:30,,25.21,-77.94,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 1:45,,25.11,-78.27,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 2:00,,24.97,-78.3,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 2:15,,24.75,-78.38,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 2:30,,24.7,-78.41,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 2:45,,24.68,-78.41,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 3:00,,24.68,-78.22,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 3:15,,24.7,-77.92,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 3:30,,24.75,-77.75,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 3:45,,24.75,-77.91,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 4:00,,24.77,-77.75,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 4:15,,24.77,-77.67,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 4:30,,24.75,-77.71,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 4:45,,24.68,-77.71,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 5:00,,24.63,-77.56,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 5:15,,24.61,-77.66,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 5:30,,24.56,-77.75,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 5:45,,24.56,-77.75,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 6:00,,24.56,-77.66,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 6:15,,24.56,-77.6,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 6:30,,24.58,-77.77,8.18
+HOBO pH logger,Control_Shallow,11/3/2021 6:45,,24.77,-78.72,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 7:00,,24.82,-78.77,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 7:15,,24.87,-79.03,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 7:30,,24.85,-79.13,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 7:45,,24.82,-79.33,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 8:00,,24.82,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 8:15,,24.8,-79.39,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 8:30,,24.77,-79.89,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 8:45,,24.75,-79.86,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 9:00,,24.73,-79.94,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 9:15,,24.73,-80.3,8.23
+HOBO pH logger,Control_Shallow,11/3/2021 9:30,,24.65,-80.22,8.23
+HOBO pH logger,Control_Shallow,11/3/2021 9:45,,24.63,-80.61,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 10:00,,24.65,-80.99,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 10:15,,24.61,-80.72,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 10:30,,24.48,-81.06,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 10:45,,24.44,-80.47,8.23
+HOBO pH logger,Control_Shallow,11/3/2021 11:00,,24.46,-80.5,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 11:15,,24.48,-80.49,8.23
+HOBO pH logger,Control_Shallow,11/3/2021 11:30,,24.51,-81.19,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 11:45,,24.56,-81.31,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 12:00,,24.53,-81.41,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 12:15,,24.53,-81.5,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 12:30,,24.53,-81.21,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 12:45,,24.46,-80.77,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 13:00,,24.46,-80.53,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 13:15,,24.48,-81.21,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 13:30,,24.48,-81.14,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 13:45,,24.48,-81.61,8.26
+HOBO pH logger,Control_Shallow,11/3/2021 14:00,,24.44,-80.97,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 14:15,,24.39,-80.75,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 14:30,,24.39,-80.97,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 14:45,,24.41,-81.16,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 15:00,,24.46,-81.16,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 15:15,,24.48,-81.14,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 15:30,,24.48,-81.13,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 15:45,,24.48,-81.24,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 16:00,,24.51,-81.41,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 16:15,,24.51,-81.46,8.25
+HOBO pH logger,Control_Shallow,11/3/2021 16:30,,24.56,-80.77,8.24
+HOBO pH logger,Control_Shallow,11/3/2021 16:45,,24.58,-80.49,8.23
+HOBO pH logger,Control_Shallow,11/3/2021 17:00,,24.58,-80.24,8.23
+HOBO pH logger,Control_Shallow,11/3/2021 17:15,,24.58,-79.91,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 17:30,,24.58,-79.86,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 17:45,,24.56,-79.8,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 18:00,,24.48,-79.55,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 18:15,,24.46,-79.41,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 18:30,,24.46,-79.38,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 18:45,,24.48,-79.3,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 19:00,,24.48,-79.55,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 19:15,,24.48,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 19:30,,24.51,-79.52,8.22
+HOBO pH logger,Control_Shallow,11/3/2021 19:45,,24.51,-79.41,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 20:00,,24.48,-79.22,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 20:15,,24.58,-79.35,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 20:30,,24.63,-79.1,8.21
+HOBO pH logger,Control_Shallow,11/3/2021 20:45,,24.58,-78.81,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 21:00,,24.58,-78.66,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 21:15,,24.56,-78.78,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 21:30,,24.51,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 21:45,,24.51,-78.64,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 22:00,,24.48,-78.53,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 22:15,,24.48,-78.42,8.2
+HOBO pH logger,Control_Shallow,11/3/2021 22:30,,24.48,-78.35,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 22:45,,24.48,-78.31,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 23:00,,24.51,-78.27,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 23:15,,24.48,-78.24,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 23:30,,24.48,-78.16,8.19
+HOBO pH logger,Control_Shallow,11/3/2021 23:45,,24.51,-78.74,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 0:00,,24.48,-78.49,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 0:15,,24.48,-78.49,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 0:30,,24.34,-77.86,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 0:45,,24.03,-78,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 1:00,,23.91,-78.08,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 1:15,,23.88,-78.14,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 1:30,,23.95,-77.99,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 1:45,,24.07,-77.86,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 2:00,,24.15,-78.13,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 2:15,,24.24,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 2:30,,24.32,-78.52,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 2:45,,24.36,-78.75,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 3:00,,24.36,-78.74,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 3:15,,24.36,-78.81,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 3:30,,24.36,-78.78,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 3:45,,24.36,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 4:00,,24.34,-78.6,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 4:15,,24.29,-77.96,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 4:30,,24.29,-77.97,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 4:45,,24.32,-78.33,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 5:00,,24.32,-78.02,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 5:15,,24.34,-77.85,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 5:30,,24.41,-78.22,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 5:45,,24.51,-78.74,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 6:00,,24.53,-78.66,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 6:15,,24.56,-78.61,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 6:30,,24.58,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 6:45,,24.58,-78.91,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 7:00,,24.53,-79,8.21
+HOBO pH logger,Control_Shallow,11/4/2021 7:15,,24.53,-78.88,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 7:30,,24.53,-78.64,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 7:45,,24.51,-78.74,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 8:00,,24.53,-78.94,8.21
+HOBO pH logger,Control_Shallow,11/4/2021 8:15,,24.68,-79.49,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 8:30,,24.68,-79.63,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 8:45,,24.73,-80.08,8.23
+HOBO pH logger,Control_Shallow,11/4/2021 9:00,,24.7,-79.96,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 9:15,,24.68,-80.16,8.23
+HOBO pH logger,Control_Shallow,11/4/2021 9:30,,24.63,-80.36,8.23
+HOBO pH logger,Control_Shallow,11/4/2021 9:45,,24.58,-80.69,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 10:00,,24.56,-80.24,8.23
+HOBO pH logger,Control_Shallow,11/4/2021 10:15,,24.56,-80.53,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 10:30,,24.58,-80.91,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 10:45,,24.58,-81.05,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 11:00,,24.58,-81.35,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 11:15,,24.51,-80.92,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 11:30,,24.41,-80.83,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 11:45,,24.36,-80.96,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 12:00,,24.34,-80.89,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 12:15,,24.36,-81.03,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 12:30,,24.41,-81.05,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 12:45,,24.44,-81.96,8.26
+HOBO pH logger,Control_Shallow,11/4/2021 13:00,,24.48,-81.96,8.26
+HOBO pH logger,Control_Shallow,11/4/2021 13:15,,24.53,-82.25,8.27
+HOBO pH logger,Control_Shallow,11/4/2021 13:30,,24.51,-81.64,8.26
+HOBO pH logger,Control_Shallow,11/4/2021 13:45,,24.46,-81.63,8.26
+HOBO pH logger,Control_Shallow,11/4/2021 14:00,,24.48,-82.38,8.27
+HOBO pH logger,Control_Shallow,11/4/2021 14:15,,24.22,-80.52,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 14:30,,24.17,-80.94,8.24
+HOBO pH logger,Control_Shallow,11/4/2021 14:45,,24.27,-81.42,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 15:00,,24.24,-81.31,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 15:15,,24.27,-81.39,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 15:30,,24.29,-81.16,8.25
+HOBO pH logger,Control_Shallow,11/4/2021 15:45,,24.05,-79.83,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 16:00,,24,-79.71,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 16:15,,24,-79.71,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 16:30,,24.03,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 16:45,,24.05,-79.42,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 17:00,,24.05,-79.36,8.22
+HOBO pH logger,Control_Shallow,11/4/2021 17:15,,24.07,-79.27,8.21
+HOBO pH logger,Control_Shallow,11/4/2021 17:30,,24.07,-79.03,8.21
+HOBO pH logger,Control_Shallow,11/4/2021 17:45,,24.07,-79.24,8.21
+HOBO pH logger,Control_Shallow,11/4/2021 18:00,,24.07,-79.14,8.21
+HOBO pH logger,Control_Shallow,11/4/2021 18:15,,24.05,-78.72,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 18:30,,24.05,-78.67,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 18:45,,24.03,-78.52,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 19:00,,24,-78.61,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 19:15,,23.88,-78.38,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 19:30,,23.86,-78.52,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 19:45,,23.79,-77.99,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 20:00,,23.69,-78.44,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 20:15,,23.83,-78.53,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 20:30,,23.83,-78.44,8.2
+HOBO pH logger,Control_Shallow,11/4/2021 20:45,,23.79,-77.72,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 21:00,,23.81,-78.1,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 21:15,,23.81,-77.85,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 21:30,,23.81,-77.52,8.18
+HOBO pH logger,Control_Shallow,11/4/2021 21:45,,23.81,-78.02,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 22:00,,23.81,-78,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 22:15,,23.81,-77.89,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 22:30,,23.81,-77.5,8.18
+HOBO pH logger,Control_Shallow,11/4/2021 22:45,,23.79,-77.92,8.19
+HOBO pH logger,Control_Shallow,11/4/2021 23:00,,23.79,-77.36,8.18
+HOBO pH logger,Control_Shallow,11/4/2021 23:15,,23.79,-77.6,8.18
+HOBO pH logger,Control_Shallow,11/4/2021 23:30,,23.59,-77.42,8.18
+HOBO pH logger,Control_Shallow,11/4/2021 23:45,,23.5,-77.19,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 0:00,,23.47,-77.17,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 0:15,,23.5,-77.22,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 0:30,,23.47,-76.58,8.17
+HOBO pH logger,Control_Shallow,11/5/2021 0:45,,23.45,-76.63,8.17
+HOBO pH logger,Control_Shallow,11/5/2021 1:00,,23.4,-76.96,8.17
+HOBO pH logger,Control_Shallow,11/5/2021 1:15,,23.35,-77.33,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 1:30,,23.33,-77.16,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 1:45,,23.23,-76.52,8.17
+HOBO pH logger,Control_Shallow,11/5/2021 2:00,,23.09,-77.05,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 2:15,,23.16,-76.85,8.17
+HOBO pH logger,Control_Shallow,11/5/2021 2:30,,23.21,-76.97,8.17
+HOBO pH logger,Control_Shallow,11/5/2021 2:45,,23.33,-77.5,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 3:00,,23.4,-77.83,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 3:15,,23.38,-77.8,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 3:30,,23.33,-78,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 3:45,,23.47,-78.08,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 4:00,,23.52,-78.1,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 4:15,,23.5,-77.81,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 4:30,,23.5,-77.77,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 4:45,,23.47,-77.35,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 5:00,,23.52,-77.66,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 5:15,,23.45,-77.3,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 5:30,,23.45,-77.25,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 5:45,,23.47,-77.36,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 6:00,,23.5,-77.47,8.18
+HOBO pH logger,Control_Shallow,11/5/2021 6:15,,23.52,-77.75,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 6:30,,23.57,-77.92,8.19
+HOBO pH logger,Control_Shallow,11/5/2021 6:45,,23.59,-78.25,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 7:00,,23.64,-78.75,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 7:15,,23.67,-78.85,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 7:30,,23.69,-79.08,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 7:45,,23.79,-79.58,8.22
+HOBO pH logger,Control_Shallow,11/5/2021 8:00,,23.91,-79.91,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 8:15,,23.98,-80.28,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 8:30,,23.98,-80.39,8.24
+HOBO pH logger,Control_Shallow,11/5/2021 8:45,,23.95,-80.3,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 9:00,,24.03,-80.28,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 9:15,,24.03,-81.14,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 9:30,,24.05,-80.74,8.24
+HOBO pH logger,Control_Shallow,11/5/2021 9:45,,24.03,-81.05,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 10:00,,24,-81.39,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 10:15,,24,-81.81,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 10:30,,24,-82.46,8.27
+HOBO pH logger,Control_Shallow,11/5/2021 10:45,,23.98,-82.41,8.27
+HOBO pH logger,Control_Shallow,11/5/2021 11:00,,23.98,-81.91,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 11:15,,23.95,-82.28,8.27
+HOBO pH logger,Control_Shallow,11/5/2021 11:30,,23.93,-82.49,8.27
+HOBO pH logger,Control_Shallow,11/5/2021 11:45,,23.91,-81.71,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 12:00,,23.91,-81.56,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 12:15,,23.88,-81.63,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 12:30,,23.64,-81.06,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 12:45,,23.52,-80.31,8.24
+HOBO pH logger,Control_Shallow,11/5/2021 13:00,,23.5,-80.71,8.24
+HOBO pH logger,Control_Shallow,11/5/2021 13:15,,23.5,-81.1,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 13:30,,23.52,-81.41,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 13:45,,23.57,-81.19,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 14:00,,23.62,-81.5,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 14:15,,23.64,-81.69,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 14:30,,23.69,-81.64,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 14:45,,23.71,-81.8,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 15:00,,23.74,-81.75,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 15:15,,23.74,-81.55,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 15:30,,23.74,-81.53,8.26
+HOBO pH logger,Control_Shallow,11/5/2021 15:45,,23.74,-81.33,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 16:00,,23.74,-81.3,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 16:15,,23.74,-81.25,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 16:30,,23.76,-80.91,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 16:45,,23.76,-80.88,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 17:00,,23.71,-81.24,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 17:15,,23.71,-80.97,8.25
+HOBO pH logger,Control_Shallow,11/5/2021 17:30,,23.71,-80.78,8.24
+HOBO pH logger,Control_Shallow,11/5/2021 17:45,,23.71,-80.6,8.24
+HOBO pH logger,Control_Shallow,11/5/2021 18:00,,23.74,-80.21,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 18:15,,23.74,-80.24,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 18:30,,23.71,-80.19,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 18:45,,23.71,-80.03,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 19:00,,23.69,-80.02,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 19:15,,23.71,-79.88,8.23
+HOBO pH logger,Control_Shallow,11/5/2021 19:30,,23.69,-79.74,8.22
+HOBO pH logger,Control_Shallow,11/5/2021 19:45,,23.71,-79.71,8.22
+HOBO pH logger,Control_Shallow,11/5/2021 20:00,,23.71,-79.53,8.22
+HOBO pH logger,Control_Shallow,11/5/2021 20:15,,23.81,-79.5,8.22
+HOBO pH logger,Control_Shallow,11/5/2021 20:30,,23.74,-79.25,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 20:45,,23.67,-79.06,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 21:00,,23.67,-78.99,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 21:15,,23.62,-79.1,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 21:30,,23.59,-78.96,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 21:45,,23.62,-78.91,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 22:00,,23.62,-78.77,8.21
+HOBO pH logger,Control_Shallow,11/5/2021 22:15,,23.59,-78.66,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 22:30,,23.57,-78.56,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 22:45,,23.59,-78.56,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 23:00,,23.62,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 23:15,,23.64,-78.35,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 23:30,,23.67,-78.35,8.2
+HOBO pH logger,Control_Shallow,11/5/2021 23:45,,23.67,-78.3,8.2
+HOBO pH logger,Control_Shallow,11/6/2021 0:00,,23.67,-78.22,8.2
+HOBO pH logger,Control_Shallow,11/6/2021 0:15,,23.67,-78.1,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 0:30,,23.59,-77.97,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 0:45,,23.59,-77.94,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 1:00,,23.59,-77.96,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 1:15,,23.55,-77.72,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 1:30,,23.5,-77.38,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 1:45,,23.35,-77.46,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 2:00,,23.14,-77.52,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 2:15,,23.02,-77.67,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 2:30,,23.02,-77.5,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 2:45,,23.02,-77.55,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 3:00,,22.99,-77.71,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 3:15,,22.99,-77.5,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 3:30,,22.99,-77.41,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 3:45,,22.9,-77.08,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 4:00,,22.87,-77.25,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 4:15,,22.9,-76.89,8.17
+HOBO pH logger,Control_Shallow,11/6/2021 4:30,,22.87,-77.3,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 4:45,,22.85,-77.53,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 5:00,,22.82,-77.41,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 5:15,,22.87,-77.11,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 5:30,,22.9,-76.88,8.17
+HOBO pH logger,Control_Shallow,11/6/2021 5:45,,22.94,-77.35,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 6:00,,23.04,-78.05,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 6:15,,22.99,-77.56,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 6:30,,22.97,-77.19,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 6:45,,22.97,-77.55,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 7:00,,22.94,-77.17,8.18
+HOBO pH logger,Control_Shallow,11/6/2021 7:15,,22.94,-77.52,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 7:30,,22.94,-77.83,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 7:45,,22.85,-77.96,8.19
+HOBO pH logger,Control_Shallow,11/6/2021 8:00,,22.82,-78.71,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 8:15,,22.82,-78.58,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 8:30,,22.8,-78.58,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 8:45,,22.8,-78.77,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 9:00,,22.85,-79.69,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 9:15,,22.85,-78.85,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 9:30,,22.87,-79.03,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 9:45,,22.9,-79.24,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 10:00,,22.92,-80,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 10:15,,22.92,-80.46,8.24
+HOBO pH logger,Control_Shallow,11/6/2021 10:30,,22.97,-81.16,8.25
+HOBO pH logger,Control_Shallow,11/6/2021 10:45,,23.21,-81.77,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 11:00,,23.33,-81.33,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 11:15,,23.28,-81.39,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 11:30,,23.23,-81.67,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 11:45,,23.16,-82.32,8.27
+HOBO pH logger,Control_Shallow,11/6/2021 12:00,,23.14,-82.17,8.27
+HOBO pH logger,Control_Shallow,11/6/2021 12:15,,23.16,-82.6,8.28
+HOBO pH logger,Control_Shallow,11/6/2021 12:30,,23.16,-81.96,8.27
+HOBO pH logger,Control_Shallow,11/6/2021 12:45,,23.14,-82.42,8.28
+HOBO pH logger,Control_Shallow,11/6/2021 13:00,,23.16,-82.41,8.28
+HOBO pH logger,Control_Shallow,11/6/2021 13:15,,23.16,-81.61,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 13:30,,23.16,-81.83,8.27
+HOBO pH logger,Control_Shallow,11/6/2021 13:45,,23.23,-81.52,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 14:00,,23.18,-81.5,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 14:15,,23.23,-81.63,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 14:30,,23.33,-81.33,8.26
+HOBO pH logger,Control_Shallow,11/6/2021 14:45,,23.42,-81.11,8.25
+HOBO pH logger,Control_Shallow,11/6/2021 15:00,,23.52,-80.67,8.24
+HOBO pH logger,Control_Shallow,11/6/2021 15:15,,23.52,-80.91,8.25
+HOBO pH logger,Control_Shallow,11/6/2021 15:30,,23.57,-80.74,8.24
+HOBO pH logger,Control_Shallow,11/6/2021 15:45,,23.59,-80.64,8.24
+HOBO pH logger,Control_Shallow,11/6/2021 16:00,,23.62,-80.63,8.24
+HOBO pH logger,Control_Shallow,11/6/2021 16:15,,23.64,-80.44,8.24
+HOBO pH logger,Control_Shallow,11/6/2021 16:30,,23.62,-80.24,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 16:45,,23.62,-80.11,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 17:00,,23.59,-80.06,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 17:15,,23.57,-79.91,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 17:30,,23.57,-79.83,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 17:45,,23.52,-79.83,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 18:00,,23.47,-79.77,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 18:15,,23.45,-79.66,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 18:30,,23.47,-79.66,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 18:45,,23.45,-79.81,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 19:00,,23.42,-79.66,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 19:15,,23.42,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 19:30,,23.47,-79.64,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 19:45,,23.52,-79.81,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 20:00,,23.55,-79.77,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 20:15,,23.62,-79.89,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 20:30,,23.74,-79.92,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 20:45,,23.76,-79.91,8.23
+HOBO pH logger,Control_Shallow,11/6/2021 21:00,,23.69,-79.64,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 21:15,,23.55,-79.56,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 21:30,,23.47,-79.28,8.22
+HOBO pH logger,Control_Shallow,11/6/2021 21:45,,23.52,-79.11,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 22:00,,23.57,-79.11,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 22:15,,23.55,-79.17,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 22:30,,23.57,-79.16,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 22:45,,23.55,-78.83,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 23:00,,23.55,-78.91,8.21
+HOBO pH logger,Control_Shallow,11/6/2021 23:15,,23.55,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/6/2021 23:30,,23.52,-78.22,8.2
+HOBO pH logger,Control_Shallow,11/6/2021 23:45,,23.42,-78.25,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 0:00,,23.33,-78.66,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 0:15,,23.33,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 0:30,,23.35,-78.55,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 0:45,,23.35,-78.58,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 1:00,,23.35,-78.41,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 1:15,,23.33,-78.5,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 1:30,,23.33,-78.27,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 1:45,,23.33,-78.25,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 2:00,,23.33,-78.11,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 2:15,,23.3,-78.47,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 2:30,,23.26,-78.06,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 2:45,,23.06,-77.8,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 3:00,,23.02,-78.19,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 3:15,,22.97,-78.22,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 3:30,,22.97,-78.13,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 3:45,,22.97,-77.97,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 4:00,,22.99,-77.94,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 4:15,,22.97,-77.71,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 4:30,,22.87,-77.83,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 4:45,,22.9,-77.75,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 5:00,,23.02,-78,8.19
+HOBO pH logger,Control_Shallow,11/7/2021 5:15,,23.09,-78.66,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 5:30,,23.11,-78.66,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 5:45,,23.11,-78.69,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 6:00,,23.14,-78.85,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 6:15,,23.14,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 6:30,,23.11,-78.36,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 6:45,,23.14,-78.5,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 7:00,,23.14,-78.27,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 7:15,,23.09,-78.41,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 7:30,,23.06,-78.47,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 7:45,,23.11,-78.81,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 8:00,,23.06,-78.53,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 8:15,,23.04,-78.55,8.2
+HOBO pH logger,Control_Shallow,11/7/2021 8:30,,23.06,-79.08,8.21
+HOBO pH logger,Control_Shallow,11/7/2021 8:45,,23.09,-79.53,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 9:00,,22.99,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 9:15,,22.9,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 9:30,,22.9,-80.19,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 9:45,,22.92,-80.22,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 10:00,,22.97,-79.86,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 10:15,,23.06,-80.53,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 10:30,,23.14,-80.89,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 10:45,,23.21,-81.47,8.26
+HOBO pH logger,Control_Shallow,11/7/2021 11:00,,23.21,-81.74,8.26
+HOBO pH logger,Control_Shallow,11/7/2021 11:15,,23.28,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 11:30,,23.26,-82.13,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 11:45,,23.35,-82.53,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 12:00,,23.47,-82.5,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 12:15,,23.55,-82.08,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 12:30,,23.67,-82.46,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 12:45,,23.69,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 13:00,,23.79,-82.94,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 13:15,,23.79,-82.1,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 13:30,,23.79,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 13:45,,23.76,-82.44,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 14:00,,23.76,-82.85,8.28
+HOBO pH logger,Control_Shallow,11/7/2021 14:15,,23.76,-83.1,8.29
+HOBO pH logger,Control_Shallow,11/7/2021 14:30,,23.67,-83.36,8.29
+HOBO pH logger,Control_Shallow,11/7/2021 14:45,,23.69,-83.07,8.29
+HOBO pH logger,Control_Shallow,11/7/2021 15:00,,23.69,-83.07,8.29
+HOBO pH logger,Control_Shallow,11/7/2021 15:15,,23.71,-82.13,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 15:30,,23.76,-81.88,8.26
+HOBO pH logger,Control_Shallow,11/7/2021 15:45,,23.81,-82.36,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 16:00,,23.79,-81.96,8.27
+HOBO pH logger,Control_Shallow,11/7/2021 16:15,,23.81,-81.55,8.26
+HOBO pH logger,Control_Shallow,11/7/2021 16:30,,23.83,-81.41,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 16:45,,23.81,-81.27,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 17:00,,23.83,-81.13,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 17:15,,23.83,-80.94,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 17:30,,23.83,-81.08,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 17:45,,23.83,-80.91,8.25
+HOBO pH logger,Control_Shallow,11/7/2021 18:00,,23.81,-80.8,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 18:15,,23.81,-80.81,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 18:30,,23.76,-80.5,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 18:45,,23.76,-80.61,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 19:00,,23.74,-80.33,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 19:15,,23.71,-80.41,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 19:30,,23.69,-80.3,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 19:45,,23.67,-80.22,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 20:00,,23.67,-80.05,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 20:15,,23.64,-80.27,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 20:30,,23.64,-80.44,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 20:45,,23.62,-80.46,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 21:00,,23.57,-80.31,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 21:15,,23.55,-80.11,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 21:30,,23.5,-80.16,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 21:45,,23.5,-80.3,8.24
+HOBO pH logger,Control_Shallow,11/7/2021 22:00,,23.5,-80.16,8.23
+HOBO pH logger,Control_Shallow,11/7/2021 22:15,,23.21,-79.6,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 22:30,,23.16,-79.41,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 22:45,,23.18,-79.33,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 23:00,,23.26,-79.17,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 23:15,,23.28,-79.35,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 23:30,,23.3,-79.41,8.22
+HOBO pH logger,Control_Shallow,11/7/2021 23:45,,23.3,-79.61,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 0:00,,23.28,-79.8,8.23
+HOBO pH logger,Control_Shallow,11/8/2021 0:15,,23.28,-79.39,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 0:30,,23.33,-79.38,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 0:45,,23.3,-79.1,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 1:00,,23.28,-79.13,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 1:15,,23.23,-79.41,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 1:30,,23.21,-79.35,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 1:45,,23.21,-79.27,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 2:00,,23.18,-79.25,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 2:15,,23.18,-79.41,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 2:30,,23.18,-79.36,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 2:45,,23.16,-79.31,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 3:00,,22.97,-79.21,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 3:15,,22.87,-79.13,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 3:30,,22.8,-78.99,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 3:45,,22.59,-78.81,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 4:00,,22.35,-78.58,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 4:15,,22.3,-78.66,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 4:30,,22.32,-78.49,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 4:45,,22.42,-78.46,8.2
+HOBO pH logger,Control_Shallow,11/8/2021 5:00,,22.47,-78.36,8.2
+HOBO pH logger,Control_Shallow,11/8/2021 5:15,,22.56,-78.5,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 5:30,,22.59,-78.56,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 5:45,,22.63,-78.83,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 6:00,,22.66,-78.97,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 6:15,,22.68,-78.88,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 6:30,,22.71,-79.05,8.21
+HOBO pH logger,Control_Shallow,11/8/2021 6:45,,22.75,-79.38,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 7:00,,22.78,-79.81,8.23
+HOBO pH logger,Control_Shallow,11/8/2021 7:15,,22.8,-79.53,8.22
+HOBO pH logger,Control_Shallow,11/8/2021 7:30,,22.82,-80.03,8.23
+HOBO pH logger,Control_Shallow,11/8/2021 7:45,,22.92,-80.31,8.24
+HOBO pH logger,Control_Shallow,11/8/2021 8:00,,23.06,-80.94,8.25
+HOBO pH logger,Control_Shallow,11/8/2021 8:15,,23.04,-81.31,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 8:30,,23.09,-81.75,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 8:45,,23.09,-81.17,8.25
+HOBO pH logger,Control_Shallow,11/8/2021 9:00,,23.09,-81.58,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 9:15,,23.06,-82.3,8.27
+HOBO pH logger,Control_Shallow,11/8/2021 9:30,,23.06,-81.55,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 9:45,,23.06,-82.69,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 10:00,,23.04,-82.66,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 10:15,,23.06,-83.11,8.29
+HOBO pH logger,Control_Shallow,11/8/2021 10:30,,23.06,-83.47,8.3
+HOBO pH logger,Control_Shallow,11/8/2021 10:45,,23.06,-82.94,8.29
+HOBO pH logger,Control_Shallow,11/8/2021 11:00,,23.06,-84.24,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 11:15,,23.06,-84.39,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 11:30,,23.06,-84.39,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 11:45,,23.09,-84.74,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 12:00,,23.09,-84.57,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 12:15,,23.09,-84.67,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 12:30,,23.09,-84.21,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 12:45,,23.11,-84.42,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 13:00,,23.11,-85.08,8.33
+HOBO pH logger,Control_Shallow,11/8/2021 13:15,,23.14,-84.77,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 13:30,,23.14,-84.38,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 13:45,,23.14,-83.74,8.3
+HOBO pH logger,Control_Shallow,11/8/2021 14:00,,23.14,-84.71,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 14:15,,23.14,-84.53,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 14:30,,23.14,-84.86,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 14:45,,23.14,-84.58,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 15:00,,23.14,-84.57,8.32
+HOBO pH logger,Control_Shallow,11/8/2021 15:15,,23.14,-84.1,8.31
+HOBO pH logger,Control_Shallow,11/8/2021 15:30,,23.11,-83.83,8.3
+HOBO pH logger,Control_Shallow,11/8/2021 15:45,,23.11,-83.77,8.3
+HOBO pH logger,Control_Shallow,11/8/2021 16:00,,23.11,-83.67,8.3
+HOBO pH logger,Control_Shallow,11/8/2021 16:15,,23.14,-83.49,8.3
+HOBO pH logger,Control_Shallow,11/8/2021 16:30,,23.14,-83.24,8.29
+HOBO pH logger,Control_Shallow,11/8/2021 16:45,,23.16,-82.91,8.29
+HOBO pH logger,Control_Shallow,11/8/2021 17:00,,23.16,-82.92,8.29
+HOBO pH logger,Control_Shallow,11/8/2021 17:15,,23.18,-82.69,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 17:30,,23.26,-82.49,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 17:45,,23.33,-82.44,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 18:00,,23.16,-82.69,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 18:15,,23.18,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 18:30,,23.26,-82.38,8.28
+HOBO pH logger,Control_Shallow,11/8/2021 18:45,,23.33,-82.33,8.27
+HOBO pH logger,Control_Shallow,11/8/2021 19:00,,23.38,-82.25,8.27
+HOBO pH logger,Control_Shallow,11/8/2021 19:15,,23.45,-82.03,8.27
+HOBO pH logger,Control_Shallow,11/8/2021 19:30,,23.45,-82.1,8.27
+HOBO pH logger,Control_Shallow,11/8/2021 19:45,,23.45,-81.97,8.27
+HOBO pH logger,Control_Shallow,11/8/2021 20:00,,23.52,-81.81,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 20:15,,23.55,-81.83,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 20:30,,23.57,-81.83,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 20:45,,23.59,-81.77,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 21:00,,23.55,-81.77,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 21:15,,23.55,-81.66,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 21:30,,23.74,-81.81,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 21:45,,23.67,-81.66,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 22:00,,23.79,-81.91,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 22:15,,23.64,-81.42,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 22:30,,23.57,-81.55,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 22:45,,23.52,-81.35,8.25
+HOBO pH logger,Control_Shallow,11/8/2021 23:00,,23.57,-81.36,8.26
+HOBO pH logger,Control_Shallow,11/8/2021 23:15,,23.57,-81.21,8.25
+HOBO pH logger,Control_Shallow,11/8/2021 23:30,,23.59,-81.28,8.25
+HOBO pH logger,Control_Shallow,11/8/2021 23:45,,23.57,-81.11,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 0:00,,23.59,-81.22,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 0:15,,23.64,-81.36,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 0:30,,23.67,-81.28,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 0:45,,23.67,-81.13,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 1:00,,23.67,-81.44,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 1:15,,23.67,-81.24,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 1:30,,23.62,-80.8,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 1:45,,23.62,-80.96,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 2:00,,23.59,-80.69,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 2:15,,23.47,-81.1,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 2:30,,23.47,-80.97,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 2:45,,23.47,-80.71,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 3:00,,23.4,-80.03,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 3:15,,23.4,-80.17,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 3:30,,23.33,-80.53,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 3:45,,23.21,-80.53,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 4:00,,23.18,-80.44,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 4:15,,23.11,-80.41,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 4:30,,23.11,-80.14,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 4:45,,23.04,-80.17,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 5:00,,23.04,-79.77,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 5:15,,22.99,-79.85,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 5:30,,22.99,-79.63,8.22
+HOBO pH logger,Control_Shallow,11/9/2021 5:45,,23.04,-79.41,8.22
+HOBO pH logger,Control_Shallow,11/9/2021 6:00,,22.99,-79.33,8.22
+HOBO pH logger,Control_Shallow,11/9/2021 6:15,,22.99,-79.55,8.22
+HOBO pH logger,Control_Shallow,11/9/2021 6:30,,23.06,-79.96,8.23
+HOBO pH logger,Control_Shallow,11/9/2021 6:45,,23.14,-80.41,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 7:00,,23.18,-80.72,8.24
+HOBO pH logger,Control_Shallow,11/9/2021 7:15,,23.23,-80.89,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 7:30,,23.3,-81.05,8.25
+HOBO pH logger,Control_Shallow,11/9/2021 7:45,,23.33,-81.5,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 8:00,,23.28,-81.3,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 8:15,,23.35,-81.72,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 8:30,,23.42,-81.64,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 8:45,,23.47,-81.71,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 9:00,,23.47,-81.64,8.26
+HOBO pH logger,Control_Shallow,11/9/2021 9:15,,23.67,-82.47,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 9:30,,23.62,-82.33,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 9:45,,23.52,-81.94,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 10:00,,23.57,-82.05,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 10:15,,23.67,-82.35,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 10:30,,23.69,-82.78,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 10:45,,23.71,-82.96,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 11:00,,23.64,-82.33,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 11:15,,23.67,-82.25,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 11:30,,23.69,-82.42,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 11:45,,23.67,-82.3,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 12:00,,23.69,-83.21,8.29
+HOBO pH logger,Control_Shallow,11/9/2021 12:15,,23.74,-83.6,8.3
+HOBO pH logger,Control_Shallow,11/9/2021 12:30,,23.86,-84.52,8.31
+HOBO pH logger,Control_Shallow,11/9/2021 12:45,,23.83,-83.52,8.29
+HOBO pH logger,Control_Shallow,11/9/2021 13:00,,23.79,-83.69,8.3
+HOBO pH logger,Control_Shallow,11/9/2021 13:15,,23.74,-84.46,8.31
+HOBO pH logger,Control_Shallow,11/9/2021 13:30,,23.76,-85.66,8.34
+HOBO pH logger,Control_Shallow,11/9/2021 13:45,,23.79,-85.05,8.32
+HOBO pH logger,Control_Shallow,11/9/2021 14:00,,23.88,-84.71,8.32
+HOBO pH logger,Control_Shallow,11/9/2021 14:15,,23.83,-85.16,8.33
+HOBO pH logger,Control_Shallow,11/9/2021 14:30,,23.81,-85.07,8.32
+HOBO pH logger,Control_Shallow,11/9/2021 14:45,,23.79,-84.88,8.32
+HOBO pH logger,Control_Shallow,11/9/2021 15:00,,23.81,-84.97,8.32
+HOBO pH logger,Control_Shallow,11/9/2021 15:15,,23.86,-84.57,8.31
+HOBO pH logger,Control_Shallow,11/9/2021 15:30,,23.93,-84.55,8.31
+HOBO pH logger,Control_Shallow,11/9/2021 15:45,,23.95,-84.13,8.31
+HOBO pH logger,Control_Shallow,11/9/2021 16:00,,24,-83.91,8.3
+HOBO pH logger,Control_Shallow,11/9/2021 16:15,,24,-83.64,8.3
+HOBO pH logger,Control_Shallow,11/9/2021 16:30,,23.98,-83.58,8.3
+HOBO pH logger,Control_Shallow,11/9/2021 16:45,,23.95,-82.97,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 17:00,,23.91,-82.88,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 17:15,,23.88,-82.77,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 17:30,,23.88,-82.75,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 17:45,,23.86,-82.71,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 18:00,,23.83,-82.75,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 18:15,,23.83,-82.77,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 18:30,,23.81,-82.63,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 18:45,,23.79,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 19:00,,23.79,-82.47,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 19:15,,23.79,-82.5,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 19:30,,23.76,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 19:45,,23.76,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 20:00,,23.71,-82.39,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 20:15,,23.71,-82.36,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 20:30,,23.71,-82.41,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 20:45,,23.71,-82.46,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 21:00,,23.74,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 21:15,,23.81,-82.74,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 21:30,,23.83,-82.8,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 21:45,,23.81,-82.78,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 22:00,,23.76,-82.49,8.28
+HOBO pH logger,Control_Shallow,11/9/2021 22:15,,23.69,-82.14,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 22:30,,23.67,-82.05,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 22:45,,23.67,-82.02,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 23:00,,23.62,-81.99,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 23:15,,23.62,-82.07,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 23:30,,23.62,-81.96,8.27
+HOBO pH logger,Control_Shallow,11/9/2021 23:45,,23.57,-81.89,8.27
+HOBO pH logger,Control_Shallow,11/10/2021 0:00,,23.57,-81.71,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 0:15,,23.57,-81.78,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 0:30,,23.59,-81.85,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 0:45,,23.55,-81.78,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 1:00,,23.47,-81.64,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 1:15,,23.42,-81.46,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 1:30,,23.4,-81.58,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 1:45,,23.38,-81.52,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 2:00,,23.33,-81.44,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 2:15,,23.28,-81.28,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 2:30,,23.28,-81.28,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 2:45,,23.21,-81.03,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 3:00,,23.21,-81.16,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 3:15,,23.14,-81.11,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 3:30,,23.06,-80.89,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 3:45,,23.04,-81.13,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 4:00,,22.99,-81.03,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 4:15,,22.97,-80.88,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 4:30,,22.92,-80.75,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 4:45,,22.9,-80.75,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 5:00,,22.8,-80.28,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 5:15,,22.75,-80.16,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 5:30,,22.71,-80.22,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 5:45,,22.68,-80.27,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 6:00,,22.71,-80.27,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 6:15,,22.68,-80.25,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 6:30,,22.68,-80.19,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 6:45,,22.63,-80.5,8.24
+HOBO pH logger,Control_Shallow,11/10/2021 7:00,,22.63,-80.81,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 7:15,,22.63,-81.03,8.25
+HOBO pH logger,Control_Shallow,11/10/2021 7:30,,22.61,-81.21,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 7:45,,22.56,-81.5,8.26
+HOBO pH logger,Control_Shallow,11/10/2021 8:00,,22.54,-82.05,8.27
+HOBO pH logger,Control_Shallow,11/10/2021 8:15,,22.59,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 8:30,,22.59,-83.03,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 8:45,,22.61,-83.99,8.31
+HOBO pH logger,Control_Shallow,11/10/2021 9:00,,22.63,-83.91,8.31
+HOBO pH logger,Control_Shallow,11/10/2021 9:15,,22.73,-83.8,8.3
+HOBO pH logger,Control_Shallow,11/10/2021 9:30,,22.8,-85.35,8.33
+HOBO pH logger,Control_Shallow,11/10/2021 9:45,,22.82,-84.44,8.32
+HOBO pH logger,Control_Shallow,11/10/2021 10:00,,22.9,-85.21,8.33
+HOBO pH logger,Control_Shallow,11/10/2021 10:15,,22.92,-85.91,8.34
+HOBO pH logger,Control_Shallow,11/10/2021 10:30,,22.92,-86.17,8.35
+HOBO pH logger,Control_Shallow,11/10/2021 10:45,,22.94,-86.72,8.36
+HOBO pH logger,Control_Shallow,11/10/2021 11:00,,22.97,-85.82,8.34
+HOBO pH logger,Control_Shallow,11/10/2021 11:15,,23.04,-87.19,8.37
+HOBO pH logger,Control_Shallow,11/10/2021 11:30,,23.04,-87.69,8.38
+HOBO pH logger,Control_Shallow,11/10/2021 11:45,,23.11,-86.03,8.35
+HOBO pH logger,Control_Shallow,11/10/2021 12:00,,23.16,-86.77,8.36
+HOBO pH logger,Control_Shallow,11/10/2021 12:15,,23.21,-87.99,8.38
+HOBO pH logger,Control_Shallow,11/10/2021 12:30,,23.21,-85.99,8.34
+HOBO pH logger,Control_Shallow,11/10/2021 12:45,,23.38,-85.69,8.34
+HOBO pH logger,Control_Shallow,11/10/2021 13:00,,23.3,-87.11,8.36
+HOBO pH logger,Control_Shallow,11/10/2021 13:15,,23.38,-86.36,8.35
+HOBO pH logger,Control_Shallow,11/10/2021 13:30,,23.28,-86.78,8.36
+HOBO pH logger,Control_Shallow,11/10/2021 13:45,,23.42,-86.49,8.35
+HOBO pH logger,Control_Shallow,11/10/2021 14:00,,23.33,-87.07,8.36
+HOBO pH logger,Control_Shallow,11/10/2021 14:15,,23.3,-86.03,8.34
+HOBO pH logger,Control_Shallow,11/10/2021 14:30,,23.26,-86.6,8.36
+HOBO pH logger,Control_Shallow,11/10/2021 14:45,,23.28,-86.39,8.35
+HOBO pH logger,Control_Shallow,11/10/2021 15:00,,23.35,-85.52,8.33
+HOBO pH logger,Control_Shallow,11/10/2021 15:15,,23.35,-85.38,8.33
+HOBO pH logger,Control_Shallow,11/10/2021 15:30,,23.4,-84.57,8.32
+HOBO pH logger,Control_Shallow,11/10/2021 15:45,,23.33,-84.57,8.32
+HOBO pH logger,Control_Shallow,11/10/2021 16:00,,23.33,-84.41,8.31
+HOBO pH logger,Control_Shallow,11/10/2021 16:15,,23.3,-84,8.31
+HOBO pH logger,Control_Shallow,11/10/2021 16:30,,23.3,-83.75,8.3
+HOBO pH logger,Control_Shallow,11/10/2021 16:45,,23.23,-83.8,8.3
+HOBO pH logger,Control_Shallow,11/10/2021 17:00,,23.23,-83.38,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 17:15,,23.21,-83.39,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 17:30,,23.21,-83.25,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 17:45,,23.16,-83.22,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 18:00,,23.16,-83.1,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 18:15,,23.16,-82.96,8.29
+HOBO pH logger,Control_Shallow,11/10/2021 18:30,,23.18,-82.85,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 18:45,,23.14,-82.78,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 19:00,,23.11,-82.85,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 19:15,,23.09,-82.69,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 19:30,,23.09,-82.53,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 19:45,,23.09,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 20:00,,23.09,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 20:15,,23.09,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 20:30,,23.11,-82.57,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 20:45,,23.16,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 21:00,,23.23,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 21:15,,23.3,-82.6,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 21:30,,23.28,-82.57,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 21:45,,23.28,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 22:00,,23.35,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 22:15,,23.38,-82.69,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 22:30,,23.42,-82.71,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 22:45,,23.38,-82.61,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 23:00,,23.35,-82.36,8.27
+HOBO pH logger,Control_Shallow,11/10/2021 23:15,,23.38,-82.5,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 23:30,,23.47,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/10/2021 23:45,,23.4,-82.46,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 0:00,,23.35,-82.38,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 0:15,,23.47,-82.71,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 0:30,,23.4,-82.42,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 0:45,,23.45,-82.57,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 1:00,,23.42,-82.33,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 1:15,,23.42,-82.41,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 1:30,,23.38,-82.24,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 1:45,,23.35,-82.21,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 2:00,,23.38,-82.21,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 2:15,,23.35,-82.14,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 2:30,,23.28,-81.97,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 2:45,,23.28,-81.83,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 3:00,,23.3,-81.91,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 3:15,,23.28,-81.91,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 3:30,,23.3,-81.97,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 3:45,,23.33,-81.99,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 4:00,,23.3,-81.88,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 4:15,,23.26,-82.03,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 4:30,,23.14,-81.41,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 4:45,,23.14,-81.52,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 5:00,,23.16,-81.8,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 5:15,,23.14,-81.71,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 5:30,,23.06,-81.61,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 5:45,,22.99,-81.66,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 6:00,,22.97,-81.52,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 6:15,,22.9,-81.49,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 6:30,,22.85,-81.61,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 6:45,,22.82,-81.71,8.26
+HOBO pH logger,Control_Shallow,11/11/2021 7:00,,22.8,-81.83,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 7:15,,22.8,-82.11,8.27
+HOBO pH logger,Control_Shallow,11/11/2021 7:30,,22.78,-82.6,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 7:45,,22.68,-82.74,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 8:00,,22.73,-82.25,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 8:15,,22.73,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/11/2021 8:30,,22.78,-83.21,8.29
+HOBO pH logger,Control_Shallow,11/11/2021 8:45,,22.73,-83.14,8.29
+HOBO pH logger,Control_Shallow,11/11/2021 9:00,,22.75,-85.96,8.35
+HOBO pH logger,Control_Shallow,11/11/2021 9:15,,22.73,-84.35,8.32
+HOBO pH logger,Control_Shallow,11/11/2021 9:30,,22.71,-85.77,8.34
+HOBO pH logger,Control_Shallow,11/11/2021 9:45,,22.78,-86.41,8.35
+HOBO pH logger,Control_Shallow,11/11/2021 10:00,,22.85,-86.63,8.36
+HOBO pH logger,Control_Shallow,11/11/2021 10:15,,22.94,-87.74,8.38
+HOBO pH logger,Control_Shallow,11/11/2021 10:30,,23.14,-86.42,8.35
+HOBO pH logger,Control_Shallow,11/11/2021 10:45,,23.04,-86.82,8.36
+HOBO pH logger,Control_Shallow,11/11/2021 11:00,,23.11,-88.69,8.4
+HOBO pH logger,Control_Shallow,11/11/2021 11:15,,23.16,-87.74,8.38
+HOBO pH logger,Control_Shallow,11/11/2021 11:30,,23.23,-88.6,8.39
+HOBO pH logger,Control_Shallow,11/11/2021 11:45,,23.28,-89.66,8.41
+HOBO pH logger,Control_Shallow,11/11/2021 12:00,,23.33,-90.33,8.43
+HOBO pH logger,Control_Shallow,11/11/2021 12:15,,23.38,-89.85,8.42
+HOBO pH logger,Control_Shallow,11/11/2021 12:30,,23.42,-90.13,8.42
+HOBO pH logger,Control_Shallow,11/11/2021 12:45,,23.47,-88.07,8.38
+HOBO pH logger,Control_Shallow,11/11/2021 13:00,,23.47,-87.46,8.37
+HOBO pH logger,Control_Shallow,11/11/2021 13:15,,23.47,-87.08,8.36
+HOBO pH logger,Control_Shallow,11/11/2021 13:30,,23.47,-87.55,8.37
+HOBO pH logger,Control_Shallow,11/11/2021 13:45,,23.5,-88,8.38
+HOBO pH logger,Control_Shallow,11/11/2021 14:00,,23.5,-88.77,8.39
+HOBO pH logger,Control_Shallow,11/11/2021 14:15,,23.52,-88.3,8.39
+HOBO pH logger,Control_Shallow,11/11/2021 14:30,,23.52,-88.19,8.38
+HOBO pH logger,Control_Shallow,11/11/2021 14:45,,23.55,-88.19,8.38
+HOBO pH logger,Control_Shallow,11/11/2021 15:00,,23.59,-87.16,8.36
+HOBO pH logger,Control_Shallow,11/11/2021 15:15,,23.62,-87.49,8.37
+HOBO pH logger,Control_Shallow,11/11/2021 15:30,,23.74,-86.5,8.35
+HOBO pH logger,Control_Shallow,11/11/2021 15:45,,23.69,-86.3,8.35
+HOBO pH logger,Control_Shallow,11/11/2021 16:00,,23.71,-85.97,8.34
+HOBO pH logger,Control_Shallow,11/11/2021 16:15,,23.81,-85.28,8.33
+HOBO pH logger,Control_Shallow,11/11/2021 16:30,,23.76,-85.32,8.33
+HOBO pH logger,Control_Shallow,11/11/2021 16:45,,23.71,-85.02,8.32
+HOBO pH logger,Control_Shallow,11/11/2021 17:00,,23.74,-84.8,8.32
+HOBO pH logger,Control_Shallow,11/11/2021 17:15,,23.79,-84.6,8.32
+HOBO pH logger,Control_Shallow,11/11/2021 17:30,,23.71,-84.57,8.31
+HOBO pH logger,Control_Shallow,11/11/2021 17:45,,23.79,-84.39,8.31
+HOBO pH logger,Control_Shallow,11/11/2021 18:00,,23.81,-84.28,8.31
+HOBO pH logger,Control_Shallow,11/11/2021 18:15,,23.79,-84.21,8.31
+HOBO pH logger,Control_Shallow,11/11/2021 18:30,,23.76,-84.21,8.31
+HOBO pH logger,Control_Shallow,11/11/2021 18:45,,23.76,-84.11,8.31
+HOBO pH logger,Control_Shallow,11/11/2021 19:00,,23.74,-83.97,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 19:15,,23.74,-83.91,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 19:30,,23.74,-83.8,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 19:45,,23.71,-83.86,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 20:00,,23.71,-83.69,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 20:15,,23.71,-83.71,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 20:30,,23.74,-83.72,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 20:45,,23.71,-83.82,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 21:00,,23.71,-83.69,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 21:15,,23.76,-83.78,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 21:30,,23.74,-83.64,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 21:45,,23.71,-83.55,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 22:00,,23.64,-83.58,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 22:15,,23.64,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 22:30,,23.64,-83.38,8.29
+HOBO pH logger,Control_Shallow,11/11/2021 22:45,,23.62,-83.36,8.29
+HOBO pH logger,Control_Shallow,11/11/2021 23:00,,23.62,-83.3,8.29
+HOBO pH logger,Control_Shallow,11/11/2021 23:15,,23.59,-83.28,8.29
+HOBO pH logger,Control_Shallow,11/11/2021 23:30,,23.79,-83.89,8.3
+HOBO pH logger,Control_Shallow,11/11/2021 23:45,,23.91,-84.03,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 0:00,,23.93,-83.97,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 0:15,,23.67,-83.36,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 0:30,,23.55,-83.17,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 0:45,,23.47,-83.08,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 1:00,,23.47,-83.13,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 1:15,,23.59,-83.69,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 1:30,,23.52,-83.22,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 1:45,,23.52,-83.28,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 2:00,,23.52,-83.08,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 2:15,,23.5,-83.1,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 2:30,,23.5,-83.1,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 2:45,,23.5,-82.97,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 3:00,,23.5,-82.97,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 3:15,,23.42,-82.82,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 3:30,,23.4,-82.75,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 3:45,,23.38,-82.64,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 4:00,,23.35,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 4:15,,23.33,-82.33,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 4:30,,23.3,-82.42,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 4:45,,23.28,-82.25,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 5:00,,23.28,-82.39,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 5:15,,23.26,-82.21,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 5:30,,23.23,-82.24,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 5:45,,23.21,-82.07,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 6:00,,23.21,-82.08,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 6:15,,23.18,-82.1,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 6:30,,23.18,-82.02,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 6:45,,23.16,-82.21,8.27
+HOBO pH logger,Control_Shallow,11/12/2021 7:00,,23.18,-82.49,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 7:15,,23.18,-82.67,8.28
+HOBO pH logger,Control_Shallow,11/12/2021 7:30,,23.18,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 7:45,,23.14,-83,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 8:00,,23.09,-83.53,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 8:15,,23.11,-83.88,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 8:30,,23.02,-83.89,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 8:45,,22.94,-83.5,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 9:00,,22.92,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 9:15,,22.99,-83.61,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 9:30,,22.99,-84.52,8.32
+HOBO pH logger,Control_Shallow,11/12/2021 9:45,,23.02,-84.57,8.32
+HOBO pH logger,Control_Shallow,11/12/2021 10:00,,23.04,-85.14,8.33
+HOBO pH logger,Control_Shallow,11/12/2021 10:15,,23.04,-85.42,8.33
+HOBO pH logger,Control_Shallow,11/12/2021 10:30,,22.99,-85.49,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 10:45,,23.02,-85.28,8.33
+HOBO pH logger,Control_Shallow,11/12/2021 11:00,,23.04,-85.75,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 11:15,,23.04,-85.82,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 11:30,,22.99,-85.67,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 11:45,,22.99,-85.53,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 12:00,,23.02,-86.72,8.36
+HOBO pH logger,Control_Shallow,11/12/2021 12:15,,23.06,-87.75,8.38
+HOBO pH logger,Control_Shallow,11/12/2021 12:30,,23.16,-86.96,8.36
+HOBO pH logger,Control_Shallow,11/12/2021 12:45,,23.18,-87.1,8.36
+HOBO pH logger,Control_Shallow,11/12/2021 13:00,,23.21,-87.92,8.38
+HOBO pH logger,Control_Shallow,11/12/2021 13:15,,23.21,-87.46,8.37
+HOBO pH logger,Control_Shallow,11/12/2021 13:30,,23.21,-87.57,8.37
+HOBO pH logger,Control_Shallow,11/12/2021 13:45,,23.21,-87.36,8.37
+HOBO pH logger,Control_Shallow,11/12/2021 14:00,,23.26,-87.71,8.38
+HOBO pH logger,Control_Shallow,11/12/2021 14:15,,23.28,-87.17,8.37
+HOBO pH logger,Control_Shallow,11/12/2021 14:30,,23.28,-87.24,8.37
+HOBO pH logger,Control_Shallow,11/12/2021 14:45,,23.33,-87.14,8.37
+HOBO pH logger,Control_Shallow,11/12/2021 15:00,,23.35,-86.94,8.36
+HOBO pH logger,Control_Shallow,11/12/2021 15:15,,23.3,-86.94,8.36
+HOBO pH logger,Control_Shallow,11/12/2021 15:30,,23.33,-86.52,8.35
+HOBO pH logger,Control_Shallow,11/12/2021 15:45,,23.3,-86.38,8.35
+HOBO pH logger,Control_Shallow,11/12/2021 16:00,,23.38,-85.99,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 16:15,,23.38,-85.86,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 16:30,,23.38,-85.66,8.34
+HOBO pH logger,Control_Shallow,11/12/2021 16:45,,23.4,-85.3,8.33
+HOBO pH logger,Control_Shallow,11/12/2021 17:00,,23.62,-84.94,8.32
+HOBO pH logger,Control_Shallow,11/12/2021 17:15,,23.69,-84.85,8.32
+HOBO pH logger,Control_Shallow,11/12/2021 17:30,,23.71,-84.77,8.32
+HOBO pH logger,Control_Shallow,11/12/2021 17:45,,23.69,-84.46,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 18:00,,23.45,-84.47,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 18:15,,23.4,-84.41,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 18:30,,23.4,-84.38,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 18:45,,23.38,-84.22,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 19:00,,23.3,-84.25,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 19:15,,23.26,-84.21,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 19:30,,23.28,-84.1,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 19:45,,23.26,-83.91,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 20:00,,23.23,-83.91,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 20:15,,23.26,-84.1,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 20:30,,23.26,-83.99,8.31
+HOBO pH logger,Control_Shallow,11/12/2021 20:45,,23.28,-83.86,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 21:00,,23.28,-83.75,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 21:15,,23.26,-83.6,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 21:30,,23.28,-83.74,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 21:45,,23.23,-83.44,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 22:00,,23.23,-83.49,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 22:15,,23.23,-83.42,8.3
+HOBO pH logger,Control_Shallow,11/12/2021 22:30,,23.23,-83.32,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 22:45,,23.18,-83.17,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 23:00,,23.16,-83,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 23:15,,23.14,-82.97,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 23:30,,23.14,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/12/2021 23:45,,23.09,-82.89,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 0:00,,23.06,-82.86,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 0:15,,23.04,-82.83,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 0:30,,23.02,-82.89,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 0:45,,22.99,-82.78,8.28
+HOBO pH logger,Control_Shallow,11/13/2021 1:00,,22.97,-82.78,8.28
+HOBO pH logger,Control_Shallow,11/13/2021 1:15,,22.97,-83,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 1:30,,23.02,-83.07,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 1:45,,23.04,-83.22,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 2:00,,23.04,-83.16,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 2:15,,23.02,-83.08,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 2:30,,23.02,-83.14,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 2:45,,23.02,-83.24,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 3:00,,22.99,-83.16,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 3:15,,22.99,-83.21,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 3:30,,22.97,-83.14,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 3:45,,22.94,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 4:00,,22.94,-83.16,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 4:15,,22.94,-83,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 4:30,,22.92,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 4:45,,22.9,-83.03,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 5:00,,22.85,-82.94,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 5:15,,22.82,-82.86,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 5:30,,22.8,-82.83,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 5:45,,22.78,-82.78,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 6:00,,22.73,-82.63,8.28
+HOBO pH logger,Control_Shallow,11/13/2021 6:15,,22.71,-82.49,8.28
+HOBO pH logger,Control_Shallow,11/13/2021 6:30,,22.71,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/13/2021 6:45,,22.68,-82.57,8.28
+HOBO pH logger,Control_Shallow,11/13/2021 7:00,,22.73,-82.88,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 7:15,,22.71,-82.92,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 7:30,,22.71,-83.33,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 7:45,,22.73,-83.57,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 8:00,,22.71,-83.94,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 8:15,,22.68,-84.22,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 8:30,,22.66,-84.3,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 8:45,,22.68,-84.69,8.32
+HOBO pH logger,Control_Shallow,11/13/2021 9:00,,22.68,-85.08,8.33
+HOBO pH logger,Control_Shallow,11/13/2021 9:15,,22.73,-85.19,8.33
+HOBO pH logger,Control_Shallow,11/13/2021 9:30,,22.73,-85.42,8.34
+HOBO pH logger,Control_Shallow,11/13/2021 9:45,,22.73,-85.94,8.35
+HOBO pH logger,Control_Shallow,11/13/2021 10:00,,22.75,-86.3,8.35
+HOBO pH logger,Control_Shallow,11/13/2021 10:15,,22.73,-86.49,8.36
+HOBO pH logger,Control_Shallow,11/13/2021 10:30,,22.73,-86.35,8.35
+HOBO pH logger,Control_Shallow,11/13/2021 10:45,,22.73,-86.88,8.36
+HOBO pH logger,Control_Shallow,11/13/2021 11:00,,22.73,-87.21,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 11:15,,22.73,-86.92,8.36
+HOBO pH logger,Control_Shallow,11/13/2021 11:30,,22.71,-87.46,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 11:45,,22.78,-87.52,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 12:00,,22.82,-86.6,8.36
+HOBO pH logger,Control_Shallow,11/13/2021 12:15,,22.82,-87.13,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 12:30,,22.82,-87.36,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 12:45,,22.87,-87.33,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 13:00,,22.9,-87.49,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 13:15,,22.92,-87.71,8.38
+HOBO pH logger,Control_Shallow,11/13/2021 13:30,,22.9,-87.66,8.38
+HOBO pH logger,Control_Shallow,11/13/2021 13:45,,22.9,-87.78,8.38
+HOBO pH logger,Control_Shallow,11/13/2021 14:00,,22.92,-87.99,8.38
+HOBO pH logger,Control_Shallow,11/13/2021 14:15,,22.94,-87.78,8.38
+HOBO pH logger,Control_Shallow,11/13/2021 14:30,,22.94,-87.52,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 14:45,,22.97,-87.55,8.37
+HOBO pH logger,Control_Shallow,11/13/2021 15:00,,22.9,-86.89,8.36
+HOBO pH logger,Control_Shallow,11/13/2021 15:15,,22.82,-86.92,8.36
+HOBO pH logger,Control_Shallow,11/13/2021 15:30,,22.82,-86.47,8.35
+HOBO pH logger,Control_Shallow,11/13/2021 15:45,,22.78,-86.24,8.35
+HOBO pH logger,Control_Shallow,11/13/2021 16:00,,22.78,-85.94,8.34
+HOBO pH logger,Control_Shallow,11/13/2021 16:15,,22.78,-85.47,8.34
+HOBO pH logger,Control_Shallow,11/13/2021 16:30,,22.82,-84.94,8.33
+HOBO pH logger,Control_Shallow,11/13/2021 16:45,,22.85,-84.3,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 17:00,,22.78,-84.66,8.32
+HOBO pH logger,Control_Shallow,11/13/2021 17:15,,22.82,-84.32,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 17:30,,22.8,-83.99,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 17:45,,22.8,-83.88,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 18:00,,22.85,-83.72,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 18:15,,22.94,-83.53,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 18:30,,23.14,-84.08,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 18:45,,23.23,-83.97,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 19:00,,23.26,-84.11,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 19:15,,23.26,-84.02,8.31
+HOBO pH logger,Control_Shallow,11/13/2021 19:30,,23.23,-83.8,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 19:45,,23.26,-83.88,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 20:00,,23.14,-83.57,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 20:15,,23.16,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 20:30,,23.09,-83.36,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 20:45,,23.09,-83.28,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 21:00,,23.06,-83.39,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 21:15,,23.04,-83.42,8.3
+HOBO pH logger,Control_Shallow,11/13/2021 21:30,,23.04,-83.17,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 21:45,,23.04,-83.28,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 22:00,,23.02,-83.13,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 22:15,,23.04,-83.19,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 22:30,,23.04,-83.17,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 22:45,,23.02,-83.22,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 23:00,,22.94,-83.08,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 23:15,,22.94,-83.03,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 23:30,,22.94,-82.92,8.29
+HOBO pH logger,Control_Shallow,11/13/2021 23:45,,22.94,-83.02,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 0:00,,22.87,-82.78,8.28
+HOBO pH logger,Control_Shallow,11/14/2021 0:15,,22.9,-83.07,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 0:30,,22.9,-83,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 0:45,,22.87,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 1:00,,22.87,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 1:15,,22.9,-83.08,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 1:30,,22.85,-82.97,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 1:45,,22.8,-82.58,8.28
+HOBO pH logger,Control_Shallow,11/14/2021 2:00,,22.85,-82.85,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 2:15,,22.9,-82.91,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 2:30,,23.04,-83.69,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 2:45,,23.16,-84,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 3:00,,23.16,-83.75,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 3:15,,23.16,-83.83,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 3:30,,23.14,-83.75,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 3:45,,23.14,-83.78,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 4:00,,23.11,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 4:15,,23.11,-83.67,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 4:30,,23.09,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 4:45,,23.09,-83.32,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 5:00,,23.09,-83.38,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 5:15,,23.09,-83.1,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 5:30,,23.04,-82.55,8.28
+HOBO pH logger,Control_Shallow,11/14/2021 5:45,,22.97,-82.42,8.28
+HOBO pH logger,Control_Shallow,11/14/2021 6:00,,22.94,-82.16,8.27
+HOBO pH logger,Control_Shallow,11/14/2021 6:15,,22.94,-82.05,8.27
+HOBO pH logger,Control_Shallow,11/14/2021 6:30,,22.94,-82.07,8.27
+HOBO pH logger,Control_Shallow,11/14/2021 6:45,,22.94,-82.22,8.27
+HOBO pH logger,Control_Shallow,11/14/2021 7:00,,22.94,-82.52,8.28
+HOBO pH logger,Control_Shallow,11/14/2021 7:15,,22.94,-83.28,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 7:30,,22.92,-83.41,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 7:45,,22.92,-83.91,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 8:00,,22.9,-83.92,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 8:15,,22.9,-84.41,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 8:30,,22.9,-85.14,8.33
+HOBO pH logger,Control_Shallow,11/14/2021 8:45,,22.87,-85.28,8.33
+HOBO pH logger,Control_Shallow,11/14/2021 9:00,,22.87,-84.8,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 9:15,,22.87,-85.77,8.34
+HOBO pH logger,Control_Shallow,11/14/2021 9:30,,22.87,-84.39,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 9:45,,22.87,-86.24,8.35
+HOBO pH logger,Control_Shallow,11/14/2021 10:00,,22.87,-85.67,8.34
+HOBO pH logger,Control_Shallow,11/14/2021 10:15,,22.87,-86.14,8.35
+HOBO pH logger,Control_Shallow,11/14/2021 10:30,,22.87,-87.16,8.37
+HOBO pH logger,Control_Shallow,11/14/2021 10:45,,22.75,-86.49,8.36
+HOBO pH logger,Control_Shallow,11/14/2021 11:00,,22.73,-87.11,8.37
+HOBO pH logger,Control_Shallow,11/14/2021 11:15,,22.75,-87.17,8.37
+HOBO pH logger,Control_Shallow,11/14/2021 11:30,,22.66,-85.02,8.33
+HOBO pH logger,Control_Shallow,11/14/2021 11:45,,22.73,-84.08,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 12:00,,22.73,-84.38,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 12:15,,22.75,-84.35,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 12:30,,22.78,-86.63,8.36
+HOBO pH logger,Control_Shallow,11/14/2021 12:45,,22.78,-87.38,8.37
+HOBO pH logger,Control_Shallow,11/14/2021 13:00,,22.78,-86.88,8.36
+HOBO pH logger,Control_Shallow,11/14/2021 13:15,,22.78,-86.21,8.35
+HOBO pH logger,Control_Shallow,11/14/2021 13:30,,22.78,-86.66,8.36
+HOBO pH logger,Control_Shallow,11/14/2021 13:45,,22.78,-85.91,8.34
+HOBO pH logger,Control_Shallow,11/14/2021 14:00,,22.75,-86.52,8.36
+HOBO pH logger,Control_Shallow,11/14/2021 14:15,,22.63,-87.28,8.37
+HOBO pH logger,Control_Shallow,11/14/2021 14:30,,22.54,-87.66,8.38
+HOBO pH logger,Control_Shallow,11/14/2021 14:45,,22.59,-87.05,8.37
+HOBO pH logger,Control_Shallow,11/14/2021 15:00,,22.71,-86.08,8.35
+HOBO pH logger,Control_Shallow,11/14/2021 15:15,,22.68,-85.55,8.34
+HOBO pH logger,Control_Shallow,11/14/2021 15:30,,22.73,-85.17,8.33
+HOBO pH logger,Control_Shallow,11/14/2021 15:45,,22.92,-84.77,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 16:00,,22.94,-84.75,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 16:15,,23.02,-84.72,8.32
+HOBO pH logger,Control_Shallow,11/14/2021 16:30,,23.04,-84.36,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 16:45,,23.04,-84.27,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 17:00,,23.06,-84,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 17:15,,23.11,-83.85,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 17:30,,23.09,-83.91,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 17:45,,23.09,-83.88,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 18:00,,23.11,-83.92,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 18:15,,23.14,-83.99,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 18:30,,23.14,-83.82,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 18:45,,23.35,-84.21,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 19:00,,23.42,-84.22,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 19:15,,23.42,-84.28,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 19:30,,23.4,-84.17,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 19:45,,23.42,-84.16,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 20:00,,23.42,-83.97,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 20:15,,23.33,-84,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 20:30,,23.33,-84,8.31
+HOBO pH logger,Control_Shallow,11/14/2021 20:45,,23.26,-83.36,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 21:00,,23.23,-83.22,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 21:15,,23.18,-83.28,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 21:30,,23.16,-83.27,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 21:45,,23.16,-83.27,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 22:00,,23.11,-83.11,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 22:15,,23.09,-83.41,8.3
+HOBO pH logger,Control_Shallow,11/14/2021 22:30,,23.09,-83.03,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 22:45,,23.09,-83.17,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 23:00,,23.06,-83.27,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 23:15,,23.06,-83.1,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 23:30,,23.04,-83.07,8.29
+HOBO pH logger,Control_Shallow,11/14/2021 23:45,,23.02,-83,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 0:00,,22.99,-82.94,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 0:15,,22.97,-82.89,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 0:30,,22.97,-82.77,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 0:45,,22.94,-82.77,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 1:00,,22.94,-82.77,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 1:15,,22.9,-82.53,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 1:30,,22.85,-82.42,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 1:45,,22.85,-82.41,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 2:00,,22.85,-82.61,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 2:15,,22.9,-82.74,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 2:30,,22.87,-82.77,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 2:45,,22.99,-83.41,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 3:00,,23.16,-84,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 3:15,,23.21,-84.1,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 3:30,,23.11,-83.69,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 3:45,,23.14,-83.75,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 4:00,,23.11,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 4:15,,23.09,-83.24,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 4:30,,23.04,-83.05,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 4:45,,23.06,-82.96,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 5:00,,23.06,-82.97,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 5:15,,23.04,-83.41,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 5:30,,23.06,-83.21,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 5:45,,23.09,-83.52,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 6:00,,23.06,-83.44,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 6:15,,23.06,-83.71,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 6:30,,23.06,-83.82,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 6:45,,23.04,-83.77,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 7:00,,23.02,-83.89,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 7:15,,23.02,-84.13,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 7:30,,22.99,-84.28,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 7:45,,22.99,-84.55,8.32
+HOBO pH logger,Control_Shallow,11/15/2021 8:00,,23.02,-84.97,8.33
+HOBO pH logger,Control_Shallow,11/15/2021 8:15,,23.02,-85.19,8.33
+HOBO pH logger,Control_Shallow,11/15/2021 8:30,,23.02,-85.77,8.34
+HOBO pH logger,Control_Shallow,11/15/2021 8:45,,23.02,-85.63,8.34
+HOBO pH logger,Control_Shallow,11/15/2021 9:00,,23.04,-87.42,8.37
+HOBO pH logger,Control_Shallow,11/15/2021 9:15,,23.04,-86.42,8.35
+HOBO pH logger,Control_Shallow,11/15/2021 9:30,,23.04,-86.63,8.36
+HOBO pH logger,Control_Shallow,11/15/2021 9:45,,23.06,-86.66,8.36
+HOBO pH logger,Control_Shallow,11/15/2021 10:00,,23.06,-87.55,8.37
+HOBO pH logger,Control_Shallow,11/15/2021 10:15,,23.06,-87.28,8.37
+HOBO pH logger,Control_Shallow,11/15/2021 10:30,,23.09,-87.52,8.37
+HOBO pH logger,Control_Shallow,11/15/2021 10:45,,23.09,-88.16,8.39
+HOBO pH logger,Control_Shallow,11/15/2021 11:00,,23.06,-87.24,8.37
+HOBO pH logger,Control_Shallow,11/15/2021 11:15,,23.04,-74.88,8.13
+HOBO pH logger,Control_Shallow,11/15/2021 11:30,,24.07,-76.52,8.16
+HOBO pH logger,Control_Shallow,11/15/2021 11:45,,24.29,-74.74,8.13
+HOBO pH logger,Control_Shallow,11/15/2021 12:00,,24.1,-74.96,8.13
+HOBO pH logger,Control_Shallow,11/15/2021 12:15,,23.98,-75,8.13
+HOBO pH logger,Control_Shallow,11/15/2021 12:30,,23.93,-75.02,8.13
+HOBO pH logger,Control_Shallow,11/15/2021 12:45,,23.42,-75.02,8.14
+HOBO pH logger,Control_Shallow,11/15/2021 13:00,,22.85,-75.22,8.14
+HOBO pH logger,Control_Shallow,11/15/2021 13:15,,22.32,-75.56,8.15
+HOBO pH logger,Control_Shallow,11/15/2021 13:30,,21.99,-75.69,8.15
+HOBO pH logger,Control_Shallow,11/15/2021 13:45,,21.34,-75.88,8.16
+HOBO pH logger,Control_Shallow,11/15/2021 14:00,,20.77,-76.17,8.17
+HOBO pH logger,Control_Shallow,11/15/2021 14:15,,20.44,-76.63,8.18
+HOBO pH logger,Control_Shallow,11/15/2021 14:30,,20.1,-76.83,8.18
+HOBO pH logger,Control_Shallow,11/15/2021 14:45,,20.06,-76.81,8.18
+HOBO pH logger,Control_Shallow,11/15/2021 15:00,,19.94,-77,8.19
+HOBO pH logger,Control_Shallow,11/15/2021 15:15,,19.37,-76.53,8.18
+HOBO pH logger,Control_Shallow,11/15/2021 15:30,,20.46,-83.1,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 15:45,,20.53,-83.19,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 16:00,,20.53,-83.33,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 16:15,,20.56,-83.38,8.31
+HOBO pH logger,Control_Shallow,11/15/2021 16:30,,20.53,-83.3,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 16:45,,20.53,-83.22,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 17:00,,20.51,-83.08,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 17:15,,20.48,-82.89,8.3
+HOBO pH logger,Control_Shallow,11/15/2021 17:30,,20.46,-82.67,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 17:45,,20.44,-82.52,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 18:00,,20.41,-82.35,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 18:15,,20.39,-82.22,8.29
+HOBO pH logger,Control_Shallow,11/15/2021 18:30,,20.39,-82.08,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 18:45,,20.37,-81.97,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 19:00,,20.32,-81.83,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 19:15,,20.32,-81.69,8.28
+HOBO pH logger,Control_Shallow,11/15/2021 19:30,,20.29,-81.56,8.27
+HOBO pH logger,Control_Shallow,11/15/2021 19:45,,20.27,-81.44,8.27
+HOBO pH logger,Control_Shallow,11/15/2021 20:00,,20.25,-81.31,8.27
+HOBO pH logger,Control_Shallow,11/15/2021 20:15,,20.22,-81.24,8.27
+HOBO pH logger,Control_Shallow,11/15/2021 20:30,,20.2,-81.27,8.27
+HOBO pH logger,Control_Shallow,11/15/2021 20:45,,20.17,-81.14,8.27
+HOBO pH logger,Control_Shallow,11/15/2021 21:00,,20.15,-81.02,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 21:15,,20.13,-81,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 21:30,,20.13,-80.91,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 21:45,,20.1,-80.88,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 22:00,,20.08,-80.85,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 22:15,,20.08,-80.81,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 22:30,,20.06,-80.81,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 22:45,,20.06,-80.77,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 23:00,,20.03,-80.77,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 23:15,,20.01,-80.69,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 23:30,,19.98,-80.63,8.26
+HOBO pH logger,Control_Shallow,11/15/2021 23:45,,19.98,-80.6,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 0:00,,19.96,-80.6,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 0:15,,19.94,-80.58,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 0:30,,19.94,-80.53,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 0:45,,19.94,-80.56,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 1:00,,19.91,-80.58,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 1:15,,19.91,-80.63,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 1:30,,19.91,-80.69,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 1:45,,19.91,-80.74,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 2:00,,19.89,-80.71,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 2:15,,19.87,-80.69,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 2:30,,19.87,-80.69,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 2:45,,19.87,-80.71,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 3:00,,19.84,-80.72,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 3:15,,19.84,-80.69,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 3:30,,19.84,-80.75,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 3:45,,19.82,-80.78,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 4:00,,19.82,-80.77,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 4:15,,19.82,-80.78,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 4:30,,19.79,-80.67,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 4:45,,19.79,-80.58,8.26
+HOBO pH logger,Control_Shallow,11/16/2021 5:00,,19.77,-80.49,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 5:15,,19.77,-80.42,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 5:30,,19.75,-80.36,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 5:45,,19.72,-80.33,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 6:00,,19.72,-80.25,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 6:15,,19.7,-80.19,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 6:30,,19.67,-80.13,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 6:45,,19.67,-80.14,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 7:00,,19.65,-80.16,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 7:15,,19.65,-80.17,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 7:30,,19.65,-80.27,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 7:45,,19.65,-80.31,8.25
+HOBO pH logger,Control_Shallow,11/16/2021 8:00,,19.65,-80.38,8.25

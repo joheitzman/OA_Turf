@@ -184,21 +184,6 @@ car::Anova(lme4::lmer(perDay ~ Treatment  + (1|Experiment), filter(NCCR.data, Sp
 
 ## Microsensor Figures
 ```{r Depth Profiles}
-Depth_Profiles.raw <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>%
-  group_by(Treatment,  Condition, Location, Depth) %>%
-  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
-                            labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
-  mutate(Location = factor(Location, levels = c("tissue", "interface_tissue", "interface_algae", "algae"),
-                                     labels = c("Coral Tissue", "Coral Tissue", "Turf Algae", "Turf Algae"))) %>% 
-  # mutate(Location = factor(Location, levels = c("interface_algae", "algae","tissue", "interface_tissue"),
-  #                                    labels = c("Turf Algae", "Turf Algae", "Coral Tissue", "Coral Tissue"))) %>% 
-  mutate(Condition = factor(Condition, levels = c("Dark", "Light"))) %>% 
-  filter(between(Depth, 0, 200))
-
-
-
-
-
 Depth_Profiles <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>%
   group_by(Treatment,  Condition, Location, Depth) %>%
   mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
@@ -211,7 +196,8 @@ Depth_Profiles <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>%
   filter(between(Depth, 0, 200)) %>%
     summarise(n = n(), 
             mean_pH = mean(pH),
-            se_pH = sd(pH)/sqrt(n))
+            se_pH = sd(pH)/sqrt(n),
+            sd_pH = sd(pH))
 
 Depth_Profiles.02 <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>% filter(Experiment == "Shimoda") %>%
   group_by(Treatment,  Condition, Location, Depth) %>%
@@ -223,7 +209,8 @@ Depth_Profiles.02 <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() 
   filter(between(Depth, 0, 200)) %>%
     summarise(n = n(), 
             mean_O2 = mean(O2),
-            se_O2 = sd(O2)/sqrt(n))
+            se_O2 = sd(O2)/sqrt(n),
+            sd_O2 = sd(O2))
 ```
 
 ```{r Microsensor pH, fig.width = 6, fig.height = 2.5}

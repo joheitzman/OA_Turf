@@ -1,0 +1,407 @@
+---
+title: "Shikine_2_RMD"
+author: "Joshua Heitzman"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=TRUE}
+library(tidyverse)
+library(ggplot2)
+library(ggpubr)
+library(patchwork)
+library(lmerTest)
+library(rstatix)
+
+Sys.setenv("LANGUAGE" = "en")
+```
+## Shikine Environmental Data
+```{r Shikine Environment}
+## Light shown as mol photons/m^2/sec
+shik.light.data <- read.csv("misc/Shikine_Environmental_Data.csv") %>% select(1:4) %>% drop_na() %>%
+  group_by(Site) %>% summarise(n = n(), lightmean = mean(light), lightse = sd(light)/sqrt(n))
+
+
+shik.pH.data <- read.csv("misc/Shikine_Environmental_Data.csv") %>% select(!4) %>% drop_na() %>%
+  group_by(Site) %>% summarise(n = n(), pHmean = mean(pH), pHse = sd(pH)/sqrt(n),
+                                        Tempmean = mean(temp), Tempse = sd(temp)/sqrt(n))
+```
+
+## Incubation Environmental Data
+```{r Shimoda Incubation Environment}
+shim.TA.data <- read.csv("misc/Shimoda_Incubation_TA.csv") %>%
+  group_by(Treatment) %>% summarise(n = n(), TA_mean = mean(TA), TA_se = sd(TA)/sqrt(n))
+
+shim.pH.data <- read.csv("misc/APEX_Shimoda_OAALG.csv") %>% 
+    mutate(Treatment = case_when(
+    grepl("4C-03", tank, ignore.case = TRUE) ~"Pr", grepl("4C-02", tank, ignore.case = TRUE) ~"OA",
+    grepl("4D-03", tank, ignore.case = TRUE) ~"OA", grepl("4D-02", tank, ignore.case = TRUE) ~"Pr",
+    grepl("4A-08", tank, ignore.case = TRUE) ~"Pr", grepl("4A-07", tank, ignore.case = TRUE) ~"Pr",
+    grepl("4A-06", tank, ignore.case = TRUE) ~"OA", grepl("4A-05", tank, ignore.case = TRUE) ~"OA",
+    grepl("4A-04", tank, ignore.case = TRUE) ~"OA", grepl("4A-03", tank, ignore.case = TRUE) ~"OA",
+    grepl("4A-02", tank, ignore.case = TRUE) ~"Pr", grepl("4A-01", tank, ignore.case = TRUE) ~"Pr",
+    grepl("4B-08", tank, ignore.case = TRUE) ~"Pr", grepl("4B-07", tank, ignore.case = TRUE) ~"OA",
+    grepl("4B-06", tank, ignore.case = TRUE) ~"OA", grepl("4B-05", tank, ignore.case = TRUE) ~"Pr",
+    grepl("4B-04", tank, ignore.case = TRUE) ~"OA", grepl("4B-03", tank, ignore.case = TRUE) ~"OA",
+    grepl("4B-02", tank, ignore.case = TRUE) ~"Pr", grepl("4B-01", tank, ignore.case = TRUE) ~"Pr")) %>%
+  group_by(type, Treatment) %>%
+  summarise(n = n(), mean = mean(value), se = sd(value)/sqrt(n))
+```
+
+## Comp outcome
+```{r Competition Outcome, fig.height = 5, fig.width = 5}
+
+Comp_Out.data_change <- read.csv("Competition_Outcome.csv") %>% select(2:4,9,10,11, 14) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), ordered = TRUE)) %>%
+  mutate(Type = factor(Type, levels = c("Algae", "Coral"), ordered = TRUE)) %>%
+  mutate(Experiment = factor(Experiment, levels = c("Shimoda", "Shikine", "Sesoko"), ordered = TRUE)) %>%
+  mutate(change = X._Change*100)
+
+Comp_Out.data_change_mean <- read.csv("Competition_Outcome.csv") %>% select(2:4,9,10,11, 14) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), ordered = TRUE)) %>%
+  mutate(Type = factor(Type, levels = c("Algae", "Coral"), ordered = TRUE)) %>%
+  mutate(Experiment = factor(Experiment, levels = c("Shimoda", "Shikine", "Sesoko"), ordered = TRUE)) %>%
+  group_by(Species, Treatment, Type) %>%
+  summarise(n = n(), meanChange = mean(X._Change)*100,
+            seChange = 100*(sd(X._Change)/sqrt(n))) %>%
+  filter(Type == "Algae")
+
+
+Alg_Comp.plot <-
+  ggplot(Comp_Out.data_change_mean, aes(x = Species, y = meanChange, fill = Treatment)) +
+  geom_errorbar(aes(ymin = meanChange - seChange, ymax = meanChange + seChange), 
+                position = position_dodge(width = 1), width = .3, size = 1) +
+  geom_hline(yintercept = 0, color = "black", linetype = "solid") +
+  geom_col(position = position_dodge(width = 1), color = "black") +
+  geom_point(data = filter(Comp_Out.data_change, Type == "Algae"), 
+             aes(x = Species, y = change, fill = Treatment, group = factor(Treatment), shape = Experiment),
+             position = position_jitterdodge(jitter.width = 0.5, dodge.width = 1), size = 1, alpha = 0.7) +
+  scale_fill_manual(values = c("#009BFF", "#D10000")) +
+  scale_shape_manual(values = c(1,7,4)) +
+  ylab(expression("Turf Coverage Change (%)")) +
+  theme_pubr() +
+  theme(strip.background = element_blank(),
+        strip.text = element_text(),
+        axis.title.x = element_blank(),
+        legend.position = "none",
+        legend.background = element_blank(),
+        legend.title = element_blank()) +
+  scale_y_continuous(breaks = c(-50, -25, 0, 25, 50, 75))
+
+
+car::Anova(lme4::lmer(change ~ Treatment  + (1|Experiment), filter(Comp_Out.data_change, Type == "Algae" & Species == "Acropora")))
+car::Anova(lme4::lmer(change ~ Treatment  + (1|Experiment), filter(Comp_Out.data_change, Type == "Algae" & Species == "Porites")))
+```
+
+## Accretion Rate (BW)
+```{r Accretion Rate}
+
+Accretion.data <- read.csv("Accretion_Rate.csv") %>% select(2:3,7,8) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+                            labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
+  mutate(Experiment = factor(Experiment, levels = c("Shimoda", "Shikine", "Sesoko"), ordered = TRUE))
+
+Accretion.data.means <- Accretion.data %>%
+  group_by(Treatment, Species) %>%
+    summarise(n = n(), 
+              meanChange = mean(Day_Rate),
+              seChange = sd(Day_Rate)/sqrt(n))
+
+Accretion.plot <- 
+  ggplot(Accretion.data.means, aes(x = Species, y = meanChange, fill = Treatment)) +
+  geom_errorbar(aes(ymin = meanChange - seChange, ymax = meanChange + seChange), 
+                position = position_dodge(width = 1), width = .3, size = 1) +
+  geom_hline(yintercept = 0, color = "black", linetype = "solid") +
+  geom_col(position = position_dodge(width = 1), color = "black") +
+  geom_point(data = Accretion.data, 
+             aes(x = Species, y = Day_Rate, fill = Treatment, group = factor(Treatment), shape = Experiment),
+             position = position_jitterdodge(jitter.width = 0.5, dodge.width = 1), size = 1, alpha = 0.7) +
+  scale_fill_manual(values = c("#009BFF", "#D10000")) +
+  scale_shape_manual(values = c(1,7,4)) +
+  ylab(expression("Accretion Rate (g d"^-1~")")) +
+  theme_pubr() +
+  theme(strip.background = element_blank(),
+        strip.text = element_text(),
+        axis.title.x = element_blank(),
+        panel.spacing = unit(1, "lines"),
+        legend.position = c(.8,.9),
+        axis.text = element_text(size = 8),
+        legend.title = element_blank(),
+        legend.text = element_text(size = 8),
+        legend.box = "vertical",
+        legend.key.size = unit(.1, "cm"),
+        legend.margin = margin(-3,-3,-3,-3, unit = "pt"),
+        legend.spacing = unit(0, "mm"),
+        legend.background = element_blank())
+
+car::Anova(lme4::lmer(Day_Rate ~ Treatment  + (1|Experiment), filter(Accretion.data, Species == "Acropora")))
+car::Anova(lme4::lmer(Day_Rate ~ Treatment  + (1|Experiment), filter(Accretion.data, Species == "Porites")))
+
+Accretion.data %>%
+  group_by(Species) %>%
+    summarise(n = n(), 
+              meanChange = mean(Day_Rate),
+              seChange = sd(Day_Rate)/sqrt(n))
+```
+
+## Net. Comm. Calc. Rate (TA)
+```{r Net. Comm. Calc. Rate Day + Night}
+NCCR.data <- read.csv("Net_Comm_Calc_Combined.csv") %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+                            labels = c("Present-Day", "Acidified"), ordered = TRUE))%>%
+  mutate(Experiment = factor(Experiment, levels = c("Shimoda", "Shikine", "Sesoko"), ordered = TRUE))
+
+NCCR.data.means <- NCCR.data %>%
+  group_by(Treatment, Species) %>%
+    summarise(n = n(),
+              meanChange = mean(perDay),
+              seChange = sd(perDay)/sqrt(n))
+
+NCCR_combo.plot <-
+  ggplot(NCCR.data.means, aes(x = Species, y = meanChange, fill = Treatment)) +
+  geom_errorbar(aes(ymin = meanChange - seChange, ymax = meanChange + seChange), 
+                position = position_dodge(width = 1), width = .3, size = 1) +
+  geom_hline(yintercept = 0, color = "black", linetype = "solid") +
+  geom_col(position = position_dodge(width = 1), color = "black") +
+  geom_point(data = NCCR.data,
+             aes(x = Species, y = perDay, fill = Treatment, group = factor(Treatment), shape = Experiment),
+             position = position_jitterdodge(jitter.width = 0.5, dodge.width = 1), size = 1, alpha = 0.7) +
+  scale_fill_manual(values = c("#009BFF", "#D10000")) +
+  scale_shape_manual(values = c(1,7,4)) +
+  labs(y = expression(atop("Daily Net Community Calcification Rate", atop("(µmol CaCO"[3]~"cm"^-2~"d"^-1~")")))) +
+  scale_y_continuous(breaks = c(-30, -20, -10, 0, 10, 20, 30)) +
+  theme_pubr() +
+  theme(strip.background = element_blank(),
+        strip.text = element_text(),
+        axis.title.x = element_blank(),
+        legend.position = "none",
+        legend.background = element_blank(),
+        legend.title = element_blank())
+
+car::Anova(lme4::lmer(perDay ~ Treatment  + (1|Experiment), filter(NCCR.data, Species == "Acropora")))
+car::Anova(lme4::lmer(perDay ~ Treatment  + (1|Experiment), filter(NCCR.data, Species == "Porites")))
+```
+
+## Microsensor Figures
+```{r Depth Profiles}
+Depth_Profiles.raw <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>%
+  group_by(Treatment,  Condition, Location, Depth) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+                            labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
+  mutate(Location = factor(Location, levels = c("tissue", "interface_tissue", "interface_algae", "algae"),
+                                     labels = c("Coral Tissue", "Coral Tissue", "Turf Algae", "Turf Algae"))) %>% 
+  # mutate(Location = factor(Location, levels = c("interface_algae", "algae","tissue", "interface_tissue"),
+  #                                    labels = c("Turf Algae", "Turf Algae", "Coral Tissue", "Coral Tissue"))) %>% 
+  mutate(Condition = factor(Condition, levels = c("Dark", "Light"))) %>% 
+  filter(between(Depth, 0, 200))
+
+
+
+
+
+Depth_Profiles <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>%
+  group_by(Treatment,  Condition, Location, Depth) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+                            labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
+  mutate(Location = factor(Location, levels = c("tissue", "interface_tissue", "interface_algae", "algae"),
+                                     labels = c("Coral Tissue", "Coral Tissue", "Turf Algae", "Turf Algae"))) %>% 
+  # mutate(Location = factor(Location, levels = c("interface_algae", "algae","tissue", "interface_tissue"),
+  #                                    labels = c("Turf Algae", "Turf Algae", "Coral Tissue", "Coral Tissue"))) %>% 
+  mutate(Condition = factor(Condition, levels = c("Dark", "Light"))) %>% 
+  filter(between(Depth, 0, 200)) %>%
+    summarise(n = n(), 
+            mean_pH = mean(pH),
+            se_pH = sd(pH)/sqrt(n))
+
+Depth_Profiles.02 <- read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>% filter(Experiment == "Shimoda") %>%
+  group_by(Treatment,  Condition, Location, Depth) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+                            labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
+  mutate(Location = factor(Location, levels = c("tissue", "interface_tissue", "interface_algae", "algae"),
+                                     labels = c("Coral Tissue", "Coral Tissue", "Turf Algae", "Turf Algae"))) %>% 
+  mutate(Condition = factor(Condition, levels = c("Dark", "Light"))) %>% 
+  filter(between(Depth, 0, 200)) %>%
+    summarise(n = n(), 
+            mean_O2 = mean(O2),
+            se_O2 = sd(O2)/sqrt(n))
+```
+
+```{r Microsensor pH, fig.width = 6, fig.height = 2.5}
+ggplot(Depth_Profiles, aes(Depth, mean_pH , color = Treatment, shape = Condition, fill = Condition)) +
+  geom_point(size = 1.5, alpha = 1) +
+  scale_color_manual(values = c("#009BFF", "#D10000")) +
+  scale_fill_manual(values = c("white","white","black", "black")) +
+  geom_errorbar(aes(ymin = mean_pH - se_pH, ymax = mean_pH + se_pH), width = 0, alpha = 1) + 
+  ggh4x::facet_nested(~Location, scales = "free") +
+  scale_y_continuous(breaks = c(7.5,7.6, 7.7,7.8,7.9,8,8.1,8.2,8.3, 8.4,8.5)) +
+  coord_flip() +
+  ylab(expression("Microenvironment pH")) +
+  scale_shape_manual(values=c(16,21))+
+  xlab("Depth (µm)") +
+  theme_pubr() +
+  theme(
+    panel.spacing = unit(1, "lines"),
+    legend.position = c(.5,.8),
+    strip.text = element_text(size = 10, face = "bold"),
+    strip.background = element_blank(),
+    strip.text.y = element_text(angle = 0, hjust = 1),
+    axis.title = element_text(size = 10),
+    axis.text = element_text(size = 8),
+    legend.title = element_blank(),
+    legend.text = element_text(size = 8),
+    legend.box = "vertical",
+    legend.key.size = unit(.1, "cm"),
+    legend.margin = margin(-3,-3,-3,-3, unit = "pt"),
+    legend.spacing = unit(0, "mm"),
+    legend.background = element_blank()
+    ) 
+
+ggsave("figures/pH_microsensor.plot.png", width = 6, height = 2.5)
+```
+
+```{r Microsensor O2, fig.width = 6, fig.height = 2.5}
+ggplot(Depth_Profiles.02, aes(Depth, mean_O2 , color = Treatment, shape = Condition, fill = Condition)) +
+  geom_point(size = 1.5, alpha = 1) +
+  scale_color_manual(values = c("#009BFF", "#D10000")) +
+  scale_fill_manual(values = c("white","white","black", "black")) +
+  geom_errorbar(aes(ymin = mean_O2 - se_O2, ymax = mean_O2 + se_O2), width = 0, alpha = 1) + 
+  ggh4x::facet_nested(~Location, scales = "free") +
+  scale_y_continuous(breaks = c(0,100,200,300,400,500,600,700,800,900)) +
+  coord_flip() +
+  ylab(expression("Microenvironment O"[2] ~"(µmol L"^-1 ~")")) +
+  scale_shape_manual(values=c(16,21))+
+  xlab("Depth (µm)") +
+  theme_pubr() +
+  theme(
+    panel.spacing = unit(1, "lines"),
+    legend.position = c(.5,.8),
+    strip.text = element_text(size = 10, face = "bold"),
+    strip.background = element_blank(),
+    strip.text.y = element_text(angle = 0, hjust = 1),
+    axis.title = element_text(size = 10),
+    axis.text = element_text(size = 8),
+    legend.title = element_blank(),
+    legend.text = element_text(size = 8),
+    legend.box = "vertical",
+    legend.key.size = unit(.1, "cm"),
+    legend.margin = margin(-3,-3,-3,-3, unit = "pt"),
+    legend.spacing = unit(0, "mm"),
+    legend.background = element_blank()
+    )
+
+ggsave("figures/O2_microsensor.plot.png", width = 6, height = 2.5)
+```
+
+## Microsensor Stats (Depth = 0)
+```{r Microsensor Stats, eval=FALSE, include=FALSE}
+# 
+# read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>% filter(Experiment == "Shimoda") %>%
+#   group_by(Treatment,  Condition, Location, Depth) %>%
+#   mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+#                             labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
+#   mutate(Location = factor(Location, levels = c("interface_algae", "algae", "tissue", "interface_tissue"),
+#                                      labels = c("Turf Algae", "Turf Algae", "Coral Tissue", "Coral Tissue"))) %>% 
+#   mutate(Condition = factor(Condition, levels = c("Dark", "Light"),
+#                                      labels = c("Night-time", "Day-time"))) %>%
+#   group_by(Treatment,Condition, Location, Depth) %>%
+#   filter(between(Depth, 0, 200)) %>%
+#   summarise(meanO2 = mean(O2), sdO2 = sd(O2)) %>%
+#   write.csv("misc/O2_microsensor_mean_sd.csv")
+# 
+# read.csv("Microsensor.csv") %>% select(1:9) %>%  drop_na() %>%
+#   mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), 
+#                             labels = c("Present-Day", "Acidified (OA)"), ordered = TRUE))%>%
+#   mutate(Location = factor(Location, levels = c("tissue", "interface_tissue", "interface_algae", "algae"),
+#                                      labels = c("Coral Tissue", "Coral Tissue", "Turf Algae", "Turf Algae"))) %>% 
+#   mutate(Condition = factor(Condition, levels = c("Dark", "Light"),
+#                                      labels = c("Night-time", "Day-time"))) %>%
+#   group_by(Treatment, Condition, Location, Depth) %>%
+#   filter(between(Depth, 0, 200)) %>% 
+#   summarise(meanpH = mean(pH), sdpH = sd(pH)) %>%
+#   write.csv("misc/pH_microsensor_mean_sd.csv")
+
+
+## Compare pH ~ treatment random effect (Experiment, Species)
+MicrosensorZero.data <- read.csv("Microsensor.csv") %>% 
+  select(1:9) %>%  drop_na() %>%
+  group_by(Treatment,  Condition, Location, Depth) %>%
+  mutate(Treatment = factor(Treatment, levels = c("Pr", "OA"), ordered = TRUE)) %>%
+  mutate(Location = factor(Location, levels = c("tissue", "interface_tissue", "interface_algae", "algae"),
+                                     labels = c("coral tissue", "coral tissue", "turf algae", "turf algae")))
+
+car::Anova(lme4::lmer(pH ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Dark",
+                                                               Depth == 0)))
+
+car::Anova(lme4::lmer(pH ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Light",
+                                                               Depth == 0)))
+
+car::Anova(lme4::lmer(pH ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "coral tissue",
+                                                               Condition == "Dark",
+                                                               Depth == 0)))
+
+car::Anova(lme4::lmer(pH ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "coral tissue",
+                                                               Condition == "Light",
+                                                               Depth == 0)))
+
+
+
+## Compare O2
+
+car::Anova(lme4::lmer(O2 ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Dark",
+                                                               Depth == 0)))
+
+car::Anova(lme4::lmer(O2 ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Light",
+                                                               Depth == 0)))
+
+car::Anova(lme4::lmer(O2 ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "coral tissue",
+                                                               Condition == "Dark",
+                                                               Depth == 0)))
+
+car::Anova(lme4::lmer(O2 ~ Treatment  + (Species|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "coral tissue",
+                                                               Condition == "Light",
+                                                               Depth == 0)))
+
+## check
+
+car::Anova(lme4::lmer(pH ~ Treatment  + (1|Experiment), filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Dark")))
+
+car::Anova(lme4::lmer(pH ~ Treatment  + (1|Species), filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Dark")))
+
+car::Anova(lm(pH ~ Treatment, filter(MicrosensorZero.data,
+                                                               Location == "turf algae",
+                                                               Condition == "Dark")))
+```
+
+
+```{r, fig.height = 3, fig.width= 9}
+(Alg_Comp.plot|Accretion.plot|NCCR_combo.plot) +
+  plot_annotation(tag_levels = "A") & theme(
+  strip.background = element_blank(),
+  axis.title = element_text(size = 10),
+  axis.text = element_text(size = 8),
+  axis.text.x = element_text(face = "italic", size = 10),
+  axis.title.x = element_blank(),
+  legend.key.size = unit(.4, "cm"),
+  legend.text = element_text(size = 8),
+  legend.spacing.x = unit(0.05, "cm"))
+
+ggsave("figures/figure_1.plot.png", width = 9, height = 3)
+```
+
+
